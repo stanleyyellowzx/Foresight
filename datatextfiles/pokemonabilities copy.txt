@@ -1,0 +1,2903 @@
+{"dex_num":1,"name":"bulbasaur","ability_name":"overgrow"}
+{"dex_num":1,"name":"bulbasaur","ability_name":"chlorophyll"}
+{"dex_num":2,"name":"ivysaur","ability_name":"overgrow"}
+{"dex_num":2,"name":"ivysaur","ability_name":"chlorophyll"}
+{"dex_num":3,"name":"venusaur","ability_name":"overgrow"}
+{"dex_num":3,"name":"venusaur","ability_name":"chlorophyll"}
+{"dex_num":3,"name":"venusaur mega","ability_name":"thick-fat"}
+{"dex_num":3,"name":"venusaur gmax","ability_name":"overgrow"}
+{"dex_num":3,"name":"venusaur gmax","ability_name":"chlorophyll"}
+{"dex_num":4,"name":"charmander","ability_name":"blaze"}
+{"dex_num":4,"name":"charmander","ability_name":"solar-power"}
+{"dex_num":5,"name":"charmeleon","ability_name":"blaze"}
+{"dex_num":5,"name":"charmeleon","ability_name":"solar-power"}
+{"dex_num":6,"name":"charizard","ability_name":"blaze"}
+{"dex_num":6,"name":"charizard","ability_name":"solar-power"}
+{"dex_num":6,"name":"charizard mega x","ability_name":"tough-claws"}
+{"dex_num":6,"name":"charizard mega y","ability_name":"drought"}
+{"dex_num":6,"name":"charizard gmax","ability_name":"blaze"}
+{"dex_num":6,"name":"charizard gmax","ability_name":"solar-power"}
+{"dex_num":7,"name":"squirtle","ability_name":"torrent"}
+{"dex_num":7,"name":"squirtle","ability_name":"rain-dish"}
+{"dex_num":8,"name":"wartortle","ability_name":"torrent"}
+{"dex_num":8,"name":"wartortle","ability_name":"rain-dish"}
+{"dex_num":9,"name":"blastoise","ability_name":"torrent"}
+{"dex_num":9,"name":"blastoise","ability_name":"rain-dish"}
+{"dex_num":9,"name":"blastoise mega","ability_name":"mega-launcher"}
+{"dex_num":9,"name":"blastoise gmax","ability_name":"torrent"}
+{"dex_num":9,"name":"blastoise gmax","ability_name":"rain-dish"}
+{"dex_num":10,"name":"caterpie","ability_name":"shield-dust"}
+{"dex_num":10,"name":"caterpie","ability_name":"run-away"}
+{"dex_num":11,"name":"metapod","ability_name":"shed-skin"}
+{"dex_num":12,"name":"butterfree","ability_name":"compound-eyes"}
+{"dex_num":12,"name":"butterfree","ability_name":"tinted-lens"}
+{"dex_num":12,"name":"butterfree gmax","ability_name":"compound-eyes"}
+{"dex_num":12,"name":"butterfree gmax","ability_name":"tinted-lens"}
+{"dex_num":13,"name":"weedle","ability_name":"shield-dust"}
+{"dex_num":13,"name":"weedle","ability_name":"run-away"}
+{"dex_num":14,"name":"kakuna","ability_name":"shed-skin"}
+{"dex_num":15,"name":"beedrill","ability_name":"swarm"}
+{"dex_num":15,"name":"beedrill","ability_name":"sniper"}
+{"dex_num":15,"name":"beedrill mega","ability_name":"adaptability"}
+{"dex_num":16,"name":"pidgey","ability_name":"keen-eye"}
+{"dex_num":16,"name":"pidgey","ability_name":"tangled-feet"}
+{"dex_num":16,"name":"pidgey","ability_name":"big-pecks"}
+{"dex_num":17,"name":"pidgeotto","ability_name":"keen-eye"}
+{"dex_num":17,"name":"pidgeotto","ability_name":"tangled-feet"}
+{"dex_num":17,"name":"pidgeotto","ability_name":"big-pecks"}
+{"dex_num":18,"name":"pidgeot","ability_name":"keen-eye"}
+{"dex_num":18,"name":"pidgeot","ability_name":"tangled-feet"}
+{"dex_num":18,"name":"pidgeot","ability_name":"big-pecks"}
+{"dex_num":18,"name":"pidgeot mega","ability_name":"no-guard"}
+{"dex_num":19,"name":"rattata","ability_name":"run-away"}
+{"dex_num":19,"name":"rattata","ability_name":"guts"}
+{"dex_num":19,"name":"rattata","ability_name":"hustle"}
+{"dex_num":19,"name":"rattata alola","ability_name":"gluttony"}
+{"dex_num":19,"name":"rattata alola","ability_name":"hustle"}
+{"dex_num":19,"name":"rattata alola","ability_name":"thick-fat"}
+{"dex_num":20,"name":"raticate","ability_name":"run-away"}
+{"dex_num":20,"name":"raticate","ability_name":"guts"}
+{"dex_num":20,"name":"raticate","ability_name":"hustle"}
+{"dex_num":20,"name":"raticate alola","ability_name":"gluttony"}
+{"dex_num":20,"name":"raticate alola","ability_name":"hustle"}
+{"dex_num":20,"name":"raticate alola","ability_name":"thick-fat"}
+{"dex_num":20,"name":"raticate totem alola","ability_name":"gluttony"}
+{"dex_num":20,"name":"raticate totem alola","ability_name":"hustle"}
+{"dex_num":20,"name":"raticate totem alola","ability_name":"thick-fat"}
+{"dex_num":21,"name":"spearow","ability_name":"keen-eye"}
+{"dex_num":21,"name":"spearow","ability_name":"sniper"}
+{"dex_num":22,"name":"fearow","ability_name":"keen-eye"}
+{"dex_num":22,"name":"fearow","ability_name":"sniper"}
+{"dex_num":23,"name":"ekans","ability_name":"intimidate"}
+{"dex_num":23,"name":"ekans","ability_name":"shed-skin"}
+{"dex_num":23,"name":"ekans","ability_name":"unnerve"}
+{"dex_num":24,"name":"arbok","ability_name":"intimidate"}
+{"dex_num":24,"name":"arbok","ability_name":"shed-skin"}
+{"dex_num":24,"name":"arbok","ability_name":"unnerve"}
+{"dex_num":25,"name":"pikachu","ability_name":"static"}
+{"dex_num":25,"name":"pikachu","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu rock star","ability_name":"static"}
+{"dex_num":25,"name":"pikachu rock star","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu belle","ability_name":"static"}
+{"dex_num":25,"name":"pikachu belle","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu pop star","ability_name":"static"}
+{"dex_num":25,"name":"pikachu pop star","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu phd","ability_name":"static"}
+{"dex_num":25,"name":"pikachu phd","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu libre","ability_name":"static"}
+{"dex_num":25,"name":"pikachu libre","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu cosplay","ability_name":"static"}
+{"dex_num":25,"name":"pikachu cosplay","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu original cap","ability_name":"static"}
+{"dex_num":25,"name":"pikachu original cap","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu hoenn cap","ability_name":"static"}
+{"dex_num":25,"name":"pikachu hoenn cap","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu sinnoh cap","ability_name":"static"}
+{"dex_num":25,"name":"pikachu sinnoh cap","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu unova cap","ability_name":"static"}
+{"dex_num":25,"name":"pikachu unova cap","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu kalos cap","ability_name":"static"}
+{"dex_num":25,"name":"pikachu kalos cap","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu alola cap","ability_name":"static"}
+{"dex_num":25,"name":"pikachu alola cap","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu partner cap","ability_name":"static"}
+{"dex_num":25,"name":"pikachu partner cap","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu starter","ability_name":"static"}
+{"dex_num":25,"name":"pikachu starter","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu world cap","ability_name":"static"}
+{"dex_num":25,"name":"pikachu world cap","ability_name":"lightning-rod"}
+{"dex_num":25,"name":"pikachu gmax","ability_name":"static"}
+{"dex_num":25,"name":"pikachu gmax","ability_name":"lightning-rod"}
+{"dex_num":26,"name":"raichu","ability_name":"static"}
+{"dex_num":26,"name":"raichu","ability_name":"lightning-rod"}
+{"dex_num":26,"name":"raichu alola","ability_name":"surge-surfer"}
+{"dex_num":27,"name":"sandshrew","ability_name":"sand-veil"}
+{"dex_num":27,"name":"sandshrew","ability_name":"sand-rush"}
+{"dex_num":27,"name":"sandshrew alola","ability_name":"snow-cloak"}
+{"dex_num":27,"name":"sandshrew alola","ability_name":"slush-rush"}
+{"dex_num":28,"name":"sandslash","ability_name":"sand-veil"}
+{"dex_num":28,"name":"sandslash","ability_name":"sand-rush"}
+{"dex_num":28,"name":"sandslash alola","ability_name":"snow-cloak"}
+{"dex_num":28,"name":"sandslash alola","ability_name":"slush-rush"}
+{"dex_num":29,"name":"nidoran f","ability_name":"poison-point"}
+{"dex_num":29,"name":"nidoran f","ability_name":"rivalry"}
+{"dex_num":29,"name":"nidoran f","ability_name":"hustle"}
+{"dex_num":30,"name":"nidorina","ability_name":"poison-point"}
+{"dex_num":30,"name":"nidorina","ability_name":"rivalry"}
+{"dex_num":30,"name":"nidorina","ability_name":"hustle"}
+{"dex_num":31,"name":"nidoqueen","ability_name":"poison-point"}
+{"dex_num":31,"name":"nidoqueen","ability_name":"rivalry"}
+{"dex_num":31,"name":"nidoqueen","ability_name":"sheer-force"}
+{"dex_num":32,"name":"nidoran m","ability_name":"poison-point"}
+{"dex_num":32,"name":"nidoran m","ability_name":"rivalry"}
+{"dex_num":32,"name":"nidoran m","ability_name":"hustle"}
+{"dex_num":33,"name":"nidorino","ability_name":"poison-point"}
+{"dex_num":33,"name":"nidorino","ability_name":"rivalry"}
+{"dex_num":33,"name":"nidorino","ability_name":"hustle"}
+{"dex_num":34,"name":"nidoking","ability_name":"poison-point"}
+{"dex_num":34,"name":"nidoking","ability_name":"rivalry"}
+{"dex_num":34,"name":"nidoking","ability_name":"sheer-force"}
+{"dex_num":35,"name":"clefairy","ability_name":"cute-charm"}
+{"dex_num":35,"name":"clefairy","ability_name":"magic-guard"}
+{"dex_num":35,"name":"clefairy","ability_name":"friend-guard"}
+{"dex_num":36,"name":"clefable","ability_name":"cute-charm"}
+{"dex_num":36,"name":"clefable","ability_name":"magic-guard"}
+{"dex_num":36,"name":"clefable","ability_name":"unaware"}
+{"dex_num":37,"name":"vulpix","ability_name":"flash-fire"}
+{"dex_num":37,"name":"vulpix","ability_name":"drought"}
+{"dex_num":37,"name":"vulpix alola","ability_name":"snow-cloak"}
+{"dex_num":37,"name":"vulpix alola","ability_name":"snow-warning"}
+{"dex_num":38,"name":"ninetales","ability_name":"flash-fire"}
+{"dex_num":38,"name":"ninetales","ability_name":"drought"}
+{"dex_num":38,"name":"ninetales alola","ability_name":"snow-cloak"}
+{"dex_num":38,"name":"ninetales alola","ability_name":"snow-warning"}
+{"dex_num":39,"name":"jigglypuff","ability_name":"cute-charm"}
+{"dex_num":39,"name":"jigglypuff","ability_name":"competitive"}
+{"dex_num":39,"name":"jigglypuff","ability_name":"friend-guard"}
+{"dex_num":40,"name":"wigglytuff","ability_name":"cute-charm"}
+{"dex_num":40,"name":"wigglytuff","ability_name":"competitive"}
+{"dex_num":40,"name":"wigglytuff","ability_name":"frisk"}
+{"dex_num":41,"name":"zubat","ability_name":"inner-focus"}
+{"dex_num":41,"name":"zubat","ability_name":"infiltrator"}
+{"dex_num":42,"name":"golbat","ability_name":"inner-focus"}
+{"dex_num":42,"name":"golbat","ability_name":"infiltrator"}
+{"dex_num":43,"name":"oddish","ability_name":"chlorophyll"}
+{"dex_num":43,"name":"oddish","ability_name":"run-away"}
+{"dex_num":44,"name":"gloom","ability_name":"chlorophyll"}
+{"dex_num":44,"name":"gloom","ability_name":"stench"}
+{"dex_num":45,"name":"vileplume","ability_name":"chlorophyll"}
+{"dex_num":45,"name":"vileplume","ability_name":"effect-spore"}
+{"dex_num":46,"name":"paras","ability_name":"effect-spore"}
+{"dex_num":46,"name":"paras","ability_name":"dry-skin"}
+{"dex_num":46,"name":"paras","ability_name":"damp"}
+{"dex_num":47,"name":"parasect","ability_name":"effect-spore"}
+{"dex_num":47,"name":"parasect","ability_name":"dry-skin"}
+{"dex_num":47,"name":"parasect","ability_name":"damp"}
+{"dex_num":48,"name":"venonat","ability_name":"compound-eyes"}
+{"dex_num":48,"name":"venonat","ability_name":"tinted-lens"}
+{"dex_num":48,"name":"venonat","ability_name":"run-away"}
+{"dex_num":49,"name":"venomoth","ability_name":"shield-dust"}
+{"dex_num":49,"name":"venomoth","ability_name":"tinted-lens"}
+{"dex_num":49,"name":"venomoth","ability_name":"wonder-skin"}
+{"dex_num":50,"name":"diglett","ability_name":"sand-veil"}
+{"dex_num":50,"name":"diglett","ability_name":"arena-trap"}
+{"dex_num":50,"name":"diglett","ability_name":"sand-force"}
+{"dex_num":50,"name":"diglett alola","ability_name":"sand-veil"}
+{"dex_num":50,"name":"diglett alola","ability_name":"tangling-hair"}
+{"dex_num":50,"name":"diglett alola","ability_name":"sand-force"}
+{"dex_num":51,"name":"dugtrio","ability_name":"sand-veil"}
+{"dex_num":51,"name":"dugtrio","ability_name":"arena-trap"}
+{"dex_num":51,"name":"dugtrio","ability_name":"sand-force"}
+{"dex_num":51,"name":"dugtrio alola","ability_name":"sand-veil"}
+{"dex_num":51,"name":"dugtrio alola","ability_name":"tangling-hair"}
+{"dex_num":51,"name":"dugtrio alola","ability_name":"sand-force"}
+{"dex_num":52,"name":"meowth","ability_name":"pickup"}
+{"dex_num":52,"name":"meowth","ability_name":"technician"}
+{"dex_num":52,"name":"meowth","ability_name":"unnerve"}
+{"dex_num":52,"name":"meowth alola","ability_name":"pickup"}
+{"dex_num":52,"name":"meowth alola","ability_name":"technician"}
+{"dex_num":52,"name":"meowth alola","ability_name":"rattled"}
+{"dex_num":52,"name":"meowth galar","ability_name":"pickup"}
+{"dex_num":52,"name":"meowth galar","ability_name":"tough-claws"}
+{"dex_num":52,"name":"meowth galar","ability_name":"unnerve"}
+{"dex_num":52,"name":"meowth gmax","ability_name":"pickup"}
+{"dex_num":52,"name":"meowth gmax","ability_name":"technician"}
+{"dex_num":52,"name":"meowth gmax","ability_name":"unnerve"}
+{"dex_num":53,"name":"persian","ability_name":"limber"}
+{"dex_num":53,"name":"persian","ability_name":"technician"}
+{"dex_num":53,"name":"persian","ability_name":"unnerve"}
+{"dex_num":53,"name":"persian alola","ability_name":"fur-coat"}
+{"dex_num":53,"name":"persian alola","ability_name":"technician"}
+{"dex_num":53,"name":"persian alola","ability_name":"rattled"}
+{"dex_num":54,"name":"psyduck","ability_name":"damp"}
+{"dex_num":54,"name":"psyduck","ability_name":"cloud-nine"}
+{"dex_num":54,"name":"psyduck","ability_name":"swift-swim"}
+{"dex_num":55,"name":"golduck","ability_name":"damp"}
+{"dex_num":55,"name":"golduck","ability_name":"cloud-nine"}
+{"dex_num":55,"name":"golduck","ability_name":"swift-swim"}
+{"dex_num":56,"name":"mankey","ability_name":"vital-spirit"}
+{"dex_num":56,"name":"mankey","ability_name":"anger-point"}
+{"dex_num":56,"name":"mankey","ability_name":"defiant"}
+{"dex_num":57,"name":"primeape","ability_name":"vital-spirit"}
+{"dex_num":57,"name":"primeape","ability_name":"anger-point"}
+{"dex_num":57,"name":"primeape","ability_name":"defiant"}
+{"dex_num":58,"name":"growlithe","ability_name":"intimidate"}
+{"dex_num":58,"name":"growlithe","ability_name":"flash-fire"}
+{"dex_num":58,"name":"growlithe","ability_name":"justified"}
+{"dex_num":58,"name":"growlithe hisui","ability_name":"intimidate"}
+{"dex_num":58,"name":"growlithe hisui","ability_name":"flash-fire"}
+{"dex_num":58,"name":"growlithe hisui","ability_name":"rock-head"}
+{"dex_num":59,"name":"arcanine","ability_name":"intimidate"}
+{"dex_num":59,"name":"arcanine","ability_name":"flash-fire"}
+{"dex_num":59,"name":"arcanine","ability_name":"justified"}
+{"dex_num":59,"name":"arcanine hisui","ability_name":"intimidate"}
+{"dex_num":59,"name":"arcanine hisui","ability_name":"flash-fire"}
+{"dex_num":59,"name":"arcanine hisui","ability_name":"rock-head"}
+{"dex_num":60,"name":"poliwag","ability_name":"water-absorb"}
+{"dex_num":60,"name":"poliwag","ability_name":"damp"}
+{"dex_num":60,"name":"poliwag","ability_name":"swift-swim"}
+{"dex_num":61,"name":"poliwhirl","ability_name":"water-absorb"}
+{"dex_num":61,"name":"poliwhirl","ability_name":"damp"}
+{"dex_num":61,"name":"poliwhirl","ability_name":"swift-swim"}
+{"dex_num":62,"name":"poliwrath","ability_name":"water-absorb"}
+{"dex_num":62,"name":"poliwrath","ability_name":"damp"}
+{"dex_num":62,"name":"poliwrath","ability_name":"swift-swim"}
+{"dex_num":63,"name":"abra","ability_name":"synchronize"}
+{"dex_num":63,"name":"abra","ability_name":"inner-focus"}
+{"dex_num":63,"name":"abra","ability_name":"magic-guard"}
+{"dex_num":64,"name":"kadabra","ability_name":"synchronize"}
+{"dex_num":64,"name":"kadabra","ability_name":"inner-focus"}
+{"dex_num":64,"name":"kadabra","ability_name":"magic-guard"}
+{"dex_num":65,"name":"alakazam","ability_name":"synchronize"}
+{"dex_num":65,"name":"alakazam","ability_name":"inner-focus"}
+{"dex_num":65,"name":"alakazam","ability_name":"magic-guard"}
+{"dex_num":65,"name":"alakazam mega","ability_name":"trace"}
+{"dex_num":66,"name":"machop","ability_name":"guts"}
+{"dex_num":66,"name":"machop","ability_name":"no-guard"}
+{"dex_num":66,"name":"machop","ability_name":"steadfast"}
+{"dex_num":67,"name":"machoke","ability_name":"guts"}
+{"dex_num":67,"name":"machoke","ability_name":"no-guard"}
+{"dex_num":67,"name":"machoke","ability_name":"steadfast"}
+{"dex_num":68,"name":"machamp","ability_name":"guts"}
+{"dex_num":68,"name":"machamp","ability_name":"no-guard"}
+{"dex_num":68,"name":"machamp","ability_name":"steadfast"}
+{"dex_num":68,"name":"machamp gmax","ability_name":"guts"}
+{"dex_num":68,"name":"machamp gmax","ability_name":"no-guard"}
+{"dex_num":68,"name":"machamp gmax","ability_name":"steadfast"}
+{"dex_num":69,"name":"bellsprout","ability_name":"chlorophyll"}
+{"dex_num":69,"name":"bellsprout","ability_name":"gluttony"}
+{"dex_num":70,"name":"weepinbell","ability_name":"chlorophyll"}
+{"dex_num":70,"name":"weepinbell","ability_name":"gluttony"}
+{"dex_num":71,"name":"victreebel","ability_name":"chlorophyll"}
+{"dex_num":71,"name":"victreebel","ability_name":"gluttony"}
+{"dex_num":72,"name":"tentacool","ability_name":"clear-body"}
+{"dex_num":72,"name":"tentacool","ability_name":"liquid-ooze"}
+{"dex_num":72,"name":"tentacool","ability_name":"rain-dish"}
+{"dex_num":73,"name":"tentacruel","ability_name":"clear-body"}
+{"dex_num":73,"name":"tentacruel","ability_name":"liquid-ooze"}
+{"dex_num":73,"name":"tentacruel","ability_name":"rain-dish"}
+{"dex_num":74,"name":"geodude","ability_name":"rock-head"}
+{"dex_num":74,"name":"geodude","ability_name":"sturdy"}
+{"dex_num":74,"name":"geodude","ability_name":"sand-veil"}
+{"dex_num":74,"name":"geodude alola","ability_name":"magnet-pull"}
+{"dex_num":74,"name":"geodude alola","ability_name":"sturdy"}
+{"dex_num":74,"name":"geodude alola","ability_name":"galvanize"}
+{"dex_num":75,"name":"graveler","ability_name":"rock-head"}
+{"dex_num":75,"name":"graveler","ability_name":"sturdy"}
+{"dex_num":75,"name":"graveler","ability_name":"sand-veil"}
+{"dex_num":75,"name":"graveler alola","ability_name":"magnet-pull"}
+{"dex_num":75,"name":"graveler alola","ability_name":"sturdy"}
+{"dex_num":75,"name":"graveler alola","ability_name":"galvanize"}
+{"dex_num":76,"name":"golem","ability_name":"rock-head"}
+{"dex_num":76,"name":"golem","ability_name":"sturdy"}
+{"dex_num":76,"name":"golem","ability_name":"sand-veil"}
+{"dex_num":76,"name":"golem alola","ability_name":"magnet-pull"}
+{"dex_num":76,"name":"golem alola","ability_name":"sturdy"}
+{"dex_num":76,"name":"golem alola","ability_name":"galvanize"}
+{"dex_num":77,"name":"ponyta","ability_name":"run-away"}
+{"dex_num":77,"name":"ponyta","ability_name":"flash-fire"}
+{"dex_num":77,"name":"ponyta","ability_name":"flame-body"}
+{"dex_num":77,"name":"ponyta galar","ability_name":"run-away"}
+{"dex_num":77,"name":"ponyta galar","ability_name":"pastel-veil"}
+{"dex_num":77,"name":"ponyta galar","ability_name":"anticipation"}
+{"dex_num":78,"name":"rapidash","ability_name":"run-away"}
+{"dex_num":78,"name":"rapidash","ability_name":"flash-fire"}
+{"dex_num":78,"name":"rapidash","ability_name":"flame-body"}
+{"dex_num":78,"name":"rapidash galar","ability_name":"run-away"}
+{"dex_num":78,"name":"rapidash galar","ability_name":"pastel-veil"}
+{"dex_num":78,"name":"rapidash galar","ability_name":"anticipation"}
+{"dex_num":79,"name":"slowpoke","ability_name":"oblivious"}
+{"dex_num":79,"name":"slowpoke","ability_name":"own-tempo"}
+{"dex_num":79,"name":"slowpoke","ability_name":"regenerator"}
+{"dex_num":79,"name":"slowpoke galar","ability_name":"gluttony"}
+{"dex_num":79,"name":"slowpoke galar","ability_name":"own-tempo"}
+{"dex_num":79,"name":"slowpoke galar","ability_name":"regenerator"}
+{"dex_num":80,"name":"slowbro","ability_name":"oblivious"}
+{"dex_num":80,"name":"slowbro","ability_name":"own-tempo"}
+{"dex_num":80,"name":"slowbro","ability_name":"regenerator"}
+{"dex_num":80,"name":"slowbro mega","ability_name":"shell-armor"}
+{"dex_num":80,"name":"slowbro galar","ability_name":"quick-draw"}
+{"dex_num":80,"name":"slowbro galar","ability_name":"own-tempo"}
+{"dex_num":80,"name":"slowbro galar","ability_name":"regenerator"}
+{"dex_num":81,"name":"magnemite","ability_name":"magnet-pull"}
+{"dex_num":81,"name":"magnemite","ability_name":"sturdy"}
+{"dex_num":81,"name":"magnemite","ability_name":"analytic"}
+{"dex_num":82,"name":"magneton","ability_name":"magnet-pull"}
+{"dex_num":82,"name":"magneton","ability_name":"sturdy"}
+{"dex_num":82,"name":"magneton","ability_name":"analytic"}
+{"dex_num":83,"name":"farfetchd","ability_name":"keen-eye"}
+{"dex_num":83,"name":"farfetchd","ability_name":"inner-focus"}
+{"dex_num":83,"name":"farfetchd","ability_name":"defiant"}
+{"dex_num":83,"name":"farfetchd galar","ability_name":"steadfast"}
+{"dex_num":83,"name":"farfetchd galar","ability_name":"scrappy"}
+{"dex_num":84,"name":"doduo","ability_name":"run-away"}
+{"dex_num":84,"name":"doduo","ability_name":"early-bird"}
+{"dex_num":84,"name":"doduo","ability_name":"tangled-feet"}
+{"dex_num":85,"name":"dodrio","ability_name":"run-away"}
+{"dex_num":85,"name":"dodrio","ability_name":"early-bird"}
+{"dex_num":85,"name":"dodrio","ability_name":"tangled-feet"}
+{"dex_num":86,"name":"seel","ability_name":"thick-fat"}
+{"dex_num":86,"name":"seel","ability_name":"hydration"}
+{"dex_num":86,"name":"seel","ability_name":"ice-body"}
+{"dex_num":87,"name":"dewgong","ability_name":"thick-fat"}
+{"dex_num":87,"name":"dewgong","ability_name":"hydration"}
+{"dex_num":87,"name":"dewgong","ability_name":"ice-body"}
+{"dex_num":88,"name":"grimer","ability_name":"stench"}
+{"dex_num":88,"name":"grimer","ability_name":"sticky-hold"}
+{"dex_num":88,"name":"grimer","ability_name":"poison-touch"}
+{"dex_num":88,"name":"grimer alola","ability_name":"poison-touch"}
+{"dex_num":88,"name":"grimer alola","ability_name":"gluttony"}
+{"dex_num":88,"name":"grimer alola","ability_name":"power-of-alchemy"}
+{"dex_num":89,"name":"muk","ability_name":"stench"}
+{"dex_num":89,"name":"muk","ability_name":"sticky-hold"}
+{"dex_num":89,"name":"muk","ability_name":"poison-touch"}
+{"dex_num":89,"name":"muk alola","ability_name":"poison-touch"}
+{"dex_num":89,"name":"muk alola","ability_name":"gluttony"}
+{"dex_num":89,"name":"muk alola","ability_name":"power-of-alchemy"}
+{"dex_num":90,"name":"shellder","ability_name":"shell-armor"}
+{"dex_num":90,"name":"shellder","ability_name":"skill-link"}
+{"dex_num":90,"name":"shellder","ability_name":"overcoat"}
+{"dex_num":91,"name":"cloyster","ability_name":"shell-armor"}
+{"dex_num":91,"name":"cloyster","ability_name":"skill-link"}
+{"dex_num":91,"name":"cloyster","ability_name":"overcoat"}
+{"dex_num":92,"name":"gastly","ability_name":"levitate"}
+{"dex_num":93,"name":"haunter","ability_name":"levitate"}
+{"dex_num":94,"name":"gengar","ability_name":"cursed-body"}
+{"dex_num":94,"name":"gengar mega","ability_name":"shadow-tag"}
+{"dex_num":94,"name":"gengar gmax","ability_name":"cursed-body"}
+{"dex_num":95,"name":"onix","ability_name":"rock-head"}
+{"dex_num":95,"name":"onix","ability_name":"sturdy"}
+{"dex_num":95,"name":"onix","ability_name":"weak-armor"}
+{"dex_num":96,"name":"drowzee","ability_name":"insomnia"}
+{"dex_num":96,"name":"drowzee","ability_name":"forewarn"}
+{"dex_num":96,"name":"drowzee","ability_name":"inner-focus"}
+{"dex_num":97,"name":"hypno","ability_name":"insomnia"}
+{"dex_num":97,"name":"hypno","ability_name":"forewarn"}
+{"dex_num":97,"name":"hypno","ability_name":"inner-focus"}
+{"dex_num":98,"name":"krabby","ability_name":"hyper-cutter"}
+{"dex_num":98,"name":"krabby","ability_name":"shell-armor"}
+{"dex_num":98,"name":"krabby","ability_name":"sheer-force"}
+{"dex_num":99,"name":"kingler","ability_name":"hyper-cutter"}
+{"dex_num":99,"name":"kingler","ability_name":"shell-armor"}
+{"dex_num":99,"name":"kingler","ability_name":"sheer-force"}
+{"dex_num":99,"name":"kingler gmax","ability_name":"hyper-cutter"}
+{"dex_num":99,"name":"kingler gmax","ability_name":"shell-armor"}
+{"dex_num":99,"name":"kingler gmax","ability_name":"sheer-force"}
+{"dex_num":100,"name":"voltorb","ability_name":"soundproof"}
+{"dex_num":100,"name":"voltorb","ability_name":"static"}
+{"dex_num":100,"name":"voltorb","ability_name":"aftermath"}
+{"dex_num":100,"name":"voltorb hisui","ability_name":"soundproof"}
+{"dex_num":100,"name":"voltorb hisui","ability_name":"static"}
+{"dex_num":100,"name":"voltorb hisui","ability_name":"aftermath"}
+{"dex_num":101,"name":"electrode","ability_name":"soundproof"}
+{"dex_num":101,"name":"electrode","ability_name":"static"}
+{"dex_num":101,"name":"electrode","ability_name":"aftermath"}
+{"dex_num":101,"name":"electrode hisui","ability_name":"soundproof"}
+{"dex_num":101,"name":"electrode hisui","ability_name":"static"}
+{"dex_num":101,"name":"electrode hisui","ability_name":"aftermath"}
+{"dex_num":102,"name":"exeggcute","ability_name":"chlorophyll"}
+{"dex_num":102,"name":"exeggcute","ability_name":"harvest"}
+{"dex_num":103,"name":"exeggutor","ability_name":"chlorophyll"}
+{"dex_num":103,"name":"exeggutor","ability_name":"harvest"}
+{"dex_num":103,"name":"exeggutor alola","ability_name":"frisk"}
+{"dex_num":103,"name":"exeggutor alola","ability_name":"harvest"}
+{"dex_num":104,"name":"cubone","ability_name":"rock-head"}
+{"dex_num":104,"name":"cubone","ability_name":"lightning-rod"}
+{"dex_num":104,"name":"cubone","ability_name":"battle-armor"}
+{"dex_num":105,"name":"marowak","ability_name":"rock-head"}
+{"dex_num":105,"name":"marowak","ability_name":"lightning-rod"}
+{"dex_num":105,"name":"marowak","ability_name":"battle-armor"}
+{"dex_num":105,"name":"marowak alola","ability_name":"cursed-body"}
+{"dex_num":105,"name":"marowak alola","ability_name":"lightning-rod"}
+{"dex_num":105,"name":"marowak alola","ability_name":"rock-head"}
+{"dex_num":105,"name":"marowak totem","ability_name":"cursed-body"}
+{"dex_num":105,"name":"marowak totem","ability_name":"lightning-rod"}
+{"dex_num":105,"name":"marowak totem","ability_name":"rock-head"}
+{"dex_num":106,"name":"hitmonlee","ability_name":"limber"}
+{"dex_num":106,"name":"hitmonlee","ability_name":"reckless"}
+{"dex_num":106,"name":"hitmonlee","ability_name":"unburden"}
+{"dex_num":107,"name":"hitmonchan","ability_name":"keen-eye"}
+{"dex_num":107,"name":"hitmonchan","ability_name":"iron-fist"}
+{"dex_num":107,"name":"hitmonchan","ability_name":"inner-focus"}
+{"dex_num":108,"name":"lickitung","ability_name":"own-tempo"}
+{"dex_num":108,"name":"lickitung","ability_name":"oblivious"}
+{"dex_num":108,"name":"lickitung","ability_name":"cloud-nine"}
+{"dex_num":109,"name":"koffing","ability_name":"levitate"}
+{"dex_num":109,"name":"koffing","ability_name":"neutralizing-gas"}
+{"dex_num":109,"name":"koffing","ability_name":"stench"}
+{"dex_num":110,"name":"weezing","ability_name":"levitate"}
+{"dex_num":110,"name":"weezing","ability_name":"neutralizing-gas"}
+{"dex_num":110,"name":"weezing","ability_name":"stench"}
+{"dex_num":110,"name":"weezing galar","ability_name":"levitate"}
+{"dex_num":110,"name":"weezing galar","ability_name":"neutralizing-gas"}
+{"dex_num":110,"name":"weezing galar","ability_name":"misty-surge"}
+{"dex_num":111,"name":"rhyhorn","ability_name":"lightning-rod"}
+{"dex_num":111,"name":"rhyhorn","ability_name":"rock-head"}
+{"dex_num":111,"name":"rhyhorn","ability_name":"reckless"}
+{"dex_num":112,"name":"rhydon","ability_name":"lightning-rod"}
+{"dex_num":112,"name":"rhydon","ability_name":"rock-head"}
+{"dex_num":112,"name":"rhydon","ability_name":"reckless"}
+{"dex_num":113,"name":"chansey","ability_name":"natural-cure"}
+{"dex_num":113,"name":"chansey","ability_name":"serene-grace"}
+{"dex_num":113,"name":"chansey","ability_name":"healer"}
+{"dex_num":114,"name":"tangela","ability_name":"chlorophyll"}
+{"dex_num":114,"name":"tangela","ability_name":"leaf-guard"}
+{"dex_num":114,"name":"tangela","ability_name":"regenerator"}
+{"dex_num":115,"name":"kangaskhan","ability_name":"early-bird"}
+{"dex_num":115,"name":"kangaskhan","ability_name":"scrappy"}
+{"dex_num":115,"name":"kangaskhan","ability_name":"inner-focus"}
+{"dex_num":115,"name":"kangaskhan mega","ability_name":"parental-bond"}
+{"dex_num":116,"name":"horsea","ability_name":"swift-swim"}
+{"dex_num":116,"name":"horsea","ability_name":"sniper"}
+{"dex_num":116,"name":"horsea","ability_name":"damp"}
+{"dex_num":117,"name":"seadra","ability_name":"poison-point"}
+{"dex_num":117,"name":"seadra","ability_name":"sniper"}
+{"dex_num":117,"name":"seadra","ability_name":"damp"}
+{"dex_num":118,"name":"goldeen","ability_name":"swift-swim"}
+{"dex_num":118,"name":"goldeen","ability_name":"water-veil"}
+{"dex_num":118,"name":"goldeen","ability_name":"lightning-rod"}
+{"dex_num":119,"name":"seaking","ability_name":"swift-swim"}
+{"dex_num":119,"name":"seaking","ability_name":"water-veil"}
+{"dex_num":119,"name":"seaking","ability_name":"lightning-rod"}
+{"dex_num":120,"name":"staryu","ability_name":"illuminate"}
+{"dex_num":120,"name":"staryu","ability_name":"natural-cure"}
+{"dex_num":120,"name":"staryu","ability_name":"analytic"}
+{"dex_num":121,"name":"starmie","ability_name":"illuminate"}
+{"dex_num":121,"name":"starmie","ability_name":"natural-cure"}
+{"dex_num":121,"name":"starmie","ability_name":"analytic"}
+{"dex_num":122,"name":"mr mime","ability_name":"soundproof"}
+{"dex_num":122,"name":"mr mime","ability_name":"filter"}
+{"dex_num":122,"name":"mr mime","ability_name":"technician"}
+{"dex_num":122,"name":"mr mime galar","ability_name":"vital-spirit"}
+{"dex_num":122,"name":"mr mime galar","ability_name":"screen-cleaner"}
+{"dex_num":122,"name":"mr mime galar","ability_name":"ice-body"}
+{"dex_num":123,"name":"scyther","ability_name":"swarm"}
+{"dex_num":123,"name":"scyther","ability_name":"technician"}
+{"dex_num":123,"name":"scyther","ability_name":"steadfast"}
+{"dex_num":124,"name":"jynx","ability_name":"oblivious"}
+{"dex_num":124,"name":"jynx","ability_name":"forewarn"}
+{"dex_num":124,"name":"jynx","ability_name":"dry-skin"}
+{"dex_num":125,"name":"electabuzz","ability_name":"static"}
+{"dex_num":125,"name":"electabuzz","ability_name":"vital-spirit"}
+{"dex_num":126,"name":"magmar","ability_name":"flame-body"}
+{"dex_num":126,"name":"magmar","ability_name":"vital-spirit"}
+{"dex_num":127,"name":"pinsir","ability_name":"hyper-cutter"}
+{"dex_num":127,"name":"pinsir","ability_name":"mold-breaker"}
+{"dex_num":127,"name":"pinsir","ability_name":"moxie"}
+{"dex_num":127,"name":"pinsir mega","ability_name":"aerilate"}
+{"dex_num":128,"name":"tauros","ability_name":"intimidate"}
+{"dex_num":128,"name":"tauros","ability_name":"anger-point"}
+{"dex_num":128,"name":"tauros","ability_name":"sheer-force"}
+{"dex_num":128,"name":"tauros paldea combat breed","ability_name":"intimidate"}
+{"dex_num":128,"name":"tauros paldea combat breed","ability_name":"anger-point"}
+{"dex_num":128,"name":"tauros paldea combat breed","ability_name":"cud-chew"}
+{"dex_num":128,"name":"tauros paldea blaze breed","ability_name":"intimidate"}
+{"dex_num":128,"name":"tauros paldea blaze breed","ability_name":"anger-point"}
+{"dex_num":128,"name":"tauros paldea blaze breed","ability_name":"cud-chew"}
+{"dex_num":128,"name":"tauros paldea aqua breed","ability_name":"intimidate"}
+{"dex_num":128,"name":"tauros paldea aqua breed","ability_name":"anger-point"}
+{"dex_num":128,"name":"tauros paldea aqua breed","ability_name":"cud-chew"}
+{"dex_num":129,"name":"magikarp","ability_name":"swift-swim"}
+{"dex_num":129,"name":"magikarp","ability_name":"rattled"}
+{"dex_num":130,"name":"gyarados","ability_name":"intimidate"}
+{"dex_num":130,"name":"gyarados","ability_name":"moxie"}
+{"dex_num":130,"name":"gyarados mega","ability_name":"mold-breaker"}
+{"dex_num":131,"name":"lapras","ability_name":"water-absorb"}
+{"dex_num":131,"name":"lapras","ability_name":"shell-armor"}
+{"dex_num":131,"name":"lapras","ability_name":"hydration"}
+{"dex_num":131,"name":"lapras gmax","ability_name":"water-absorb"}
+{"dex_num":131,"name":"lapras gmax","ability_name":"shell-armor"}
+{"dex_num":131,"name":"lapras gmax","ability_name":"hydration"}
+{"dex_num":132,"name":"ditto","ability_name":"limber"}
+{"dex_num":132,"name":"ditto","ability_name":"imposter"}
+{"dex_num":133,"name":"eevee","ability_name":"run-away"}
+{"dex_num":133,"name":"eevee","ability_name":"adaptability"}
+{"dex_num":133,"name":"eevee","ability_name":"anticipation"}
+{"dex_num":133,"name":"eevee starter","ability_name":"run-away"}
+{"dex_num":133,"name":"eevee starter","ability_name":"adaptability"}
+{"dex_num":133,"name":"eevee starter","ability_name":"anticipation"}
+{"dex_num":133,"name":"eevee gmax","ability_name":"run-away"}
+{"dex_num":133,"name":"eevee gmax","ability_name":"adaptability"}
+{"dex_num":133,"name":"eevee gmax","ability_name":"anticipation"}
+{"dex_num":134,"name":"vaporeon","ability_name":"water-absorb"}
+{"dex_num":134,"name":"vaporeon","ability_name":"hydration"}
+{"dex_num":135,"name":"jolteon","ability_name":"volt-absorb"}
+{"dex_num":135,"name":"jolteon","ability_name":"quick-feet"}
+{"dex_num":136,"name":"flareon","ability_name":"flash-fire"}
+{"dex_num":136,"name":"flareon","ability_name":"guts"}
+{"dex_num":137,"name":"porygon","ability_name":"trace"}
+{"dex_num":137,"name":"porygon","ability_name":"download"}
+{"dex_num":137,"name":"porygon","ability_name":"analytic"}
+{"dex_num":138,"name":"omanyte","ability_name":"swift-swim"}
+{"dex_num":138,"name":"omanyte","ability_name":"shell-armor"}
+{"dex_num":138,"name":"omanyte","ability_name":"weak-armor"}
+{"dex_num":139,"name":"omastar","ability_name":"swift-swim"}
+{"dex_num":139,"name":"omastar","ability_name":"shell-armor"}
+{"dex_num":139,"name":"omastar","ability_name":"weak-armor"}
+{"dex_num":140,"name":"kabuto","ability_name":"swift-swim"}
+{"dex_num":140,"name":"kabuto","ability_name":"battle-armor"}
+{"dex_num":140,"name":"kabuto","ability_name":"weak-armor"}
+{"dex_num":141,"name":"kabutops","ability_name":"swift-swim"}
+{"dex_num":141,"name":"kabutops","ability_name":"battle-armor"}
+{"dex_num":141,"name":"kabutops","ability_name":"weak-armor"}
+{"dex_num":142,"name":"aerodactyl","ability_name":"rock-head"}
+{"dex_num":142,"name":"aerodactyl","ability_name":"pressure"}
+{"dex_num":142,"name":"aerodactyl","ability_name":"unnerve"}
+{"dex_num":142,"name":"aerodactyl mega","ability_name":"tough-claws"}
+{"dex_num":143,"name":"snorlax","ability_name":"immunity"}
+{"dex_num":143,"name":"snorlax","ability_name":"thick-fat"}
+{"dex_num":143,"name":"snorlax","ability_name":"gluttony"}
+{"dex_num":143,"name":"snorlax gmax","ability_name":"immunity"}
+{"dex_num":143,"name":"snorlax gmax","ability_name":"thick-fat"}
+{"dex_num":143,"name":"snorlax gmax","ability_name":"gluttony"}
+{"dex_num":144,"name":"articuno","ability_name":"pressure"}
+{"dex_num":144,"name":"articuno","ability_name":"snow-cloak"}
+{"dex_num":144,"name":"articuno galar","ability_name":"competitive"}
+{"dex_num":145,"name":"zapdos","ability_name":"pressure"}
+{"dex_num":145,"name":"zapdos","ability_name":"static"}
+{"dex_num":145,"name":"zapdos galar","ability_name":"defiant"}
+{"dex_num":146,"name":"moltres","ability_name":"pressure"}
+{"dex_num":146,"name":"moltres","ability_name":"flame-body"}
+{"dex_num":146,"name":"moltres galar","ability_name":"berserk"}
+{"dex_num":147,"name":"dratini","ability_name":"shed-skin"}
+{"dex_num":147,"name":"dratini","ability_name":"marvel-scale"}
+{"dex_num":148,"name":"dragonair","ability_name":"shed-skin"}
+{"dex_num":148,"name":"dragonair","ability_name":"marvel-scale"}
+{"dex_num":149,"name":"dragonite","ability_name":"inner-focus"}
+{"dex_num":149,"name":"dragonite","ability_name":"multiscale"}
+{"dex_num":150,"name":"mewtwo","ability_name":"pressure"}
+{"dex_num":150,"name":"mewtwo","ability_name":"unnerve"}
+{"dex_num":150,"name":"mewtwo mega x","ability_name":"steadfast"}
+{"dex_num":150,"name":"mewtwo mega y","ability_name":"insomnia"}
+{"dex_num":151,"name":"mew","ability_name":"synchronize"}
+{"dex_num":152,"name":"chikorita","ability_name":"overgrow"}
+{"dex_num":152,"name":"chikorita","ability_name":"leaf-guard"}
+{"dex_num":153,"name":"bayleef","ability_name":"overgrow"}
+{"dex_num":153,"name":"bayleef","ability_name":"leaf-guard"}
+{"dex_num":154,"name":"meganium","ability_name":"overgrow"}
+{"dex_num":154,"name":"meganium","ability_name":"leaf-guard"}
+{"dex_num":155,"name":"cyndaquil","ability_name":"blaze"}
+{"dex_num":155,"name":"cyndaquil","ability_name":"flash-fire"}
+{"dex_num":156,"name":"quilava","ability_name":"blaze"}
+{"dex_num":156,"name":"quilava","ability_name":"flash-fire"}
+{"dex_num":157,"name":"typhlosion","ability_name":"blaze"}
+{"dex_num":157,"name":"typhlosion","ability_name":"flash-fire"}
+{"dex_num":157,"name":"typhlosion hisui","ability_name":"blaze"}
+{"dex_num":157,"name":"typhlosion hisui","ability_name":"frisk"}
+{"dex_num":158,"name":"totodile","ability_name":"torrent"}
+{"dex_num":158,"name":"totodile","ability_name":"sheer-force"}
+{"dex_num":159,"name":"croconaw","ability_name":"torrent"}
+{"dex_num":159,"name":"croconaw","ability_name":"sheer-force"}
+{"dex_num":160,"name":"feraligatr","ability_name":"torrent"}
+{"dex_num":160,"name":"feraligatr","ability_name":"sheer-force"}
+{"dex_num":161,"name":"sentret","ability_name":"run-away"}
+{"dex_num":161,"name":"sentret","ability_name":"keen-eye"}
+{"dex_num":161,"name":"sentret","ability_name":"frisk"}
+{"dex_num":162,"name":"furret","ability_name":"run-away"}
+{"dex_num":162,"name":"furret","ability_name":"keen-eye"}
+{"dex_num":162,"name":"furret","ability_name":"frisk"}
+{"dex_num":163,"name":"hoothoot","ability_name":"insomnia"}
+{"dex_num":163,"name":"hoothoot","ability_name":"keen-eye"}
+{"dex_num":163,"name":"hoothoot","ability_name":"tinted-lens"}
+{"dex_num":164,"name":"noctowl","ability_name":"insomnia"}
+{"dex_num":164,"name":"noctowl","ability_name":"keen-eye"}
+{"dex_num":164,"name":"noctowl","ability_name":"tinted-lens"}
+{"dex_num":165,"name":"ledyba","ability_name":"swarm"}
+{"dex_num":165,"name":"ledyba","ability_name":"early-bird"}
+{"dex_num":165,"name":"ledyba","ability_name":"rattled"}
+{"dex_num":166,"name":"ledian","ability_name":"swarm"}
+{"dex_num":166,"name":"ledian","ability_name":"early-bird"}
+{"dex_num":166,"name":"ledian","ability_name":"iron-fist"}
+{"dex_num":167,"name":"spinarak","ability_name":"swarm"}
+{"dex_num":167,"name":"spinarak","ability_name":"insomnia"}
+{"dex_num":167,"name":"spinarak","ability_name":"sniper"}
+{"dex_num":168,"name":"ariados","ability_name":"swarm"}
+{"dex_num":168,"name":"ariados","ability_name":"insomnia"}
+{"dex_num":168,"name":"ariados","ability_name":"sniper"}
+{"dex_num":169,"name":"crobat","ability_name":"inner-focus"}
+{"dex_num":169,"name":"crobat","ability_name":"infiltrator"}
+{"dex_num":170,"name":"chinchou","ability_name":"volt-absorb"}
+{"dex_num":170,"name":"chinchou","ability_name":"illuminate"}
+{"dex_num":170,"name":"chinchou","ability_name":"water-absorb"}
+{"dex_num":171,"name":"lanturn","ability_name":"volt-absorb"}
+{"dex_num":171,"name":"lanturn","ability_name":"illuminate"}
+{"dex_num":171,"name":"lanturn","ability_name":"water-absorb"}
+{"dex_num":172,"name":"pichu","ability_name":"static"}
+{"dex_num":172,"name":"pichu","ability_name":"lightning-rod"}
+{"dex_num":173,"name":"cleffa","ability_name":"cute-charm"}
+{"dex_num":173,"name":"cleffa","ability_name":"magic-guard"}
+{"dex_num":173,"name":"cleffa","ability_name":"friend-guard"}
+{"dex_num":174,"name":"igglybuff","ability_name":"cute-charm"}
+{"dex_num":174,"name":"igglybuff","ability_name":"competitive"}
+{"dex_num":174,"name":"igglybuff","ability_name":"friend-guard"}
+{"dex_num":175,"name":"togepi","ability_name":"hustle"}
+{"dex_num":175,"name":"togepi","ability_name":"serene-grace"}
+{"dex_num":175,"name":"togepi","ability_name":"super-luck"}
+{"dex_num":176,"name":"togetic","ability_name":"hustle"}
+{"dex_num":176,"name":"togetic","ability_name":"serene-grace"}
+{"dex_num":176,"name":"togetic","ability_name":"super-luck"}
+{"dex_num":177,"name":"natu","ability_name":"synchronize"}
+{"dex_num":177,"name":"natu","ability_name":"early-bird"}
+{"dex_num":177,"name":"natu","ability_name":"magic-bounce"}
+{"dex_num":178,"name":"xatu","ability_name":"synchronize"}
+{"dex_num":178,"name":"xatu","ability_name":"early-bird"}
+{"dex_num":178,"name":"xatu","ability_name":"magic-bounce"}
+{"dex_num":179,"name":"mareep","ability_name":"static"}
+{"dex_num":179,"name":"mareep","ability_name":"plus"}
+{"dex_num":180,"name":"flaaffy","ability_name":"static"}
+{"dex_num":180,"name":"flaaffy","ability_name":"plus"}
+{"dex_num":181,"name":"ampharos","ability_name":"static"}
+{"dex_num":181,"name":"ampharos","ability_name":"plus"}
+{"dex_num":181,"name":"ampharos mega","ability_name":"mold-breaker"}
+{"dex_num":182,"name":"bellossom","ability_name":"chlorophyll"}
+{"dex_num":182,"name":"bellossom","ability_name":"healer"}
+{"dex_num":183,"name":"marill","ability_name":"thick-fat"}
+{"dex_num":183,"name":"marill","ability_name":"huge-power"}
+{"dex_num":183,"name":"marill","ability_name":"sap-sipper"}
+{"dex_num":184,"name":"azumarill","ability_name":"thick-fat"}
+{"dex_num":184,"name":"azumarill","ability_name":"huge-power"}
+{"dex_num":184,"name":"azumarill","ability_name":"sap-sipper"}
+{"dex_num":185,"name":"sudowoodo","ability_name":"sturdy"}
+{"dex_num":185,"name":"sudowoodo","ability_name":"rock-head"}
+{"dex_num":185,"name":"sudowoodo","ability_name":"rattled"}
+{"dex_num":186,"name":"politoed","ability_name":"water-absorb"}
+{"dex_num":186,"name":"politoed","ability_name":"damp"}
+{"dex_num":186,"name":"politoed","ability_name":"drizzle"}
+{"dex_num":187,"name":"hoppip","ability_name":"chlorophyll"}
+{"dex_num":187,"name":"hoppip","ability_name":"leaf-guard"}
+{"dex_num":187,"name":"hoppip","ability_name":"infiltrator"}
+{"dex_num":188,"name":"skiploom","ability_name":"chlorophyll"}
+{"dex_num":188,"name":"skiploom","ability_name":"leaf-guard"}
+{"dex_num":188,"name":"skiploom","ability_name":"infiltrator"}
+{"dex_num":189,"name":"jumpluff","ability_name":"chlorophyll"}
+{"dex_num":189,"name":"jumpluff","ability_name":"leaf-guard"}
+{"dex_num":189,"name":"jumpluff","ability_name":"infiltrator"}
+{"dex_num":190,"name":"aipom","ability_name":"run-away"}
+{"dex_num":190,"name":"aipom","ability_name":"pickup"}
+{"dex_num":190,"name":"aipom","ability_name":"skill-link"}
+{"dex_num":191,"name":"sunkern","ability_name":"chlorophyll"}
+{"dex_num":191,"name":"sunkern","ability_name":"solar-power"}
+{"dex_num":191,"name":"sunkern","ability_name":"early-bird"}
+{"dex_num":192,"name":"sunflora","ability_name":"chlorophyll"}
+{"dex_num":192,"name":"sunflora","ability_name":"solar-power"}
+{"dex_num":192,"name":"sunflora","ability_name":"early-bird"}
+{"dex_num":193,"name":"yanma","ability_name":"speed-boost"}
+{"dex_num":193,"name":"yanma","ability_name":"compound-eyes"}
+{"dex_num":193,"name":"yanma","ability_name":"frisk"}
+{"dex_num":194,"name":"wooper","ability_name":"damp"}
+{"dex_num":194,"name":"wooper","ability_name":"water-absorb"}
+{"dex_num":194,"name":"wooper","ability_name":"unaware"}
+{"dex_num":194,"name":"wooper paldea","ability_name":"poison-point"}
+{"dex_num":194,"name":"wooper paldea","ability_name":"water-absorb"}
+{"dex_num":194,"name":"wooper paldea","ability_name":"unaware"}
+{"dex_num":195,"name":"quagsire","ability_name":"damp"}
+{"dex_num":195,"name":"quagsire","ability_name":"water-absorb"}
+{"dex_num":195,"name":"quagsire","ability_name":"unaware"}
+{"dex_num":196,"name":"espeon","ability_name":"synchronize"}
+{"dex_num":196,"name":"espeon","ability_name":"magic-bounce"}
+{"dex_num":197,"name":"umbreon","ability_name":"synchronize"}
+{"dex_num":197,"name":"umbreon","ability_name":"inner-focus"}
+{"dex_num":198,"name":"murkrow","ability_name":"insomnia"}
+{"dex_num":198,"name":"murkrow","ability_name":"super-luck"}
+{"dex_num":198,"name":"murkrow","ability_name":"prankster"}
+{"dex_num":199,"name":"slowking","ability_name":"oblivious"}
+{"dex_num":199,"name":"slowking","ability_name":"own-tempo"}
+{"dex_num":199,"name":"slowking","ability_name":"regenerator"}
+{"dex_num":199,"name":"slowking galar","ability_name":"curious-medicine"}
+{"dex_num":199,"name":"slowking galar","ability_name":"own-tempo"}
+{"dex_num":199,"name":"slowking galar","ability_name":"regenerator"}
+{"dex_num":200,"name":"misdreavus","ability_name":"levitate"}
+{"dex_num":201,"name":"unown","ability_name":"levitate"}
+{"dex_num":202,"name":"wobbuffet","ability_name":"shadow-tag"}
+{"dex_num":202,"name":"wobbuffet","ability_name":"telepathy"}
+{"dex_num":203,"name":"girafarig","ability_name":"inner-focus"}
+{"dex_num":203,"name":"girafarig","ability_name":"early-bird"}
+{"dex_num":203,"name":"girafarig","ability_name":"sap-sipper"}
+{"dex_num":204,"name":"pineco","ability_name":"sturdy"}
+{"dex_num":204,"name":"pineco","ability_name":"overcoat"}
+{"dex_num":205,"name":"forretress","ability_name":"sturdy"}
+{"dex_num":205,"name":"forretress","ability_name":"overcoat"}
+{"dex_num":206,"name":"dunsparce","ability_name":"serene-grace"}
+{"dex_num":206,"name":"dunsparce","ability_name":"run-away"}
+{"dex_num":206,"name":"dunsparce","ability_name":"rattled"}
+{"dex_num":207,"name":"gligar","ability_name":"hyper-cutter"}
+{"dex_num":207,"name":"gligar","ability_name":"sand-veil"}
+{"dex_num":207,"name":"gligar","ability_name":"immunity"}
+{"dex_num":208,"name":"steelix","ability_name":"rock-head"}
+{"dex_num":208,"name":"steelix","ability_name":"sturdy"}
+{"dex_num":208,"name":"steelix","ability_name":"sheer-force"}
+{"dex_num":208,"name":"steelix mega","ability_name":"sand-force"}
+{"dex_num":209,"name":"snubbull","ability_name":"intimidate"}
+{"dex_num":209,"name":"snubbull","ability_name":"run-away"}
+{"dex_num":209,"name":"snubbull","ability_name":"rattled"}
+{"dex_num":210,"name":"granbull","ability_name":"intimidate"}
+{"dex_num":210,"name":"granbull","ability_name":"quick-feet"}
+{"dex_num":210,"name":"granbull","ability_name":"rattled"}
+{"dex_num":211,"name":"qwilfish","ability_name":"poison-point"}
+{"dex_num":211,"name":"qwilfish","ability_name":"swift-swim"}
+{"dex_num":211,"name":"qwilfish","ability_name":"intimidate"}
+{"dex_num":211,"name":"qwilfish hisui","ability_name":"poison-point"}
+{"dex_num":211,"name":"qwilfish hisui","ability_name":"swift-swim"}
+{"dex_num":211,"name":"qwilfish hisui","ability_name":"intimidate"}
+{"dex_num":212,"name":"scizor","ability_name":"swarm"}
+{"dex_num":212,"name":"scizor","ability_name":"technician"}
+{"dex_num":212,"name":"scizor","ability_name":"light-metal"}
+{"dex_num":212,"name":"scizor mega","ability_name":"technician"}
+{"dex_num":213,"name":"shuckle","ability_name":"sturdy"}
+{"dex_num":213,"name":"shuckle","ability_name":"gluttony"}
+{"dex_num":213,"name":"shuckle","ability_name":"contrary"}
+{"dex_num":214,"name":"heracross","ability_name":"swarm"}
+{"dex_num":214,"name":"heracross","ability_name":"guts"}
+{"dex_num":214,"name":"heracross","ability_name":"moxie"}
+{"dex_num":214,"name":"heracross mega","ability_name":"skill-link"}
+{"dex_num":215,"name":"sneasel","ability_name":"inner-focus"}
+{"dex_num":215,"name":"sneasel","ability_name":"keen-eye"}
+{"dex_num":215,"name":"sneasel","ability_name":"pickpocket"}
+{"dex_num":215,"name":"sneasel hisui","ability_name":"inner-focus"}
+{"dex_num":215,"name":"sneasel hisui","ability_name":"keen-eye"}
+{"dex_num":215,"name":"sneasel hisui","ability_name":"pickpocket"}
+{"dex_num":216,"name":"teddiursa","ability_name":"pickup"}
+{"dex_num":216,"name":"teddiursa","ability_name":"quick-feet"}
+{"dex_num":216,"name":"teddiursa","ability_name":"honey-gather"}
+{"dex_num":217,"name":"ursaring","ability_name":"guts"}
+{"dex_num":217,"name":"ursaring","ability_name":"quick-feet"}
+{"dex_num":217,"name":"ursaring","ability_name":"unnerve"}
+{"dex_num":218,"name":"slugma","ability_name":"magma-armor"}
+{"dex_num":218,"name":"slugma","ability_name":"flame-body"}
+{"dex_num":218,"name":"slugma","ability_name":"weak-armor"}
+{"dex_num":219,"name":"magcargo","ability_name":"magma-armor"}
+{"dex_num":219,"name":"magcargo","ability_name":"flame-body"}
+{"dex_num":219,"name":"magcargo","ability_name":"weak-armor"}
+{"dex_num":220,"name":"swinub","ability_name":"oblivious"}
+{"dex_num":220,"name":"swinub","ability_name":"snow-cloak"}
+{"dex_num":220,"name":"swinub","ability_name":"thick-fat"}
+{"dex_num":221,"name":"piloswine","ability_name":"oblivious"}
+{"dex_num":221,"name":"piloswine","ability_name":"snow-cloak"}
+{"dex_num":221,"name":"piloswine","ability_name":"thick-fat"}
+{"dex_num":222,"name":"corsola","ability_name":"hustle"}
+{"dex_num":222,"name":"corsola","ability_name":"natural-cure"}
+{"dex_num":222,"name":"corsola","ability_name":"regenerator"}
+{"dex_num":222,"name":"corsola galar","ability_name":"weak-armor"}
+{"dex_num":222,"name":"corsola galar","ability_name":"cursed-body"}
+{"dex_num":223,"name":"remoraid","ability_name":"hustle"}
+{"dex_num":223,"name":"remoraid","ability_name":"sniper"}
+{"dex_num":223,"name":"remoraid","ability_name":"moody"}
+{"dex_num":224,"name":"octillery","ability_name":"suction-cups"}
+{"dex_num":224,"name":"octillery","ability_name":"sniper"}
+{"dex_num":224,"name":"octillery","ability_name":"moody"}
+{"dex_num":225,"name":"delibird","ability_name":"vital-spirit"}
+{"dex_num":225,"name":"delibird","ability_name":"hustle"}
+{"dex_num":225,"name":"delibird","ability_name":"insomnia"}
+{"dex_num":226,"name":"mantine","ability_name":"swift-swim"}
+{"dex_num":226,"name":"mantine","ability_name":"water-absorb"}
+{"dex_num":226,"name":"mantine","ability_name":"water-veil"}
+{"dex_num":227,"name":"skarmory","ability_name":"keen-eye"}
+{"dex_num":227,"name":"skarmory","ability_name":"sturdy"}
+{"dex_num":227,"name":"skarmory","ability_name":"weak-armor"}
+{"dex_num":228,"name":"houndour","ability_name":"early-bird"}
+{"dex_num":228,"name":"houndour","ability_name":"flash-fire"}
+{"dex_num":228,"name":"houndour","ability_name":"unnerve"}
+{"dex_num":229,"name":"houndoom","ability_name":"early-bird"}
+{"dex_num":229,"name":"houndoom","ability_name":"flash-fire"}
+{"dex_num":229,"name":"houndoom","ability_name":"unnerve"}
+{"dex_num":229,"name":"houndoom mega","ability_name":"solar-power"}
+{"dex_num":230,"name":"kingdra","ability_name":"swift-swim"}
+{"dex_num":230,"name":"kingdra","ability_name":"sniper"}
+{"dex_num":230,"name":"kingdra","ability_name":"damp"}
+{"dex_num":231,"name":"phanpy","ability_name":"pickup"}
+{"dex_num":231,"name":"phanpy","ability_name":"sand-veil"}
+{"dex_num":232,"name":"donphan","ability_name":"sturdy"}
+{"dex_num":232,"name":"donphan","ability_name":"sand-veil"}
+{"dex_num":233,"name":"porygon2","ability_name":"trace"}
+{"dex_num":233,"name":"porygon2","ability_name":"download"}
+{"dex_num":233,"name":"porygon2","ability_name":"analytic"}
+{"dex_num":234,"name":"stantler","ability_name":"intimidate"}
+{"dex_num":234,"name":"stantler","ability_name":"frisk"}
+{"dex_num":234,"name":"stantler","ability_name":"sap-sipper"}
+{"dex_num":235,"name":"smeargle","ability_name":"own-tempo"}
+{"dex_num":235,"name":"smeargle","ability_name":"technician"}
+{"dex_num":235,"name":"smeargle","ability_name":"moody"}
+{"dex_num":236,"name":"tyrogue","ability_name":"guts"}
+{"dex_num":236,"name":"tyrogue","ability_name":"steadfast"}
+{"dex_num":236,"name":"tyrogue","ability_name":"vital-spirit"}
+{"dex_num":237,"name":"hitmontop","ability_name":"intimidate"}
+{"dex_num":237,"name":"hitmontop","ability_name":"technician"}
+{"dex_num":237,"name":"hitmontop","ability_name":"steadfast"}
+{"dex_num":238,"name":"smoochum","ability_name":"oblivious"}
+{"dex_num":238,"name":"smoochum","ability_name":"forewarn"}
+{"dex_num":238,"name":"smoochum","ability_name":"hydration"}
+{"dex_num":239,"name":"elekid","ability_name":"static"}
+{"dex_num":239,"name":"elekid","ability_name":"vital-spirit"}
+{"dex_num":240,"name":"magby","ability_name":"flame-body"}
+{"dex_num":240,"name":"magby","ability_name":"vital-spirit"}
+{"dex_num":241,"name":"miltank","ability_name":"thick-fat"}
+{"dex_num":241,"name":"miltank","ability_name":"scrappy"}
+{"dex_num":241,"name":"miltank","ability_name":"sap-sipper"}
+{"dex_num":242,"name":"blissey","ability_name":"natural-cure"}
+{"dex_num":242,"name":"blissey","ability_name":"serene-grace"}
+{"dex_num":242,"name":"blissey","ability_name":"healer"}
+{"dex_num":243,"name":"raikou","ability_name":"pressure"}
+{"dex_num":243,"name":"raikou","ability_name":"inner-focus"}
+{"dex_num":244,"name":"entei","ability_name":"pressure"}
+{"dex_num":244,"name":"entei","ability_name":"inner-focus"}
+{"dex_num":245,"name":"suicune","ability_name":"pressure"}
+{"dex_num":245,"name":"suicune","ability_name":"inner-focus"}
+{"dex_num":246,"name":"larvitar","ability_name":"guts"}
+{"dex_num":246,"name":"larvitar","ability_name":"sand-veil"}
+{"dex_num":247,"name":"pupitar","ability_name":"shed-skin"}
+{"dex_num":248,"name":"tyranitar","ability_name":"sand-stream"}
+{"dex_num":248,"name":"tyranitar","ability_name":"unnerve"}
+{"dex_num":248,"name":"tyranitar mega","ability_name":"sand-stream"}
+{"dex_num":249,"name":"lugia","ability_name":"pressure"}
+{"dex_num":249,"name":"lugia","ability_name":"multiscale"}
+{"dex_num":250,"name":"ho oh","ability_name":"pressure"}
+{"dex_num":250,"name":"ho oh","ability_name":"regenerator"}
+{"dex_num":251,"name":"celebi","ability_name":"natural-cure"}
+{"dex_num":252,"name":"treecko","ability_name":"overgrow"}
+{"dex_num":252,"name":"treecko","ability_name":"unburden"}
+{"dex_num":253,"name":"grovyle","ability_name":"overgrow"}
+{"dex_num":253,"name":"grovyle","ability_name":"unburden"}
+{"dex_num":254,"name":"sceptile","ability_name":"overgrow"}
+{"dex_num":254,"name":"sceptile","ability_name":"unburden"}
+{"dex_num":254,"name":"sceptile mega","ability_name":"lightning-rod"}
+{"dex_num":255,"name":"torchic","ability_name":"blaze"}
+{"dex_num":255,"name":"torchic","ability_name":"speed-boost"}
+{"dex_num":256,"name":"combusken","ability_name":"blaze"}
+{"dex_num":256,"name":"combusken","ability_name":"speed-boost"}
+{"dex_num":257,"name":"blaziken","ability_name":"blaze"}
+{"dex_num":257,"name":"blaziken","ability_name":"speed-boost"}
+{"dex_num":257,"name":"blaziken mega","ability_name":"speed-boost"}
+{"dex_num":258,"name":"mudkip","ability_name":"torrent"}
+{"dex_num":258,"name":"mudkip","ability_name":"damp"}
+{"dex_num":259,"name":"marshtomp","ability_name":"torrent"}
+{"dex_num":259,"name":"marshtomp","ability_name":"damp"}
+{"dex_num":260,"name":"swampert","ability_name":"torrent"}
+{"dex_num":260,"name":"swampert","ability_name":"damp"}
+{"dex_num":260,"name":"swampert mega","ability_name":"swift-swim"}
+{"dex_num":261,"name":"poochyena","ability_name":"run-away"}
+{"dex_num":261,"name":"poochyena","ability_name":"quick-feet"}
+{"dex_num":261,"name":"poochyena","ability_name":"rattled"}
+{"dex_num":262,"name":"mightyena","ability_name":"intimidate"}
+{"dex_num":262,"name":"mightyena","ability_name":"quick-feet"}
+{"dex_num":262,"name":"mightyena","ability_name":"moxie"}
+{"dex_num":263,"name":"zigzagoon","ability_name":"pickup"}
+{"dex_num":263,"name":"zigzagoon","ability_name":"gluttony"}
+{"dex_num":263,"name":"zigzagoon","ability_name":"quick-feet"}
+{"dex_num":263,"name":"zigzagoon galar","ability_name":"pickup"}
+{"dex_num":263,"name":"zigzagoon galar","ability_name":"gluttony"}
+{"dex_num":263,"name":"zigzagoon galar","ability_name":"quick-feet"}
+{"dex_num":264,"name":"linoone","ability_name":"pickup"}
+{"dex_num":264,"name":"linoone","ability_name":"gluttony"}
+{"dex_num":264,"name":"linoone","ability_name":"quick-feet"}
+{"dex_num":264,"name":"linoone galar","ability_name":"pickup"}
+{"dex_num":264,"name":"linoone galar","ability_name":"gluttony"}
+{"dex_num":264,"name":"linoone galar","ability_name":"quick-feet"}
+{"dex_num":265,"name":"wurmple","ability_name":"shield-dust"}
+{"dex_num":265,"name":"wurmple","ability_name":"run-away"}
+{"dex_num":266,"name":"silcoon","ability_name":"shed-skin"}
+{"dex_num":267,"name":"beautifly","ability_name":"swarm"}
+{"dex_num":267,"name":"beautifly","ability_name":"rivalry"}
+{"dex_num":268,"name":"cascoon","ability_name":"shed-skin"}
+{"dex_num":269,"name":"dustox","ability_name":"shield-dust"}
+{"dex_num":269,"name":"dustox","ability_name":"compound-eyes"}
+{"dex_num":270,"name":"lotad","ability_name":"swift-swim"}
+{"dex_num":270,"name":"lotad","ability_name":"rain-dish"}
+{"dex_num":270,"name":"lotad","ability_name":"own-tempo"}
+{"dex_num":271,"name":"lombre","ability_name":"swift-swim"}
+{"dex_num":271,"name":"lombre","ability_name":"rain-dish"}
+{"dex_num":271,"name":"lombre","ability_name":"own-tempo"}
+{"dex_num":272,"name":"ludicolo","ability_name":"swift-swim"}
+{"dex_num":272,"name":"ludicolo","ability_name":"rain-dish"}
+{"dex_num":272,"name":"ludicolo","ability_name":"own-tempo"}
+{"dex_num":273,"name":"seedot","ability_name":"chlorophyll"}
+{"dex_num":273,"name":"seedot","ability_name":"early-bird"}
+{"dex_num":273,"name":"seedot","ability_name":"pickpocket"}
+{"dex_num":274,"name":"nuzleaf","ability_name":"chlorophyll"}
+{"dex_num":274,"name":"nuzleaf","ability_name":"early-bird"}
+{"dex_num":274,"name":"nuzleaf","ability_name":"pickpocket"}
+{"dex_num":275,"name":"shiftry","ability_name":"chlorophyll"}
+{"dex_num":275,"name":"shiftry","ability_name":"wind-rider"}
+{"dex_num":275,"name":"shiftry","ability_name":"pickpocket"}
+{"dex_num":276,"name":"taillow","ability_name":"guts"}
+{"dex_num":276,"name":"taillow","ability_name":"scrappy"}
+{"dex_num":277,"name":"swellow","ability_name":"guts"}
+{"dex_num":277,"name":"swellow","ability_name":"scrappy"}
+{"dex_num":278,"name":"wingull","ability_name":"keen-eye"}
+{"dex_num":278,"name":"wingull","ability_name":"hydration"}
+{"dex_num":278,"name":"wingull","ability_name":"rain-dish"}
+{"dex_num":279,"name":"pelipper","ability_name":"keen-eye"}
+{"dex_num":279,"name":"pelipper","ability_name":"drizzle"}
+{"dex_num":279,"name":"pelipper","ability_name":"rain-dish"}
+{"dex_num":280,"name":"ralts","ability_name":"synchronize"}
+{"dex_num":280,"name":"ralts","ability_name":"trace"}
+{"dex_num":280,"name":"ralts","ability_name":"telepathy"}
+{"dex_num":281,"name":"kirlia","ability_name":"synchronize"}
+{"dex_num":281,"name":"kirlia","ability_name":"trace"}
+{"dex_num":281,"name":"kirlia","ability_name":"telepathy"}
+{"dex_num":282,"name":"gardevoir","ability_name":"synchronize"}
+{"dex_num":282,"name":"gardevoir","ability_name":"trace"}
+{"dex_num":282,"name":"gardevoir","ability_name":"telepathy"}
+{"dex_num":282,"name":"gardevoir mega","ability_name":"pixilate"}
+{"dex_num":283,"name":"surskit","ability_name":"swift-swim"}
+{"dex_num":283,"name":"surskit","ability_name":"rain-dish"}
+{"dex_num":284,"name":"masquerain","ability_name":"intimidate"}
+{"dex_num":284,"name":"masquerain","ability_name":"unnerve"}
+{"dex_num":285,"name":"shroomish","ability_name":"effect-spore"}
+{"dex_num":285,"name":"shroomish","ability_name":"poison-heal"}
+{"dex_num":285,"name":"shroomish","ability_name":"quick-feet"}
+{"dex_num":286,"name":"breloom","ability_name":"effect-spore"}
+{"dex_num":286,"name":"breloom","ability_name":"poison-heal"}
+{"dex_num":286,"name":"breloom","ability_name":"technician"}
+{"dex_num":287,"name":"slakoth","ability_name":"truant"}
+{"dex_num":288,"name":"vigoroth","ability_name":"vital-spirit"}
+{"dex_num":289,"name":"slaking","ability_name":"truant"}
+{"dex_num":290,"name":"nincada","ability_name":"compound-eyes"}
+{"dex_num":290,"name":"nincada","ability_name":"run-away"}
+{"dex_num":291,"name":"ninjask","ability_name":"speed-boost"}
+{"dex_num":291,"name":"ninjask","ability_name":"infiltrator"}
+{"dex_num":292,"name":"shedinja","ability_name":"wonder-guard"}
+{"dex_num":293,"name":"whismur","ability_name":"soundproof"}
+{"dex_num":293,"name":"whismur","ability_name":"rattled"}
+{"dex_num":294,"name":"loudred","ability_name":"soundproof"}
+{"dex_num":294,"name":"loudred","ability_name":"scrappy"}
+{"dex_num":295,"name":"exploud","ability_name":"soundproof"}
+{"dex_num":295,"name":"exploud","ability_name":"scrappy"}
+{"dex_num":296,"name":"makuhita","ability_name":"thick-fat"}
+{"dex_num":296,"name":"makuhita","ability_name":"guts"}
+{"dex_num":296,"name":"makuhita","ability_name":"sheer-force"}
+{"dex_num":297,"name":"hariyama","ability_name":"thick-fat"}
+{"dex_num":297,"name":"hariyama","ability_name":"guts"}
+{"dex_num":297,"name":"hariyama","ability_name":"sheer-force"}
+{"dex_num":298,"name":"azurill","ability_name":"thick-fat"}
+{"dex_num":298,"name":"azurill","ability_name":"huge-power"}
+{"dex_num":298,"name":"azurill","ability_name":"sap-sipper"}
+{"dex_num":299,"name":"nosepass","ability_name":"sturdy"}
+{"dex_num":299,"name":"nosepass","ability_name":"magnet-pull"}
+{"dex_num":299,"name":"nosepass","ability_name":"sand-force"}
+{"dex_num":300,"name":"skitty","ability_name":"cute-charm"}
+{"dex_num":300,"name":"skitty","ability_name":"normalize"}
+{"dex_num":300,"name":"skitty","ability_name":"wonder-skin"}
+{"dex_num":301,"name":"delcatty","ability_name":"cute-charm"}
+{"dex_num":301,"name":"delcatty","ability_name":"normalize"}
+{"dex_num":301,"name":"delcatty","ability_name":"wonder-skin"}
+{"dex_num":302,"name":"sableye","ability_name":"keen-eye"}
+{"dex_num":302,"name":"sableye","ability_name":"stall"}
+{"dex_num":302,"name":"sableye","ability_name":"prankster"}
+{"dex_num":302,"name":"sableye mega","ability_name":"magic-bounce"}
+{"dex_num":303,"name":"mawile","ability_name":"hyper-cutter"}
+{"dex_num":303,"name":"mawile","ability_name":"intimidate"}
+{"dex_num":303,"name":"mawile","ability_name":"sheer-force"}
+{"dex_num":303,"name":"mawile mega","ability_name":"huge-power"}
+{"dex_num":304,"name":"aron","ability_name":"sturdy"}
+{"dex_num":304,"name":"aron","ability_name":"rock-head"}
+{"dex_num":304,"name":"aron","ability_name":"heavy-metal"}
+{"dex_num":305,"name":"lairon","ability_name":"sturdy"}
+{"dex_num":305,"name":"lairon","ability_name":"rock-head"}
+{"dex_num":305,"name":"lairon","ability_name":"heavy-metal"}
+{"dex_num":306,"name":"aggron","ability_name":"sturdy"}
+{"dex_num":306,"name":"aggron","ability_name":"rock-head"}
+{"dex_num":306,"name":"aggron","ability_name":"heavy-metal"}
+{"dex_num":306,"name":"aggron mega","ability_name":"filter"}
+{"dex_num":307,"name":"meditite","ability_name":"pure-power"}
+{"dex_num":307,"name":"meditite","ability_name":"telepathy"}
+{"dex_num":308,"name":"medicham","ability_name":"pure-power"}
+{"dex_num":308,"name":"medicham","ability_name":"telepathy"}
+{"dex_num":308,"name":"medicham mega","ability_name":"pure-power"}
+{"dex_num":309,"name":"electrike","ability_name":"static"}
+{"dex_num":309,"name":"electrike","ability_name":"lightning-rod"}
+{"dex_num":309,"name":"electrike","ability_name":"minus"}
+{"dex_num":310,"name":"manectric","ability_name":"static"}
+{"dex_num":310,"name":"manectric","ability_name":"lightning-rod"}
+{"dex_num":310,"name":"manectric","ability_name":"minus"}
+{"dex_num":310,"name":"manectric mega","ability_name":"intimidate"}
+{"dex_num":311,"name":"plusle","ability_name":"plus"}
+{"dex_num":311,"name":"plusle","ability_name":"lightning-rod"}
+{"dex_num":312,"name":"minun","ability_name":"minus"}
+{"dex_num":312,"name":"minun","ability_name":"volt-absorb"}
+{"dex_num":313,"name":"volbeat","ability_name":"illuminate"}
+{"dex_num":313,"name":"volbeat","ability_name":"swarm"}
+{"dex_num":313,"name":"volbeat","ability_name":"prankster"}
+{"dex_num":314,"name":"illumise","ability_name":"oblivious"}
+{"dex_num":314,"name":"illumise","ability_name":"tinted-lens"}
+{"dex_num":314,"name":"illumise","ability_name":"prankster"}
+{"dex_num":315,"name":"roselia","ability_name":"natural-cure"}
+{"dex_num":315,"name":"roselia","ability_name":"poison-point"}
+{"dex_num":315,"name":"roselia","ability_name":"leaf-guard"}
+{"dex_num":316,"name":"gulpin","ability_name":"liquid-ooze"}
+{"dex_num":316,"name":"gulpin","ability_name":"sticky-hold"}
+{"dex_num":316,"name":"gulpin","ability_name":"gluttony"}
+{"dex_num":317,"name":"swalot","ability_name":"liquid-ooze"}
+{"dex_num":317,"name":"swalot","ability_name":"sticky-hold"}
+{"dex_num":317,"name":"swalot","ability_name":"gluttony"}
+{"dex_num":318,"name":"carvanha","ability_name":"rough-skin"}
+{"dex_num":318,"name":"carvanha","ability_name":"speed-boost"}
+{"dex_num":319,"name":"sharpedo","ability_name":"rough-skin"}
+{"dex_num":319,"name":"sharpedo","ability_name":"speed-boost"}
+{"dex_num":319,"name":"sharpedo mega","ability_name":"strong-jaw"}
+{"dex_num":320,"name":"wailmer","ability_name":"water-veil"}
+{"dex_num":320,"name":"wailmer","ability_name":"oblivious"}
+{"dex_num":320,"name":"wailmer","ability_name":"pressure"}
+{"dex_num":321,"name":"wailord","ability_name":"water-veil"}
+{"dex_num":321,"name":"wailord","ability_name":"oblivious"}
+{"dex_num":321,"name":"wailord","ability_name":"pressure"}
+{"dex_num":322,"name":"numel","ability_name":"oblivious"}
+{"dex_num":322,"name":"numel","ability_name":"simple"}
+{"dex_num":322,"name":"numel","ability_name":"own-tempo"}
+{"dex_num":323,"name":"camerupt","ability_name":"magma-armor"}
+{"dex_num":323,"name":"camerupt","ability_name":"solid-rock"}
+{"dex_num":323,"name":"camerupt","ability_name":"anger-point"}
+{"dex_num":323,"name":"camerupt mega","ability_name":"sheer-force"}
+{"dex_num":324,"name":"torkoal","ability_name":"white-smoke"}
+{"dex_num":324,"name":"torkoal","ability_name":"drought"}
+{"dex_num":324,"name":"torkoal","ability_name":"shell-armor"}
+{"dex_num":325,"name":"spoink","ability_name":"thick-fat"}
+{"dex_num":325,"name":"spoink","ability_name":"own-tempo"}
+{"dex_num":325,"name":"spoink","ability_name":"gluttony"}
+{"dex_num":326,"name":"grumpig","ability_name":"thick-fat"}
+{"dex_num":326,"name":"grumpig","ability_name":"own-tempo"}
+{"dex_num":326,"name":"grumpig","ability_name":"gluttony"}
+{"dex_num":327,"name":"spinda","ability_name":"own-tempo"}
+{"dex_num":327,"name":"spinda","ability_name":"tangled-feet"}
+{"dex_num":327,"name":"spinda","ability_name":"contrary"}
+{"dex_num":328,"name":"trapinch","ability_name":"hyper-cutter"}
+{"dex_num":328,"name":"trapinch","ability_name":"arena-trap"}
+{"dex_num":328,"name":"trapinch","ability_name":"sheer-force"}
+{"dex_num":329,"name":"vibrava","ability_name":"levitate"}
+{"dex_num":330,"name":"flygon","ability_name":"levitate"}
+{"dex_num":331,"name":"cacnea","ability_name":"sand-veil"}
+{"dex_num":331,"name":"cacnea","ability_name":"water-absorb"}
+{"dex_num":332,"name":"cacturne","ability_name":"sand-veil"}
+{"dex_num":332,"name":"cacturne","ability_name":"water-absorb"}
+{"dex_num":333,"name":"swablu","ability_name":"natural-cure"}
+{"dex_num":333,"name":"swablu","ability_name":"cloud-nine"}
+{"dex_num":334,"name":"altaria","ability_name":"natural-cure"}
+{"dex_num":334,"name":"altaria","ability_name":"cloud-nine"}
+{"dex_num":334,"name":"altaria mega","ability_name":"pixilate"}
+{"dex_num":335,"name":"zangoose","ability_name":"immunity"}
+{"dex_num":335,"name":"zangoose","ability_name":"toxic-boost"}
+{"dex_num":336,"name":"seviper","ability_name":"shed-skin"}
+{"dex_num":336,"name":"seviper","ability_name":"infiltrator"}
+{"dex_num":337,"name":"lunatone","ability_name":"levitate"}
+{"dex_num":338,"name":"solrock","ability_name":"levitate"}
+{"dex_num":339,"name":"barboach","ability_name":"oblivious"}
+{"dex_num":339,"name":"barboach","ability_name":"anticipation"}
+{"dex_num":339,"name":"barboach","ability_name":"hydration"}
+{"dex_num":340,"name":"whiscash","ability_name":"oblivious"}
+{"dex_num":340,"name":"whiscash","ability_name":"anticipation"}
+{"dex_num":340,"name":"whiscash","ability_name":"hydration"}
+{"dex_num":341,"name":"corphish","ability_name":"hyper-cutter"}
+{"dex_num":341,"name":"corphish","ability_name":"shell-armor"}
+{"dex_num":341,"name":"corphish","ability_name":"adaptability"}
+{"dex_num":342,"name":"crawdaunt","ability_name":"hyper-cutter"}
+{"dex_num":342,"name":"crawdaunt","ability_name":"shell-armor"}
+{"dex_num":342,"name":"crawdaunt","ability_name":"adaptability"}
+{"dex_num":343,"name":"baltoy","ability_name":"levitate"}
+{"dex_num":344,"name":"claydol","ability_name":"levitate"}
+{"dex_num":345,"name":"lileep","ability_name":"suction-cups"}
+{"dex_num":345,"name":"lileep","ability_name":"storm-drain"}
+{"dex_num":346,"name":"cradily","ability_name":"suction-cups"}
+{"dex_num":346,"name":"cradily","ability_name":"storm-drain"}
+{"dex_num":347,"name":"anorith","ability_name":"battle-armor"}
+{"dex_num":347,"name":"anorith","ability_name":"swift-swim"}
+{"dex_num":348,"name":"armaldo","ability_name":"battle-armor"}
+{"dex_num":348,"name":"armaldo","ability_name":"swift-swim"}
+{"dex_num":349,"name":"feebas","ability_name":"swift-swim"}
+{"dex_num":349,"name":"feebas","ability_name":"oblivious"}
+{"dex_num":349,"name":"feebas","ability_name":"adaptability"}
+{"dex_num":350,"name":"milotic","ability_name":"marvel-scale"}
+{"dex_num":350,"name":"milotic","ability_name":"competitive"}
+{"dex_num":350,"name":"milotic","ability_name":"cute-charm"}
+{"dex_num":351,"name":"castform","ability_name":"forecast"}
+{"dex_num":351,"name":"castform sunny","ability_name":"forecast"}
+{"dex_num":351,"name":"castform rainy","ability_name":"forecast"}
+{"dex_num":351,"name":"castform snowy","ability_name":"forecast"}
+{"dex_num":352,"name":"kecleon","ability_name":"color-change"}
+{"dex_num":352,"name":"kecleon","ability_name":"protean"}
+{"dex_num":353,"name":"shuppet","ability_name":"insomnia"}
+{"dex_num":353,"name":"shuppet","ability_name":"frisk"}
+{"dex_num":353,"name":"shuppet","ability_name":"cursed-body"}
+{"dex_num":354,"name":"banette","ability_name":"insomnia"}
+{"dex_num":354,"name":"banette","ability_name":"frisk"}
+{"dex_num":354,"name":"banette","ability_name":"cursed-body"}
+{"dex_num":354,"name":"banette mega","ability_name":"prankster"}
+{"dex_num":355,"name":"duskull","ability_name":"levitate"}
+{"dex_num":355,"name":"duskull","ability_name":"frisk"}
+{"dex_num":356,"name":"dusclops","ability_name":"pressure"}
+{"dex_num":356,"name":"dusclops","ability_name":"frisk"}
+{"dex_num":357,"name":"tropius","ability_name":"chlorophyll"}
+{"dex_num":357,"name":"tropius","ability_name":"solar-power"}
+{"dex_num":357,"name":"tropius","ability_name":"harvest"}
+{"dex_num":358,"name":"chimecho","ability_name":"levitate"}
+{"dex_num":359,"name":"absol","ability_name":"pressure"}
+{"dex_num":359,"name":"absol","ability_name":"super-luck"}
+{"dex_num":359,"name":"absol","ability_name":"justified"}
+{"dex_num":359,"name":"absol mega","ability_name":"magic-bounce"}
+{"dex_num":360,"name":"wynaut","ability_name":"shadow-tag"}
+{"dex_num":360,"name":"wynaut","ability_name":"telepathy"}
+{"dex_num":361,"name":"snorunt","ability_name":"inner-focus"}
+{"dex_num":361,"name":"snorunt","ability_name":"ice-body"}
+{"dex_num":361,"name":"snorunt","ability_name":"moody"}
+{"dex_num":362,"name":"glalie","ability_name":"inner-focus"}
+{"dex_num":362,"name":"glalie","ability_name":"ice-body"}
+{"dex_num":362,"name":"glalie","ability_name":"moody"}
+{"dex_num":362,"name":"glalie mega","ability_name":"refrigerate"}
+{"dex_num":363,"name":"spheal","ability_name":"thick-fat"}
+{"dex_num":363,"name":"spheal","ability_name":"ice-body"}
+{"dex_num":363,"name":"spheal","ability_name":"oblivious"}
+{"dex_num":364,"name":"sealeo","ability_name":"thick-fat"}
+{"dex_num":364,"name":"sealeo","ability_name":"ice-body"}
+{"dex_num":364,"name":"sealeo","ability_name":"oblivious"}
+{"dex_num":365,"name":"walrein","ability_name":"thick-fat"}
+{"dex_num":365,"name":"walrein","ability_name":"ice-body"}
+{"dex_num":365,"name":"walrein","ability_name":"oblivious"}
+{"dex_num":366,"name":"clamperl","ability_name":"shell-armor"}
+{"dex_num":366,"name":"clamperl","ability_name":"rattled"}
+{"dex_num":367,"name":"huntail","ability_name":"swift-swim"}
+{"dex_num":367,"name":"huntail","ability_name":"water-veil"}
+{"dex_num":368,"name":"gorebyss","ability_name":"swift-swim"}
+{"dex_num":368,"name":"gorebyss","ability_name":"hydration"}
+{"dex_num":369,"name":"relicanth","ability_name":"swift-swim"}
+{"dex_num":369,"name":"relicanth","ability_name":"rock-head"}
+{"dex_num":369,"name":"relicanth","ability_name":"sturdy"}
+{"dex_num":370,"name":"luvdisc","ability_name":"swift-swim"}
+{"dex_num":370,"name":"luvdisc","ability_name":"hydration"}
+{"dex_num":371,"name":"bagon","ability_name":"rock-head"}
+{"dex_num":371,"name":"bagon","ability_name":"sheer-force"}
+{"dex_num":372,"name":"shelgon","ability_name":"rock-head"}
+{"dex_num":372,"name":"shelgon","ability_name":"overcoat"}
+{"dex_num":373,"name":"salamence","ability_name":"intimidate"}
+{"dex_num":373,"name":"salamence","ability_name":"moxie"}
+{"dex_num":373,"name":"salamence mega","ability_name":"aerilate"}
+{"dex_num":374,"name":"beldum","ability_name":"clear-body"}
+{"dex_num":374,"name":"beldum","ability_name":"light-metal"}
+{"dex_num":375,"name":"metang","ability_name":"clear-body"}
+{"dex_num":375,"name":"metang","ability_name":"light-metal"}
+{"dex_num":376,"name":"metagross","ability_name":"clear-body"}
+{"dex_num":376,"name":"metagross","ability_name":"light-metal"}
+{"dex_num":376,"name":"metagross mega","ability_name":"tough-claws"}
+{"dex_num":377,"name":"regirock","ability_name":"clear-body"}
+{"dex_num":377,"name":"regirock","ability_name":"sturdy"}
+{"dex_num":378,"name":"regice","ability_name":"clear-body"}
+{"dex_num":378,"name":"regice","ability_name":"ice-body"}
+{"dex_num":379,"name":"registeel","ability_name":"clear-body"}
+{"dex_num":379,"name":"registeel","ability_name":"light-metal"}
+{"dex_num":380,"name":"latias","ability_name":"levitate"}
+{"dex_num":380,"name":"latias mega","ability_name":"levitate"}
+{"dex_num":381,"name":"latios","ability_name":"levitate"}
+{"dex_num":381,"name":"latios mega","ability_name":"levitate"}
+{"dex_num":382,"name":"kyogre","ability_name":"drizzle"}
+{"dex_num":382,"name":"kyogre primal","ability_name":"primordial-sea"}
+{"dex_num":383,"name":"groudon","ability_name":"drought"}
+{"dex_num":383,"name":"groudon primal","ability_name":"desolate-land"}
+{"dex_num":384,"name":"rayquaza","ability_name":"air-lock"}
+{"dex_num":384,"name":"rayquaza mega","ability_name":"delta-stream"}
+{"dex_num":385,"name":"jirachi","ability_name":"serene-grace"}
+{"dex_num":386,"name":"deoxys normal","ability_name":"pressure"}
+{"dex_num":386,"name":"deoxys attack","ability_name":"pressure"}
+{"dex_num":386,"name":"deoxys defense","ability_name":"pressure"}
+{"dex_num":386,"name":"deoxys speed","ability_name":"pressure"}
+{"dex_num":387,"name":"turtwig","ability_name":"overgrow"}
+{"dex_num":387,"name":"turtwig","ability_name":"shell-armor"}
+{"dex_num":388,"name":"grotle","ability_name":"overgrow"}
+{"dex_num":388,"name":"grotle","ability_name":"shell-armor"}
+{"dex_num":389,"name":"torterra","ability_name":"overgrow"}
+{"dex_num":389,"name":"torterra","ability_name":"shell-armor"}
+{"dex_num":390,"name":"chimchar","ability_name":"blaze"}
+{"dex_num":390,"name":"chimchar","ability_name":"iron-fist"}
+{"dex_num":391,"name":"monferno","ability_name":"blaze"}
+{"dex_num":391,"name":"monferno","ability_name":"iron-fist"}
+{"dex_num":392,"name":"infernape","ability_name":"blaze"}
+{"dex_num":392,"name":"infernape","ability_name":"iron-fist"}
+{"dex_num":393,"name":"piplup","ability_name":"torrent"}
+{"dex_num":393,"name":"piplup","ability_name":"competitive"}
+{"dex_num":394,"name":"prinplup","ability_name":"torrent"}
+{"dex_num":394,"name":"prinplup","ability_name":"competitive"}
+{"dex_num":395,"name":"empoleon","ability_name":"torrent"}
+{"dex_num":395,"name":"empoleon","ability_name":"competitive"}
+{"dex_num":396,"name":"starly","ability_name":"keen-eye"}
+{"dex_num":396,"name":"starly","ability_name":"reckless"}
+{"dex_num":397,"name":"staravia","ability_name":"intimidate"}
+{"dex_num":397,"name":"staravia","ability_name":"reckless"}
+{"dex_num":398,"name":"staraptor","ability_name":"intimidate"}
+{"dex_num":398,"name":"staraptor","ability_name":"reckless"}
+{"dex_num":399,"name":"bidoof","ability_name":"simple"}
+{"dex_num":399,"name":"bidoof","ability_name":"unaware"}
+{"dex_num":399,"name":"bidoof","ability_name":"moody"}
+{"dex_num":400,"name":"bibarel","ability_name":"simple"}
+{"dex_num":400,"name":"bibarel","ability_name":"unaware"}
+{"dex_num":400,"name":"bibarel","ability_name":"moody"}
+{"dex_num":401,"name":"kricketot","ability_name":"shed-skin"}
+{"dex_num":401,"name":"kricketot","ability_name":"run-away"}
+{"dex_num":402,"name":"kricketune","ability_name":"swarm"}
+{"dex_num":402,"name":"kricketune","ability_name":"technician"}
+{"dex_num":403,"name":"shinx","ability_name":"rivalry"}
+{"dex_num":403,"name":"shinx","ability_name":"intimidate"}
+{"dex_num":403,"name":"shinx","ability_name":"guts"}
+{"dex_num":404,"name":"luxio","ability_name":"rivalry"}
+{"dex_num":404,"name":"luxio","ability_name":"intimidate"}
+{"dex_num":404,"name":"luxio","ability_name":"guts"}
+{"dex_num":405,"name":"luxray","ability_name":"rivalry"}
+{"dex_num":405,"name":"luxray","ability_name":"intimidate"}
+{"dex_num":405,"name":"luxray","ability_name":"guts"}
+{"dex_num":406,"name":"budew","ability_name":"natural-cure"}
+{"dex_num":406,"name":"budew","ability_name":"poison-point"}
+{"dex_num":406,"name":"budew","ability_name":"leaf-guard"}
+{"dex_num":407,"name":"roserade","ability_name":"natural-cure"}
+{"dex_num":407,"name":"roserade","ability_name":"poison-point"}
+{"dex_num":407,"name":"roserade","ability_name":"technician"}
+{"dex_num":408,"name":"cranidos","ability_name":"mold-breaker"}
+{"dex_num":408,"name":"cranidos","ability_name":"sheer-force"}
+{"dex_num":409,"name":"rampardos","ability_name":"mold-breaker"}
+{"dex_num":409,"name":"rampardos","ability_name":"sheer-force"}
+{"dex_num":410,"name":"shieldon","ability_name":"sturdy"}
+{"dex_num":410,"name":"shieldon","ability_name":"soundproof"}
+{"dex_num":411,"name":"bastiodon","ability_name":"sturdy"}
+{"dex_num":411,"name":"bastiodon","ability_name":"soundproof"}
+{"dex_num":412,"name":"burmy","ability_name":"shed-skin"}
+{"dex_num":412,"name":"burmy","ability_name":"overcoat"}
+{"dex_num":413,"name":"wormadam plant","ability_name":"anticipation"}
+{"dex_num":413,"name":"wormadam plant","ability_name":"overcoat"}
+{"dex_num":413,"name":"wormadam sandy","ability_name":"anticipation"}
+{"dex_num":413,"name":"wormadam sandy","ability_name":"overcoat"}
+{"dex_num":413,"name":"wormadam trash","ability_name":"anticipation"}
+{"dex_num":413,"name":"wormadam trash","ability_name":"overcoat"}
+{"dex_num":414,"name":"mothim","ability_name":"swarm"}
+{"dex_num":414,"name":"mothim","ability_name":"tinted-lens"}
+{"dex_num":415,"name":"combee","ability_name":"honey-gather"}
+{"dex_num":415,"name":"combee","ability_name":"hustle"}
+{"dex_num":416,"name":"vespiquen","ability_name":"pressure"}
+{"dex_num":416,"name":"vespiquen","ability_name":"unnerve"}
+{"dex_num":417,"name":"pachirisu","ability_name":"run-away"}
+{"dex_num":417,"name":"pachirisu","ability_name":"pickup"}
+{"dex_num":417,"name":"pachirisu","ability_name":"volt-absorb"}
+{"dex_num":418,"name":"buizel","ability_name":"swift-swim"}
+{"dex_num":418,"name":"buizel","ability_name":"water-veil"}
+{"dex_num":419,"name":"floatzel","ability_name":"swift-swim"}
+{"dex_num":419,"name":"floatzel","ability_name":"water-veil"}
+{"dex_num":420,"name":"cherubi","ability_name":"chlorophyll"}
+{"dex_num":421,"name":"cherrim","ability_name":"flower-gift"}
+{"dex_num":422,"name":"shellos","ability_name":"sticky-hold"}
+{"dex_num":422,"name":"shellos","ability_name":"storm-drain"}
+{"dex_num":422,"name":"shellos","ability_name":"sand-force"}
+{"dex_num":423,"name":"gastrodon","ability_name":"sticky-hold"}
+{"dex_num":423,"name":"gastrodon","ability_name":"storm-drain"}
+{"dex_num":423,"name":"gastrodon","ability_name":"sand-force"}
+{"dex_num":424,"name":"ambipom","ability_name":"technician"}
+{"dex_num":424,"name":"ambipom","ability_name":"pickup"}
+{"dex_num":424,"name":"ambipom","ability_name":"skill-link"}
+{"dex_num":425,"name":"drifloon","ability_name":"aftermath"}
+{"dex_num":425,"name":"drifloon","ability_name":"unburden"}
+{"dex_num":425,"name":"drifloon","ability_name":"flare-boost"}
+{"dex_num":426,"name":"drifblim","ability_name":"aftermath"}
+{"dex_num":426,"name":"drifblim","ability_name":"unburden"}
+{"dex_num":426,"name":"drifblim","ability_name":"flare-boost"}
+{"dex_num":427,"name":"buneary","ability_name":"run-away"}
+{"dex_num":427,"name":"buneary","ability_name":"klutz"}
+{"dex_num":427,"name":"buneary","ability_name":"limber"}
+{"dex_num":428,"name":"lopunny","ability_name":"cute-charm"}
+{"dex_num":428,"name":"lopunny","ability_name":"klutz"}
+{"dex_num":428,"name":"lopunny","ability_name":"limber"}
+{"dex_num":428,"name":"lopunny mega","ability_name":"scrappy"}
+{"dex_num":429,"name":"mismagius","ability_name":"levitate"}
+{"dex_num":430,"name":"honchkrow","ability_name":"insomnia"}
+{"dex_num":430,"name":"honchkrow","ability_name":"super-luck"}
+{"dex_num":430,"name":"honchkrow","ability_name":"moxie"}
+{"dex_num":431,"name":"glameow","ability_name":"limber"}
+{"dex_num":431,"name":"glameow","ability_name":"own-tempo"}
+{"dex_num":431,"name":"glameow","ability_name":"keen-eye"}
+{"dex_num":432,"name":"purugly","ability_name":"thick-fat"}
+{"dex_num":432,"name":"purugly","ability_name":"own-tempo"}
+{"dex_num":432,"name":"purugly","ability_name":"defiant"}
+{"dex_num":433,"name":"chingling","ability_name":"levitate"}
+{"dex_num":434,"name":"stunky","ability_name":"stench"}
+{"dex_num":434,"name":"stunky","ability_name":"aftermath"}
+{"dex_num":434,"name":"stunky","ability_name":"keen-eye"}
+{"dex_num":435,"name":"skuntank","ability_name":"stench"}
+{"dex_num":435,"name":"skuntank","ability_name":"aftermath"}
+{"dex_num":435,"name":"skuntank","ability_name":"keen-eye"}
+{"dex_num":436,"name":"bronzor","ability_name":"levitate"}
+{"dex_num":436,"name":"bronzor","ability_name":"heatproof"}
+{"dex_num":436,"name":"bronzor","ability_name":"heavy-metal"}
+{"dex_num":437,"name":"bronzong","ability_name":"levitate"}
+{"dex_num":437,"name":"bronzong","ability_name":"heatproof"}
+{"dex_num":437,"name":"bronzong","ability_name":"heavy-metal"}
+{"dex_num":438,"name":"bonsly","ability_name":"sturdy"}
+{"dex_num":438,"name":"bonsly","ability_name":"rock-head"}
+{"dex_num":438,"name":"bonsly","ability_name":"rattled"}
+{"dex_num":439,"name":"mime jr","ability_name":"soundproof"}
+{"dex_num":439,"name":"mime jr","ability_name":"filter"}
+{"dex_num":439,"name":"mime jr","ability_name":"technician"}
+{"dex_num":440,"name":"happiny","ability_name":"natural-cure"}
+{"dex_num":440,"name":"happiny","ability_name":"serene-grace"}
+{"dex_num":440,"name":"happiny","ability_name":"friend-guard"}
+{"dex_num":441,"name":"chatot","ability_name":"keen-eye"}
+{"dex_num":441,"name":"chatot","ability_name":"tangled-feet"}
+{"dex_num":441,"name":"chatot","ability_name":"big-pecks"}
+{"dex_num":442,"name":"spiritomb","ability_name":"pressure"}
+{"dex_num":442,"name":"spiritomb","ability_name":"infiltrator"}
+{"dex_num":443,"name":"gible","ability_name":"sand-veil"}
+{"dex_num":443,"name":"gible","ability_name":"rough-skin"}
+{"dex_num":444,"name":"gabite","ability_name":"sand-veil"}
+{"dex_num":444,"name":"gabite","ability_name":"rough-skin"}
+{"dex_num":445,"name":"garchomp","ability_name":"sand-veil"}
+{"dex_num":445,"name":"garchomp","ability_name":"rough-skin"}
+{"dex_num":445,"name":"garchomp mega","ability_name":"sand-force"}
+{"dex_num":446,"name":"munchlax","ability_name":"pickup"}
+{"dex_num":446,"name":"munchlax","ability_name":"thick-fat"}
+{"dex_num":446,"name":"munchlax","ability_name":"gluttony"}
+{"dex_num":447,"name":"riolu","ability_name":"steadfast"}
+{"dex_num":447,"name":"riolu","ability_name":"inner-focus"}
+{"dex_num":447,"name":"riolu","ability_name":"prankster"}
+{"dex_num":448,"name":"lucario","ability_name":"steadfast"}
+{"dex_num":448,"name":"lucario","ability_name":"inner-focus"}
+{"dex_num":448,"name":"lucario","ability_name":"justified"}
+{"dex_num":448,"name":"lucario mega","ability_name":"adaptability"}
+{"dex_num":449,"name":"hippopotas","ability_name":"sand-stream"}
+{"dex_num":449,"name":"hippopotas","ability_name":"sand-force"}
+{"dex_num":450,"name":"hippowdon","ability_name":"sand-stream"}
+{"dex_num":450,"name":"hippowdon","ability_name":"sand-force"}
+{"dex_num":451,"name":"skorupi","ability_name":"battle-armor"}
+{"dex_num":451,"name":"skorupi","ability_name":"sniper"}
+{"dex_num":451,"name":"skorupi","ability_name":"keen-eye"}
+{"dex_num":452,"name":"drapion","ability_name":"battle-armor"}
+{"dex_num":452,"name":"drapion","ability_name":"sniper"}
+{"dex_num":452,"name":"drapion","ability_name":"keen-eye"}
+{"dex_num":453,"name":"croagunk","ability_name":"anticipation"}
+{"dex_num":453,"name":"croagunk","ability_name":"dry-skin"}
+{"dex_num":453,"name":"croagunk","ability_name":"poison-touch"}
+{"dex_num":454,"name":"toxicroak","ability_name":"anticipation"}
+{"dex_num":454,"name":"toxicroak","ability_name":"dry-skin"}
+{"dex_num":454,"name":"toxicroak","ability_name":"poison-touch"}
+{"dex_num":455,"name":"carnivine","ability_name":"levitate"}
+{"dex_num":456,"name":"finneon","ability_name":"swift-swim"}
+{"dex_num":456,"name":"finneon","ability_name":"storm-drain"}
+{"dex_num":456,"name":"finneon","ability_name":"water-veil"}
+{"dex_num":457,"name":"lumineon","ability_name":"swift-swim"}
+{"dex_num":457,"name":"lumineon","ability_name":"storm-drain"}
+{"dex_num":457,"name":"lumineon","ability_name":"water-veil"}
+{"dex_num":458,"name":"mantyke","ability_name":"swift-swim"}
+{"dex_num":458,"name":"mantyke","ability_name":"water-absorb"}
+{"dex_num":458,"name":"mantyke","ability_name":"water-veil"}
+{"dex_num":459,"name":"snover","ability_name":"snow-warning"}
+{"dex_num":459,"name":"snover","ability_name":"soundproof"}
+{"dex_num":460,"name":"abomasnow","ability_name":"snow-warning"}
+{"dex_num":460,"name":"abomasnow","ability_name":"soundproof"}
+{"dex_num":460,"name":"abomasnow mega","ability_name":"snow-warning"}
+{"dex_num":461,"name":"weavile","ability_name":"pressure"}
+{"dex_num":461,"name":"weavile","ability_name":"pickpocket"}
+{"dex_num":462,"name":"magnezone","ability_name":"magnet-pull"}
+{"dex_num":462,"name":"magnezone","ability_name":"sturdy"}
+{"dex_num":462,"name":"magnezone","ability_name":"analytic"}
+{"dex_num":463,"name":"lickilicky","ability_name":"own-tempo"}
+{"dex_num":463,"name":"lickilicky","ability_name":"oblivious"}
+{"dex_num":463,"name":"lickilicky","ability_name":"cloud-nine"}
+{"dex_num":464,"name":"rhyperior","ability_name":"lightning-rod"}
+{"dex_num":464,"name":"rhyperior","ability_name":"solid-rock"}
+{"dex_num":464,"name":"rhyperior","ability_name":"reckless"}
+{"dex_num":465,"name":"tangrowth","ability_name":"chlorophyll"}
+{"dex_num":465,"name":"tangrowth","ability_name":"leaf-guard"}
+{"dex_num":465,"name":"tangrowth","ability_name":"regenerator"}
+{"dex_num":466,"name":"electivire","ability_name":"motor-drive"}
+{"dex_num":466,"name":"electivire","ability_name":"vital-spirit"}
+{"dex_num":467,"name":"magmortar","ability_name":"flame-body"}
+{"dex_num":467,"name":"magmortar","ability_name":"vital-spirit"}
+{"dex_num":468,"name":"togekiss","ability_name":"hustle"}
+{"dex_num":468,"name":"togekiss","ability_name":"serene-grace"}
+{"dex_num":468,"name":"togekiss","ability_name":"super-luck"}
+{"dex_num":469,"name":"yanmega","ability_name":"speed-boost"}
+{"dex_num":469,"name":"yanmega","ability_name":"tinted-lens"}
+{"dex_num":469,"name":"yanmega","ability_name":"frisk"}
+{"dex_num":470,"name":"leafeon","ability_name":"leaf-guard"}
+{"dex_num":470,"name":"leafeon","ability_name":"chlorophyll"}
+{"dex_num":471,"name":"glaceon","ability_name":"snow-cloak"}
+{"dex_num":471,"name":"glaceon","ability_name":"ice-body"}
+{"dex_num":472,"name":"gliscor","ability_name":"hyper-cutter"}
+{"dex_num":472,"name":"gliscor","ability_name":"sand-veil"}
+{"dex_num":472,"name":"gliscor","ability_name":"poison-heal"}
+{"dex_num":473,"name":"mamoswine","ability_name":"oblivious"}
+{"dex_num":473,"name":"mamoswine","ability_name":"snow-cloak"}
+{"dex_num":473,"name":"mamoswine","ability_name":"thick-fat"}
+{"dex_num":474,"name":"porygon z","ability_name":"adaptability"}
+{"dex_num":474,"name":"porygon z","ability_name":"download"}
+{"dex_num":474,"name":"porygon z","ability_name":"analytic"}
+{"dex_num":475,"name":"gallade","ability_name":"steadfast"}
+{"dex_num":475,"name":"gallade","ability_name":"sharpness"}
+{"dex_num":475,"name":"gallade","ability_name":"justified"}
+{"dex_num":475,"name":"gallade mega","ability_name":"inner-focus"}
+{"dex_num":476,"name":"probopass","ability_name":"sturdy"}
+{"dex_num":476,"name":"probopass","ability_name":"magnet-pull"}
+{"dex_num":476,"name":"probopass","ability_name":"sand-force"}
+{"dex_num":477,"name":"dusknoir","ability_name":"pressure"}
+{"dex_num":477,"name":"dusknoir","ability_name":"frisk"}
+{"dex_num":478,"name":"froslass","ability_name":"snow-cloak"}
+{"dex_num":478,"name":"froslass","ability_name":"cursed-body"}
+{"dex_num":479,"name":"rotom","ability_name":"levitate"}
+{"dex_num":479,"name":"rotom heat","ability_name":"levitate"}
+{"dex_num":479,"name":"rotom wash","ability_name":"levitate"}
+{"dex_num":479,"name":"rotom frost","ability_name":"levitate"}
+{"dex_num":479,"name":"rotom fan","ability_name":"levitate"}
+{"dex_num":479,"name":"rotom mow","ability_name":"levitate"}
+{"dex_num":480,"name":"uxie","ability_name":"levitate"}
+{"dex_num":481,"name":"mesprit","ability_name":"levitate"}
+{"dex_num":482,"name":"azelf","ability_name":"levitate"}
+{"dex_num":483,"name":"dialga","ability_name":"pressure"}
+{"dex_num":483,"name":"dialga","ability_name":"telepathy"}
+{"dex_num":483,"name":"dialga origin","ability_name":"pressure"}
+{"dex_num":483,"name":"dialga origin","ability_name":"telepathy"}
+{"dex_num":484,"name":"palkia","ability_name":"pressure"}
+{"dex_num":484,"name":"palkia","ability_name":"telepathy"}
+{"dex_num":484,"name":"palkia origin","ability_name":"pressure"}
+{"dex_num":484,"name":"palkia origin","ability_name":"telepathy"}
+{"dex_num":485,"name":"heatran","ability_name":"flash-fire"}
+{"dex_num":485,"name":"heatran","ability_name":"flame-body"}
+{"dex_num":486,"name":"regigigas","ability_name":"slow-start"}
+{"dex_num":487,"name":"giratina altered","ability_name":"pressure"}
+{"dex_num":487,"name":"giratina altered","ability_name":"telepathy"}
+{"dex_num":487,"name":"giratina origin","ability_name":"levitate"}
+{"dex_num":488,"name":"cresselia","ability_name":"levitate"}
+{"dex_num":489,"name":"phione","ability_name":"hydration"}
+{"dex_num":490,"name":"manaphy","ability_name":"hydration"}
+{"dex_num":491,"name":"darkrai","ability_name":"bad-dreams"}
+{"dex_num":492,"name":"shaymin land","ability_name":"natural-cure"}
+{"dex_num":492,"name":"shaymin sky","ability_name":"serene-grace"}
+{"dex_num":493,"name":"arceus","ability_name":"multitype"}
+{"dex_num":494,"name":"victini","ability_name":"victory-star"}
+{"dex_num":495,"name":"snivy","ability_name":"overgrow"}
+{"dex_num":495,"name":"snivy","ability_name":"contrary"}
+{"dex_num":496,"name":"servine","ability_name":"overgrow"}
+{"dex_num":496,"name":"servine","ability_name":"contrary"}
+{"dex_num":497,"name":"serperior","ability_name":"overgrow"}
+{"dex_num":497,"name":"serperior","ability_name":"contrary"}
+{"dex_num":498,"name":"tepig","ability_name":"blaze"}
+{"dex_num":498,"name":"tepig","ability_name":"thick-fat"}
+{"dex_num":499,"name":"pignite","ability_name":"blaze"}
+{"dex_num":499,"name":"pignite","ability_name":"thick-fat"}
+{"dex_num":500,"name":"emboar","ability_name":"blaze"}
+{"dex_num":500,"name":"emboar","ability_name":"reckless"}
+{"dex_num":501,"name":"oshawott","ability_name":"torrent"}
+{"dex_num":501,"name":"oshawott","ability_name":"shell-armor"}
+{"dex_num":502,"name":"dewott","ability_name":"torrent"}
+{"dex_num":502,"name":"dewott","ability_name":"shell-armor"}
+{"dex_num":503,"name":"samurott","ability_name":"torrent"}
+{"dex_num":503,"name":"samurott","ability_name":"shell-armor"}
+{"dex_num":503,"name":"samurott hisui","ability_name":"torrent"}
+{"dex_num":503,"name":"samurott hisui","ability_name":"sharpness"}
+{"dex_num":504,"name":"patrat","ability_name":"run-away"}
+{"dex_num":504,"name":"patrat","ability_name":"keen-eye"}
+{"dex_num":504,"name":"patrat","ability_name":"analytic"}
+{"dex_num":505,"name":"watchog","ability_name":"illuminate"}
+{"dex_num":505,"name":"watchog","ability_name":"keen-eye"}
+{"dex_num":505,"name":"watchog","ability_name":"analytic"}
+{"dex_num":506,"name":"lillipup","ability_name":"vital-spirit"}
+{"dex_num":506,"name":"lillipup","ability_name":"pickup"}
+{"dex_num":506,"name":"lillipup","ability_name":"run-away"}
+{"dex_num":507,"name":"herdier","ability_name":"intimidate"}
+{"dex_num":507,"name":"herdier","ability_name":"sand-rush"}
+{"dex_num":507,"name":"herdier","ability_name":"scrappy"}
+{"dex_num":508,"name":"stoutland","ability_name":"intimidate"}
+{"dex_num":508,"name":"stoutland","ability_name":"sand-rush"}
+{"dex_num":508,"name":"stoutland","ability_name":"scrappy"}
+{"dex_num":509,"name":"purrloin","ability_name":"limber"}
+{"dex_num":509,"name":"purrloin","ability_name":"unburden"}
+{"dex_num":509,"name":"purrloin","ability_name":"prankster"}
+{"dex_num":510,"name":"liepard","ability_name":"limber"}
+{"dex_num":510,"name":"liepard","ability_name":"unburden"}
+{"dex_num":510,"name":"liepard","ability_name":"prankster"}
+{"dex_num":511,"name":"pansage","ability_name":"gluttony"}
+{"dex_num":511,"name":"pansage","ability_name":"overgrow"}
+{"dex_num":512,"name":"simisage","ability_name":"gluttony"}
+{"dex_num":512,"name":"simisage","ability_name":"overgrow"}
+{"dex_num":513,"name":"pansear","ability_name":"gluttony"}
+{"dex_num":513,"name":"pansear","ability_name":"blaze"}
+{"dex_num":514,"name":"simisear","ability_name":"gluttony"}
+{"dex_num":514,"name":"simisear","ability_name":"blaze"}
+{"dex_num":515,"name":"panpour","ability_name":"gluttony"}
+{"dex_num":515,"name":"panpour","ability_name":"torrent"}
+{"dex_num":516,"name":"simipour","ability_name":"gluttony"}
+{"dex_num":516,"name":"simipour","ability_name":"torrent"}
+{"dex_num":517,"name":"munna","ability_name":"forewarn"}
+{"dex_num":517,"name":"munna","ability_name":"synchronize"}
+{"dex_num":517,"name":"munna","ability_name":"telepathy"}
+{"dex_num":518,"name":"musharna","ability_name":"forewarn"}
+{"dex_num":518,"name":"musharna","ability_name":"synchronize"}
+{"dex_num":518,"name":"musharna","ability_name":"telepathy"}
+{"dex_num":519,"name":"pidove","ability_name":"big-pecks"}
+{"dex_num":519,"name":"pidove","ability_name":"super-luck"}
+{"dex_num":519,"name":"pidove","ability_name":"rivalry"}
+{"dex_num":520,"name":"tranquill","ability_name":"big-pecks"}
+{"dex_num":520,"name":"tranquill","ability_name":"super-luck"}
+{"dex_num":520,"name":"tranquill","ability_name":"rivalry"}
+{"dex_num":521,"name":"unfezant","ability_name":"big-pecks"}
+{"dex_num":521,"name":"unfezant","ability_name":"super-luck"}
+{"dex_num":521,"name":"unfezant","ability_name":"rivalry"}
+{"dex_num":522,"name":"blitzle","ability_name":"lightning-rod"}
+{"dex_num":522,"name":"blitzle","ability_name":"motor-drive"}
+{"dex_num":522,"name":"blitzle","ability_name":"sap-sipper"}
+{"dex_num":523,"name":"zebstrika","ability_name":"lightning-rod"}
+{"dex_num":523,"name":"zebstrika","ability_name":"motor-drive"}
+{"dex_num":523,"name":"zebstrika","ability_name":"sap-sipper"}
+{"dex_num":524,"name":"roggenrola","ability_name":"sturdy"}
+{"dex_num":524,"name":"roggenrola","ability_name":"weak-armor"}
+{"dex_num":524,"name":"roggenrola","ability_name":"sand-force"}
+{"dex_num":525,"name":"boldore","ability_name":"sturdy"}
+{"dex_num":525,"name":"boldore","ability_name":"weak-armor"}
+{"dex_num":525,"name":"boldore","ability_name":"sand-force"}
+{"dex_num":526,"name":"gigalith","ability_name":"sturdy"}
+{"dex_num":526,"name":"gigalith","ability_name":"sand-stream"}
+{"dex_num":526,"name":"gigalith","ability_name":"sand-force"}
+{"dex_num":527,"name":"woobat","ability_name":"unaware"}
+{"dex_num":527,"name":"woobat","ability_name":"klutz"}
+{"dex_num":527,"name":"woobat","ability_name":"simple"}
+{"dex_num":528,"name":"swoobat","ability_name":"unaware"}
+{"dex_num":528,"name":"swoobat","ability_name":"klutz"}
+{"dex_num":528,"name":"swoobat","ability_name":"simple"}
+{"dex_num":529,"name":"drilbur","ability_name":"sand-rush"}
+{"dex_num":529,"name":"drilbur","ability_name":"sand-force"}
+{"dex_num":529,"name":"drilbur","ability_name":"mold-breaker"}
+{"dex_num":530,"name":"excadrill","ability_name":"sand-rush"}
+{"dex_num":530,"name":"excadrill","ability_name":"sand-force"}
+{"dex_num":530,"name":"excadrill","ability_name":"mold-breaker"}
+{"dex_num":531,"name":"audino","ability_name":"healer"}
+{"dex_num":531,"name":"audino","ability_name":"regenerator"}
+{"dex_num":531,"name":"audino","ability_name":"klutz"}
+{"dex_num":531,"name":"audino mega","ability_name":"healer"}
+{"dex_num":532,"name":"timburr","ability_name":"guts"}
+{"dex_num":532,"name":"timburr","ability_name":"sheer-force"}
+{"dex_num":532,"name":"timburr","ability_name":"iron-fist"}
+{"dex_num":533,"name":"gurdurr","ability_name":"guts"}
+{"dex_num":533,"name":"gurdurr","ability_name":"sheer-force"}
+{"dex_num":533,"name":"gurdurr","ability_name":"iron-fist"}
+{"dex_num":534,"name":"conkeldurr","ability_name":"guts"}
+{"dex_num":534,"name":"conkeldurr","ability_name":"sheer-force"}
+{"dex_num":534,"name":"conkeldurr","ability_name":"iron-fist"}
+{"dex_num":535,"name":"tympole","ability_name":"swift-swim"}
+{"dex_num":535,"name":"tympole","ability_name":"hydration"}
+{"dex_num":535,"name":"tympole","ability_name":"water-absorb"}
+{"dex_num":536,"name":"palpitoad","ability_name":"swift-swim"}
+{"dex_num":536,"name":"palpitoad","ability_name":"hydration"}
+{"dex_num":536,"name":"palpitoad","ability_name":"water-absorb"}
+{"dex_num":537,"name":"seismitoad","ability_name":"swift-swim"}
+{"dex_num":537,"name":"seismitoad","ability_name":"poison-touch"}
+{"dex_num":537,"name":"seismitoad","ability_name":"water-absorb"}
+{"dex_num":538,"name":"throh","ability_name":"guts"}
+{"dex_num":538,"name":"throh","ability_name":"inner-focus"}
+{"dex_num":538,"name":"throh","ability_name":"mold-breaker"}
+{"dex_num":539,"name":"sawk","ability_name":"sturdy"}
+{"dex_num":539,"name":"sawk","ability_name":"inner-focus"}
+{"dex_num":539,"name":"sawk","ability_name":"mold-breaker"}
+{"dex_num":540,"name":"sewaddle","ability_name":"swarm"}
+{"dex_num":540,"name":"sewaddle","ability_name":"chlorophyll"}
+{"dex_num":540,"name":"sewaddle","ability_name":"overcoat"}
+{"dex_num":541,"name":"swadloon","ability_name":"leaf-guard"}
+{"dex_num":541,"name":"swadloon","ability_name":"chlorophyll"}
+{"dex_num":541,"name":"swadloon","ability_name":"overcoat"}
+{"dex_num":542,"name":"leavanny","ability_name":"swarm"}
+{"dex_num":542,"name":"leavanny","ability_name":"chlorophyll"}
+{"dex_num":542,"name":"leavanny","ability_name":"overcoat"}
+{"dex_num":543,"name":"venipede","ability_name":"poison-point"}
+{"dex_num":543,"name":"venipede","ability_name":"swarm"}
+{"dex_num":543,"name":"venipede","ability_name":"speed-boost"}
+{"dex_num":544,"name":"whirlipede","ability_name":"poison-point"}
+{"dex_num":544,"name":"whirlipede","ability_name":"swarm"}
+{"dex_num":544,"name":"whirlipede","ability_name":"speed-boost"}
+{"dex_num":545,"name":"scolipede","ability_name":"poison-point"}
+{"dex_num":545,"name":"scolipede","ability_name":"swarm"}
+{"dex_num":545,"name":"scolipede","ability_name":"speed-boost"}
+{"dex_num":546,"name":"cottonee","ability_name":"prankster"}
+{"dex_num":546,"name":"cottonee","ability_name":"infiltrator"}
+{"dex_num":546,"name":"cottonee","ability_name":"chlorophyll"}
+{"dex_num":547,"name":"whimsicott","ability_name":"prankster"}
+{"dex_num":547,"name":"whimsicott","ability_name":"infiltrator"}
+{"dex_num":547,"name":"whimsicott","ability_name":"chlorophyll"}
+{"dex_num":548,"name":"petilil","ability_name":"chlorophyll"}
+{"dex_num":548,"name":"petilil","ability_name":"own-tempo"}
+{"dex_num":548,"name":"petilil","ability_name":"leaf-guard"}
+{"dex_num":549,"name":"lilligant","ability_name":"chlorophyll"}
+{"dex_num":549,"name":"lilligant","ability_name":"own-tempo"}
+{"dex_num":549,"name":"lilligant","ability_name":"leaf-guard"}
+{"dex_num":549,"name":"lilligant hisui","ability_name":"chlorophyll"}
+{"dex_num":549,"name":"lilligant hisui","ability_name":"hustle"}
+{"dex_num":549,"name":"lilligant hisui","ability_name":"leaf-guard"}
+{"dex_num":550,"name":"basculin red striped","ability_name":"reckless"}
+{"dex_num":550,"name":"basculin red striped","ability_name":"adaptability"}
+{"dex_num":550,"name":"basculin red striped","ability_name":"mold-breaker"}
+{"dex_num":550,"name":"basculin blue striped","ability_name":"rock-head"}
+{"dex_num":550,"name":"basculin blue striped","ability_name":"adaptability"}
+{"dex_num":550,"name":"basculin blue striped","ability_name":"mold-breaker"}
+{"dex_num":550,"name":"basculin white striped","ability_name":"rattled"}
+{"dex_num":550,"name":"basculin white striped","ability_name":"adaptability"}
+{"dex_num":550,"name":"basculin white striped","ability_name":"mold-breaker"}
+{"dex_num":551,"name":"sandile","ability_name":"intimidate"}
+{"dex_num":551,"name":"sandile","ability_name":"moxie"}
+{"dex_num":551,"name":"sandile","ability_name":"anger-point"}
+{"dex_num":552,"name":"krokorok","ability_name":"intimidate"}
+{"dex_num":552,"name":"krokorok","ability_name":"moxie"}
+{"dex_num":552,"name":"krokorok","ability_name":"anger-point"}
+{"dex_num":553,"name":"krookodile","ability_name":"intimidate"}
+{"dex_num":553,"name":"krookodile","ability_name":"moxie"}
+{"dex_num":553,"name":"krookodile","ability_name":"anger-point"}
+{"dex_num":554,"name":"darumaka","ability_name":"hustle"}
+{"dex_num":554,"name":"darumaka","ability_name":"inner-focus"}
+{"dex_num":554,"name":"darumaka galar","ability_name":"hustle"}
+{"dex_num":554,"name":"darumaka galar","ability_name":"inner-focus"}
+{"dex_num":555,"name":"darmanitan standard","ability_name":"sheer-force"}
+{"dex_num":555,"name":"darmanitan standard","ability_name":"zen-mode"}
+{"dex_num":555,"name":"darmanitan zen","ability_name":"sheer-force"}
+{"dex_num":555,"name":"darmanitan zen","ability_name":"zen-mode"}
+{"dex_num":555,"name":"darmanitan galar standard","ability_name":"gorilla-tactics"}
+{"dex_num":555,"name":"darmanitan galar standard","ability_name":"zen-mode"}
+{"dex_num":555,"name":"darmanitan galar zen","ability_name":"gorilla-tactics"}
+{"dex_num":555,"name":"darmanitan galar zen","ability_name":"zen-mode"}
+{"dex_num":556,"name":"maractus","ability_name":"water-absorb"}
+{"dex_num":556,"name":"maractus","ability_name":"chlorophyll"}
+{"dex_num":556,"name":"maractus","ability_name":"storm-drain"}
+{"dex_num":557,"name":"dwebble","ability_name":"sturdy"}
+{"dex_num":557,"name":"dwebble","ability_name":"shell-armor"}
+{"dex_num":557,"name":"dwebble","ability_name":"weak-armor"}
+{"dex_num":558,"name":"crustle","ability_name":"sturdy"}
+{"dex_num":558,"name":"crustle","ability_name":"shell-armor"}
+{"dex_num":558,"name":"crustle","ability_name":"weak-armor"}
+{"dex_num":559,"name":"scraggy","ability_name":"shed-skin"}
+{"dex_num":559,"name":"scraggy","ability_name":"moxie"}
+{"dex_num":559,"name":"scraggy","ability_name":"intimidate"}
+{"dex_num":560,"name":"scrafty","ability_name":"shed-skin"}
+{"dex_num":560,"name":"scrafty","ability_name":"moxie"}
+{"dex_num":560,"name":"scrafty","ability_name":"intimidate"}
+{"dex_num":561,"name":"sigilyph","ability_name":"wonder-skin"}
+{"dex_num":561,"name":"sigilyph","ability_name":"magic-guard"}
+{"dex_num":561,"name":"sigilyph","ability_name":"tinted-lens"}
+{"dex_num":562,"name":"yamask","ability_name":"mummy"}
+{"dex_num":562,"name":"yamask galar","ability_name":"wandering-spirit"}
+{"dex_num":563,"name":"cofagrigus","ability_name":"mummy"}
+{"dex_num":564,"name":"tirtouga","ability_name":"solid-rock"}
+{"dex_num":564,"name":"tirtouga","ability_name":"sturdy"}
+{"dex_num":564,"name":"tirtouga","ability_name":"swift-swim"}
+{"dex_num":565,"name":"carracosta","ability_name":"solid-rock"}
+{"dex_num":565,"name":"carracosta","ability_name":"sturdy"}
+{"dex_num":565,"name":"carracosta","ability_name":"swift-swim"}
+{"dex_num":566,"name":"archen","ability_name":"defeatist"}
+{"dex_num":567,"name":"archeops","ability_name":"defeatist"}
+{"dex_num":568,"name":"trubbish","ability_name":"stench"}
+{"dex_num":568,"name":"trubbish","ability_name":"sticky-hold"}
+{"dex_num":568,"name":"trubbish","ability_name":"aftermath"}
+{"dex_num":569,"name":"garbodor","ability_name":"stench"}
+{"dex_num":569,"name":"garbodor","ability_name":"weak-armor"}
+{"dex_num":569,"name":"garbodor","ability_name":"aftermath"}
+{"dex_num":569,"name":"garbodor gmax","ability_name":"stench"}
+{"dex_num":569,"name":"garbodor gmax","ability_name":"weak-armor"}
+{"dex_num":569,"name":"garbodor gmax","ability_name":"aftermath"}
+{"dex_num":570,"name":"zorua","ability_name":"illusion"}
+{"dex_num":570,"name":"zorua hisui","ability_name":"illusion"}
+{"dex_num":571,"name":"zoroark","ability_name":"illusion"}
+{"dex_num":571,"name":"zoroark hisui","ability_name":"illusion"}
+{"dex_num":572,"name":"minccino","ability_name":"cute-charm"}
+{"dex_num":572,"name":"minccino","ability_name":"technician"}
+{"dex_num":572,"name":"minccino","ability_name":"skill-link"}
+{"dex_num":573,"name":"cinccino","ability_name":"cute-charm"}
+{"dex_num":573,"name":"cinccino","ability_name":"technician"}
+{"dex_num":573,"name":"cinccino","ability_name":"skill-link"}
+{"dex_num":574,"name":"gothita","ability_name":"frisk"}
+{"dex_num":574,"name":"gothita","ability_name":"competitive"}
+{"dex_num":574,"name":"gothita","ability_name":"shadow-tag"}
+{"dex_num":575,"name":"gothorita","ability_name":"frisk"}
+{"dex_num":575,"name":"gothorita","ability_name":"competitive"}
+{"dex_num":575,"name":"gothorita","ability_name":"shadow-tag"}
+{"dex_num":576,"name":"gothitelle","ability_name":"frisk"}
+{"dex_num":576,"name":"gothitelle","ability_name":"competitive"}
+{"dex_num":576,"name":"gothitelle","ability_name":"shadow-tag"}
+{"dex_num":577,"name":"solosis","ability_name":"overcoat"}
+{"dex_num":577,"name":"solosis","ability_name":"magic-guard"}
+{"dex_num":577,"name":"solosis","ability_name":"regenerator"}
+{"dex_num":578,"name":"duosion","ability_name":"overcoat"}
+{"dex_num":578,"name":"duosion","ability_name":"magic-guard"}
+{"dex_num":578,"name":"duosion","ability_name":"regenerator"}
+{"dex_num":579,"name":"reuniclus","ability_name":"overcoat"}
+{"dex_num":579,"name":"reuniclus","ability_name":"magic-guard"}
+{"dex_num":579,"name":"reuniclus","ability_name":"regenerator"}
+{"dex_num":580,"name":"ducklett","ability_name":"keen-eye"}
+{"dex_num":580,"name":"ducklett","ability_name":"big-pecks"}
+{"dex_num":580,"name":"ducklett","ability_name":"hydration"}
+{"dex_num":581,"name":"swanna","ability_name":"keen-eye"}
+{"dex_num":581,"name":"swanna","ability_name":"big-pecks"}
+{"dex_num":581,"name":"swanna","ability_name":"hydration"}
+{"dex_num":582,"name":"vanillite","ability_name":"ice-body"}
+{"dex_num":582,"name":"vanillite","ability_name":"snow-cloak"}
+{"dex_num":582,"name":"vanillite","ability_name":"weak-armor"}
+{"dex_num":583,"name":"vanillish","ability_name":"ice-body"}
+{"dex_num":583,"name":"vanillish","ability_name":"snow-cloak"}
+{"dex_num":583,"name":"vanillish","ability_name":"weak-armor"}
+{"dex_num":584,"name":"vanilluxe","ability_name":"ice-body"}
+{"dex_num":584,"name":"vanilluxe","ability_name":"snow-warning"}
+{"dex_num":584,"name":"vanilluxe","ability_name":"weak-armor"}
+{"dex_num":585,"name":"deerling","ability_name":"chlorophyll"}
+{"dex_num":585,"name":"deerling","ability_name":"sap-sipper"}
+{"dex_num":585,"name":"deerling","ability_name":"serene-grace"}
+{"dex_num":586,"name":"sawsbuck","ability_name":"chlorophyll"}
+{"dex_num":586,"name":"sawsbuck","ability_name":"sap-sipper"}
+{"dex_num":586,"name":"sawsbuck","ability_name":"serene-grace"}
+{"dex_num":587,"name":"emolga","ability_name":"static"}
+{"dex_num":587,"name":"emolga","ability_name":"motor-drive"}
+{"dex_num":588,"name":"karrablast","ability_name":"swarm"}
+{"dex_num":588,"name":"karrablast","ability_name":"shed-skin"}
+{"dex_num":588,"name":"karrablast","ability_name":"no-guard"}
+{"dex_num":589,"name":"escavalier","ability_name":"swarm"}
+{"dex_num":589,"name":"escavalier","ability_name":"shell-armor"}
+{"dex_num":589,"name":"escavalier","ability_name":"overcoat"}
+{"dex_num":590,"name":"foongus","ability_name":"effect-spore"}
+{"dex_num":590,"name":"foongus","ability_name":"regenerator"}
+{"dex_num":591,"name":"amoonguss","ability_name":"effect-spore"}
+{"dex_num":591,"name":"amoonguss","ability_name":"regenerator"}
+{"dex_num":592,"name":"frillish","ability_name":"water-absorb"}
+{"dex_num":592,"name":"frillish","ability_name":"cursed-body"}
+{"dex_num":592,"name":"frillish","ability_name":"damp"}
+{"dex_num":593,"name":"jellicent","ability_name":"water-absorb"}
+{"dex_num":593,"name":"jellicent","ability_name":"cursed-body"}
+{"dex_num":593,"name":"jellicent","ability_name":"damp"}
+{"dex_num":594,"name":"alomomola","ability_name":"healer"}
+{"dex_num":594,"name":"alomomola","ability_name":"hydration"}
+{"dex_num":594,"name":"alomomola","ability_name":"regenerator"}
+{"dex_num":595,"name":"joltik","ability_name":"compound-eyes"}
+{"dex_num":595,"name":"joltik","ability_name":"unnerve"}
+{"dex_num":595,"name":"joltik","ability_name":"swarm"}
+{"dex_num":596,"name":"galvantula","ability_name":"compound-eyes"}
+{"dex_num":596,"name":"galvantula","ability_name":"unnerve"}
+{"dex_num":596,"name":"galvantula","ability_name":"swarm"}
+{"dex_num":597,"name":"ferroseed","ability_name":"iron-barbs"}
+{"dex_num":598,"name":"ferrothorn","ability_name":"iron-barbs"}
+{"dex_num":598,"name":"ferrothorn","ability_name":"anticipation"}
+{"dex_num":599,"name":"klink","ability_name":"plus"}
+{"dex_num":599,"name":"klink","ability_name":"minus"}
+{"dex_num":599,"name":"klink","ability_name":"clear-body"}
+{"dex_num":600,"name":"klang","ability_name":"plus"}
+{"dex_num":600,"name":"klang","ability_name":"minus"}
+{"dex_num":600,"name":"klang","ability_name":"clear-body"}
+{"dex_num":601,"name":"klinklang","ability_name":"plus"}
+{"dex_num":601,"name":"klinklang","ability_name":"minus"}
+{"dex_num":601,"name":"klinklang","ability_name":"clear-body"}
+{"dex_num":602,"name":"tynamo","ability_name":"levitate"}
+{"dex_num":603,"name":"eelektrik","ability_name":"levitate"}
+{"dex_num":604,"name":"eelektross","ability_name":"levitate"}
+{"dex_num":605,"name":"elgyem","ability_name":"telepathy"}
+{"dex_num":605,"name":"elgyem","ability_name":"synchronize"}
+{"dex_num":605,"name":"elgyem","ability_name":"analytic"}
+{"dex_num":606,"name":"beheeyem","ability_name":"telepathy"}
+{"dex_num":606,"name":"beheeyem","ability_name":"synchronize"}
+{"dex_num":606,"name":"beheeyem","ability_name":"analytic"}
+{"dex_num":607,"name":"litwick","ability_name":"flash-fire"}
+{"dex_num":607,"name":"litwick","ability_name":"flame-body"}
+{"dex_num":607,"name":"litwick","ability_name":"infiltrator"}
+{"dex_num":608,"name":"lampent","ability_name":"flash-fire"}
+{"dex_num":608,"name":"lampent","ability_name":"flame-body"}
+{"dex_num":608,"name":"lampent","ability_name":"infiltrator"}
+{"dex_num":609,"name":"chandelure","ability_name":"flash-fire"}
+{"dex_num":609,"name":"chandelure","ability_name":"flame-body"}
+{"dex_num":609,"name":"chandelure","ability_name":"infiltrator"}
+{"dex_num":610,"name":"axew","ability_name":"rivalry"}
+{"dex_num":610,"name":"axew","ability_name":"mold-breaker"}
+{"dex_num":610,"name":"axew","ability_name":"unnerve"}
+{"dex_num":611,"name":"fraxure","ability_name":"rivalry"}
+{"dex_num":611,"name":"fraxure","ability_name":"mold-breaker"}
+{"dex_num":611,"name":"fraxure","ability_name":"unnerve"}
+{"dex_num":612,"name":"haxorus","ability_name":"rivalry"}
+{"dex_num":612,"name":"haxorus","ability_name":"mold-breaker"}
+{"dex_num":612,"name":"haxorus","ability_name":"unnerve"}
+{"dex_num":613,"name":"cubchoo","ability_name":"snow-cloak"}
+{"dex_num":613,"name":"cubchoo","ability_name":"slush-rush"}
+{"dex_num":613,"name":"cubchoo","ability_name":"rattled"}
+{"dex_num":614,"name":"beartic","ability_name":"snow-cloak"}
+{"dex_num":614,"name":"beartic","ability_name":"slush-rush"}
+{"dex_num":614,"name":"beartic","ability_name":"swift-swim"}
+{"dex_num":615,"name":"cryogonal","ability_name":"levitate"}
+{"dex_num":616,"name":"shelmet","ability_name":"hydration"}
+{"dex_num":616,"name":"shelmet","ability_name":"shell-armor"}
+{"dex_num":616,"name":"shelmet","ability_name":"overcoat"}
+{"dex_num":617,"name":"accelgor","ability_name":"hydration"}
+{"dex_num":617,"name":"accelgor","ability_name":"sticky-hold"}
+{"dex_num":617,"name":"accelgor","ability_name":"unburden"}
+{"dex_num":618,"name":"stunfisk","ability_name":"static"}
+{"dex_num":618,"name":"stunfisk","ability_name":"limber"}
+{"dex_num":618,"name":"stunfisk","ability_name":"sand-veil"}
+{"dex_num":618,"name":"stunfisk galar","ability_name":"mimicry"}
+{"dex_num":619,"name":"mienfoo","ability_name":"inner-focus"}
+{"dex_num":619,"name":"mienfoo","ability_name":"regenerator"}
+{"dex_num":619,"name":"mienfoo","ability_name":"reckless"}
+{"dex_num":620,"name":"mienshao","ability_name":"inner-focus"}
+{"dex_num":620,"name":"mienshao","ability_name":"regenerator"}
+{"dex_num":620,"name":"mienshao","ability_name":"reckless"}
+{"dex_num":621,"name":"druddigon","ability_name":"rough-skin"}
+{"dex_num":621,"name":"druddigon","ability_name":"sheer-force"}
+{"dex_num":621,"name":"druddigon","ability_name":"mold-breaker"}
+{"dex_num":622,"name":"golett","ability_name":"iron-fist"}
+{"dex_num":622,"name":"golett","ability_name":"klutz"}
+{"dex_num":622,"name":"golett","ability_name":"no-guard"}
+{"dex_num":623,"name":"golurk","ability_name":"iron-fist"}
+{"dex_num":623,"name":"golurk","ability_name":"klutz"}
+{"dex_num":623,"name":"golurk","ability_name":"no-guard"}
+{"dex_num":624,"name":"pawniard","ability_name":"defiant"}
+{"dex_num":624,"name":"pawniard","ability_name":"inner-focus"}
+{"dex_num":624,"name":"pawniard","ability_name":"pressure"}
+{"dex_num":625,"name":"bisharp","ability_name":"defiant"}
+{"dex_num":625,"name":"bisharp","ability_name":"inner-focus"}
+{"dex_num":625,"name":"bisharp","ability_name":"pressure"}
+{"dex_num":626,"name":"bouffalant","ability_name":"reckless"}
+{"dex_num":626,"name":"bouffalant","ability_name":"sap-sipper"}
+{"dex_num":626,"name":"bouffalant","ability_name":"soundproof"}
+{"dex_num":627,"name":"rufflet","ability_name":"keen-eye"}
+{"dex_num":627,"name":"rufflet","ability_name":"sheer-force"}
+{"dex_num":627,"name":"rufflet","ability_name":"hustle"}
+{"dex_num":628,"name":"braviary","ability_name":"keen-eye"}
+{"dex_num":628,"name":"braviary","ability_name":"sheer-force"}
+{"dex_num":628,"name":"braviary","ability_name":"defiant"}
+{"dex_num":628,"name":"braviary hisui","ability_name":"keen-eye"}
+{"dex_num":628,"name":"braviary hisui","ability_name":"sheer-force"}
+{"dex_num":628,"name":"braviary hisui","ability_name":"tinted-lens"}
+{"dex_num":629,"name":"vullaby","ability_name":"big-pecks"}
+{"dex_num":629,"name":"vullaby","ability_name":"overcoat"}
+{"dex_num":629,"name":"vullaby","ability_name":"weak-armor"}
+{"dex_num":630,"name":"mandibuzz","ability_name":"big-pecks"}
+{"dex_num":630,"name":"mandibuzz","ability_name":"overcoat"}
+{"dex_num":630,"name":"mandibuzz","ability_name":"weak-armor"}
+{"dex_num":631,"name":"heatmor","ability_name":"gluttony"}
+{"dex_num":631,"name":"heatmor","ability_name":"flash-fire"}
+{"dex_num":631,"name":"heatmor","ability_name":"white-smoke"}
+{"dex_num":632,"name":"durant","ability_name":"swarm"}
+{"dex_num":632,"name":"durant","ability_name":"hustle"}
+{"dex_num":632,"name":"durant","ability_name":"truant"}
+{"dex_num":633,"name":"deino","ability_name":"hustle"}
+{"dex_num":634,"name":"zweilous","ability_name":"hustle"}
+{"dex_num":635,"name":"hydreigon","ability_name":"levitate"}
+{"dex_num":636,"name":"larvesta","ability_name":"flame-body"}
+{"dex_num":636,"name":"larvesta","ability_name":"swarm"}
+{"dex_num":637,"name":"volcarona","ability_name":"flame-body"}
+{"dex_num":637,"name":"volcarona","ability_name":"swarm"}
+{"dex_num":638,"name":"cobalion","ability_name":"justified"}
+{"dex_num":639,"name":"terrakion","ability_name":"justified"}
+{"dex_num":640,"name":"virizion","ability_name":"justified"}
+{"dex_num":641,"name":"tornadus incarnate","ability_name":"prankster"}
+{"dex_num":641,"name":"tornadus incarnate","ability_name":"defiant"}
+{"dex_num":641,"name":"tornadus therian","ability_name":"regenerator"}
+{"dex_num":642,"name":"thundurus incarnate","ability_name":"prankster"}
+{"dex_num":642,"name":"thundurus incarnate","ability_name":"defiant"}
+{"dex_num":642,"name":"thundurus therian","ability_name":"volt-absorb"}
+{"dex_num":643,"name":"reshiram","ability_name":"turboblaze"}
+{"dex_num":644,"name":"zekrom","ability_name":"teravolt"}
+{"dex_num":645,"name":"landorus incarnate","ability_name":"sand-force"}
+{"dex_num":645,"name":"landorus incarnate","ability_name":"sheer-force"}
+{"dex_num":645,"name":"landorus therian","ability_name":"intimidate"}
+{"dex_num":646,"name":"kyurem","ability_name":"pressure"}
+{"dex_num":646,"name":"kyurem black","ability_name":"teravolt"}
+{"dex_num":646,"name":"kyurem white","ability_name":"turboblaze"}
+{"dex_num":647,"name":"keldeo ordinary","ability_name":"justified"}
+{"dex_num":647,"name":"keldeo resolute","ability_name":"justified"}
+{"dex_num":648,"name":"meloetta aria","ability_name":"serene-grace"}
+{"dex_num":648,"name":"meloetta pirouette","ability_name":"serene-grace"}
+{"dex_num":649,"name":"genesect","ability_name":"download"}
+{"dex_num":650,"name":"chespin","ability_name":"overgrow"}
+{"dex_num":650,"name":"chespin","ability_name":"bulletproof"}
+{"dex_num":651,"name":"quilladin","ability_name":"overgrow"}
+{"dex_num":651,"name":"quilladin","ability_name":"bulletproof"}
+{"dex_num":652,"name":"chesnaught","ability_name":"overgrow"}
+{"dex_num":652,"name":"chesnaught","ability_name":"bulletproof"}
+{"dex_num":653,"name":"fennekin","ability_name":"blaze"}
+{"dex_num":653,"name":"fennekin","ability_name":"magician"}
+{"dex_num":654,"name":"braixen","ability_name":"blaze"}
+{"dex_num":654,"name":"braixen","ability_name":"magician"}
+{"dex_num":655,"name":"delphox","ability_name":"blaze"}
+{"dex_num":655,"name":"delphox","ability_name":"magician"}
+{"dex_num":656,"name":"froakie","ability_name":"torrent"}
+{"dex_num":656,"name":"froakie","ability_name":"protean"}
+{"dex_num":657,"name":"frogadier","ability_name":"torrent"}
+{"dex_num":657,"name":"frogadier","ability_name":"protean"}
+{"dex_num":658,"name":"greninja","ability_name":"torrent"}
+{"dex_num":658,"name":"greninja","ability_name":"protean"}
+{"dex_num":658,"name":"greninja battle bond","ability_name":"battle-bond"}
+{"dex_num":658,"name":"greninja ash","ability_name":"battle-bond"}
+{"dex_num":659,"name":"bunnelby","ability_name":"pickup"}
+{"dex_num":659,"name":"bunnelby","ability_name":"cheek-pouch"}
+{"dex_num":659,"name":"bunnelby","ability_name":"huge-power"}
+{"dex_num":660,"name":"diggersby","ability_name":"pickup"}
+{"dex_num":660,"name":"diggersby","ability_name":"cheek-pouch"}
+{"dex_num":660,"name":"diggersby","ability_name":"huge-power"}
+{"dex_num":661,"name":"fletchling","ability_name":"big-pecks"}
+{"dex_num":661,"name":"fletchling","ability_name":"gale-wings"}
+{"dex_num":662,"name":"fletchinder","ability_name":"flame-body"}
+{"dex_num":662,"name":"fletchinder","ability_name":"gale-wings"}
+{"dex_num":663,"name":"talonflame","ability_name":"flame-body"}
+{"dex_num":663,"name":"talonflame","ability_name":"gale-wings"}
+{"dex_num":664,"name":"scatterbug","ability_name":"shield-dust"}
+{"dex_num":664,"name":"scatterbug","ability_name":"compound-eyes"}
+{"dex_num":664,"name":"scatterbug","ability_name":"friend-guard"}
+{"dex_num":665,"name":"spewpa","ability_name":"shed-skin"}
+{"dex_num":665,"name":"spewpa","ability_name":"friend-guard"}
+{"dex_num":666,"name":"vivillon","ability_name":"shield-dust"}
+{"dex_num":666,"name":"vivillon","ability_name":"compound-eyes"}
+{"dex_num":666,"name":"vivillon","ability_name":"friend-guard"}
+{"dex_num":667,"name":"litleo","ability_name":"rivalry"}
+{"dex_num":667,"name":"litleo","ability_name":"unnerve"}
+{"dex_num":667,"name":"litleo","ability_name":"moxie"}
+{"dex_num":668,"name":"pyroar","ability_name":"rivalry"}
+{"dex_num":668,"name":"pyroar","ability_name":"unnerve"}
+{"dex_num":668,"name":"pyroar","ability_name":"moxie"}
+{"dex_num":669,"name":"flabebe","ability_name":"flower-veil"}
+{"dex_num":669,"name":"flabebe","ability_name":"symbiosis"}
+{"dex_num":670,"name":"floette","ability_name":"flower-veil"}
+{"dex_num":670,"name":"floette","ability_name":"symbiosis"}
+{"dex_num":670,"name":"floette eternal","ability_name":"flower-veil"}
+{"dex_num":670,"name":"floette eternal","ability_name":"symbiosis"}
+{"dex_num":671,"name":"florges","ability_name":"flower-veil"}
+{"dex_num":671,"name":"florges","ability_name":"symbiosis"}
+{"dex_num":672,"name":"skiddo","ability_name":"sap-sipper"}
+{"dex_num":672,"name":"skiddo","ability_name":"grass-pelt"}
+{"dex_num":673,"name":"gogoat","ability_name":"sap-sipper"}
+{"dex_num":673,"name":"gogoat","ability_name":"grass-pelt"}
+{"dex_num":674,"name":"pancham","ability_name":"iron-fist"}
+{"dex_num":674,"name":"pancham","ability_name":"mold-breaker"}
+{"dex_num":674,"name":"pancham","ability_name":"scrappy"}
+{"dex_num":675,"name":"pangoro","ability_name":"iron-fist"}
+{"dex_num":675,"name":"pangoro","ability_name":"mold-breaker"}
+{"dex_num":675,"name":"pangoro","ability_name":"scrappy"}
+{"dex_num":676,"name":"furfrou","ability_name":"fur-coat"}
+{"dex_num":677,"name":"espurr","ability_name":"keen-eye"}
+{"dex_num":677,"name":"espurr","ability_name":"infiltrator"}
+{"dex_num":677,"name":"espurr","ability_name":"own-tempo"}
+{"dex_num":678,"name":"meowstic male","ability_name":"keen-eye"}
+{"dex_num":678,"name":"meowstic male","ability_name":"infiltrator"}
+{"dex_num":678,"name":"meowstic male","ability_name":"prankster"}
+{"dex_num":678,"name":"meowstic female","ability_name":"keen-eye"}
+{"dex_num":678,"name":"meowstic female","ability_name":"infiltrator"}
+{"dex_num":678,"name":"meowstic female","ability_name":"competitive"}
+{"dex_num":679,"name":"honedge","ability_name":"no-guard"}
+{"dex_num":680,"name":"doublade","ability_name":"no-guard"}
+{"dex_num":681,"name":"aegislash shield","ability_name":"stance-change"}
+{"dex_num":681,"name":"aegislash blade","ability_name":"stance-change"}
+{"dex_num":682,"name":"spritzee","ability_name":"healer"}
+{"dex_num":682,"name":"spritzee","ability_name":"aroma-veil"}
+{"dex_num":683,"name":"aromatisse","ability_name":"healer"}
+{"dex_num":683,"name":"aromatisse","ability_name":"aroma-veil"}
+{"dex_num":684,"name":"swirlix","ability_name":"sweet-veil"}
+{"dex_num":684,"name":"swirlix","ability_name":"unburden"}
+{"dex_num":685,"name":"slurpuff","ability_name":"sweet-veil"}
+{"dex_num":685,"name":"slurpuff","ability_name":"unburden"}
+{"dex_num":686,"name":"inkay","ability_name":"contrary"}
+{"dex_num":686,"name":"inkay","ability_name":"suction-cups"}
+{"dex_num":686,"name":"inkay","ability_name":"infiltrator"}
+{"dex_num":687,"name":"malamar","ability_name":"contrary"}
+{"dex_num":687,"name":"malamar","ability_name":"suction-cups"}
+{"dex_num":687,"name":"malamar","ability_name":"infiltrator"}
+{"dex_num":688,"name":"binacle","ability_name":"tough-claws"}
+{"dex_num":688,"name":"binacle","ability_name":"sniper"}
+{"dex_num":688,"name":"binacle","ability_name":"pickpocket"}
+{"dex_num":689,"name":"barbaracle","ability_name":"tough-claws"}
+{"dex_num":689,"name":"barbaracle","ability_name":"sniper"}
+{"dex_num":689,"name":"barbaracle","ability_name":"pickpocket"}
+{"dex_num":690,"name":"skrelp","ability_name":"poison-point"}
+{"dex_num":690,"name":"skrelp","ability_name":"poison-touch"}
+{"dex_num":690,"name":"skrelp","ability_name":"adaptability"}
+{"dex_num":691,"name":"dragalge","ability_name":"poison-point"}
+{"dex_num":691,"name":"dragalge","ability_name":"poison-touch"}
+{"dex_num":691,"name":"dragalge","ability_name":"adaptability"}
+{"dex_num":692,"name":"clauncher","ability_name":"mega-launcher"}
+{"dex_num":693,"name":"clawitzer","ability_name":"mega-launcher"}
+{"dex_num":694,"name":"helioptile","ability_name":"dry-skin"}
+{"dex_num":694,"name":"helioptile","ability_name":"sand-veil"}
+{"dex_num":694,"name":"helioptile","ability_name":"solar-power"}
+{"dex_num":695,"name":"heliolisk","ability_name":"dry-skin"}
+{"dex_num":695,"name":"heliolisk","ability_name":"sand-veil"}
+{"dex_num":695,"name":"heliolisk","ability_name":"solar-power"}
+{"dex_num":696,"name":"tyrunt","ability_name":"strong-jaw"}
+{"dex_num":696,"name":"tyrunt","ability_name":"sturdy"}
+{"dex_num":697,"name":"tyrantrum","ability_name":"strong-jaw"}
+{"dex_num":697,"name":"tyrantrum","ability_name":"rock-head"}
+{"dex_num":698,"name":"amaura","ability_name":"refrigerate"}
+{"dex_num":698,"name":"amaura","ability_name":"snow-warning"}
+{"dex_num":699,"name":"aurorus","ability_name":"refrigerate"}
+{"dex_num":699,"name":"aurorus","ability_name":"snow-warning"}
+{"dex_num":700,"name":"sylveon","ability_name":"cute-charm"}
+{"dex_num":700,"name":"sylveon","ability_name":"pixilate"}
+{"dex_num":701,"name":"hawlucha","ability_name":"limber"}
+{"dex_num":701,"name":"hawlucha","ability_name":"unburden"}
+{"dex_num":701,"name":"hawlucha","ability_name":"mold-breaker"}
+{"dex_num":702,"name":"dedenne","ability_name":"cheek-pouch"}
+{"dex_num":702,"name":"dedenne","ability_name":"pickup"}
+{"dex_num":702,"name":"dedenne","ability_name":"plus"}
+{"dex_num":703,"name":"carbink","ability_name":"clear-body"}
+{"dex_num":703,"name":"carbink","ability_name":"sturdy"}
+{"dex_num":704,"name":"goomy","ability_name":"sap-sipper"}
+{"dex_num":704,"name":"goomy","ability_name":"hydration"}
+{"dex_num":704,"name":"goomy","ability_name":"gooey"}
+{"dex_num":705,"name":"sliggoo","ability_name":"sap-sipper"}
+{"dex_num":705,"name":"sliggoo","ability_name":"hydration"}
+{"dex_num":705,"name":"sliggoo","ability_name":"gooey"}
+{"dex_num":705,"name":"sliggoo hisui","ability_name":"sap-sipper"}
+{"dex_num":705,"name":"sliggoo hisui","ability_name":"shell-armor"}
+{"dex_num":705,"name":"sliggoo hisui","ability_name":"gooey"}
+{"dex_num":706,"name":"goodra","ability_name":"sap-sipper"}
+{"dex_num":706,"name":"goodra","ability_name":"hydration"}
+{"dex_num":706,"name":"goodra","ability_name":"gooey"}
+{"dex_num":706,"name":"goodra hisui","ability_name":"sap-sipper"}
+{"dex_num":706,"name":"goodra hisui","ability_name":"shell-armor"}
+{"dex_num":706,"name":"goodra hisui","ability_name":"gooey"}
+{"dex_num":707,"name":"klefki","ability_name":"prankster"}
+{"dex_num":707,"name":"klefki","ability_name":"magician"}
+{"dex_num":708,"name":"phantump","ability_name":"natural-cure"}
+{"dex_num":708,"name":"phantump","ability_name":"frisk"}
+{"dex_num":708,"name":"phantump","ability_name":"harvest"}
+{"dex_num":709,"name":"trevenant","ability_name":"natural-cure"}
+{"dex_num":709,"name":"trevenant","ability_name":"frisk"}
+{"dex_num":709,"name":"trevenant","ability_name":"harvest"}
+{"dex_num":710,"name":"pumpkaboo average","ability_name":"pickup"}
+{"dex_num":710,"name":"pumpkaboo average","ability_name":"frisk"}
+{"dex_num":710,"name":"pumpkaboo average","ability_name":"insomnia"}
+{"dex_num":710,"name":"pumpkaboo small","ability_name":"pickup"}
+{"dex_num":710,"name":"pumpkaboo small","ability_name":"frisk"}
+{"dex_num":710,"name":"pumpkaboo small","ability_name":"insomnia"}
+{"dex_num":710,"name":"pumpkaboo large","ability_name":"pickup"}
+{"dex_num":710,"name":"pumpkaboo large","ability_name":"frisk"}
+{"dex_num":710,"name":"pumpkaboo large","ability_name":"insomnia"}
+{"dex_num":710,"name":"pumpkaboo super","ability_name":"pickup"}
+{"dex_num":710,"name":"pumpkaboo super","ability_name":"frisk"}
+{"dex_num":710,"name":"pumpkaboo super","ability_name":"insomnia"}
+{"dex_num":711,"name":"gourgeist average","ability_name":"pickup"}
+{"dex_num":711,"name":"gourgeist average","ability_name":"frisk"}
+{"dex_num":711,"name":"gourgeist average","ability_name":"insomnia"}
+{"dex_num":711,"name":"gourgeist small","ability_name":"pickup"}
+{"dex_num":711,"name":"gourgeist small","ability_name":"frisk"}
+{"dex_num":711,"name":"gourgeist small","ability_name":"insomnia"}
+{"dex_num":711,"name":"gourgeist large","ability_name":"pickup"}
+{"dex_num":711,"name":"gourgeist large","ability_name":"frisk"}
+{"dex_num":711,"name":"gourgeist large","ability_name":"insomnia"}
+{"dex_num":711,"name":"gourgeist super","ability_name":"pickup"}
+{"dex_num":711,"name":"gourgeist super","ability_name":"frisk"}
+{"dex_num":711,"name":"gourgeist super","ability_name":"insomnia"}
+{"dex_num":712,"name":"bergmite","ability_name":"own-tempo"}
+{"dex_num":712,"name":"bergmite","ability_name":"ice-body"}
+{"dex_num":712,"name":"bergmite","ability_name":"sturdy"}
+{"dex_num":713,"name":"avalugg","ability_name":"own-tempo"}
+{"dex_num":713,"name":"avalugg","ability_name":"ice-body"}
+{"dex_num":713,"name":"avalugg","ability_name":"sturdy"}
+{"dex_num":713,"name":"avalugg hisui","ability_name":"strong-jaw"}
+{"dex_num":713,"name":"avalugg hisui","ability_name":"ice-body"}
+{"dex_num":713,"name":"avalugg hisui","ability_name":"sturdy"}
+{"dex_num":714,"name":"noibat","ability_name":"frisk"}
+{"dex_num":714,"name":"noibat","ability_name":"infiltrator"}
+{"dex_num":714,"name":"noibat","ability_name":"telepathy"}
+{"dex_num":715,"name":"noivern","ability_name":"frisk"}
+{"dex_num":715,"name":"noivern","ability_name":"infiltrator"}
+{"dex_num":715,"name":"noivern","ability_name":"telepathy"}
+{"dex_num":716,"name":"xerneas","ability_name":"fairy-aura"}
+{"dex_num":717,"name":"yveltal","ability_name":"dark-aura"}
+{"dex_num":718,"name":"zygarde 50","ability_name":"aura-break"}
+{"dex_num":718,"name":"zygarde 10 power construct","ability_name":"power-construct"}
+{"dex_num":718,"name":"zygarde 50 power construct","ability_name":"power-construct"}
+{"dex_num":718,"name":"zygarde complete","ability_name":"power-construct"}
+{"dex_num":718,"name":"zygarde 10","ability_name":"aura-break"}
+{"dex_num":719,"name":"diancie","ability_name":"clear-body"}
+{"dex_num":719,"name":"diancie mega","ability_name":"magic-bounce"}
+{"dex_num":720,"name":"hoopa","ability_name":"magician"}
+{"dex_num":720,"name":"hoopa unbound","ability_name":"magician"}
+{"dex_num":721,"name":"volcanion","ability_name":"water-absorb"}
+{"dex_num":722,"name":"rowlet","ability_name":"overgrow"}
+{"dex_num":722,"name":"rowlet","ability_name":"long-reach"}
+{"dex_num":723,"name":"dartrix","ability_name":"overgrow"}
+{"dex_num":723,"name":"dartrix","ability_name":"long-reach"}
+{"dex_num":724,"name":"decidueye","ability_name":"overgrow"}
+{"dex_num":724,"name":"decidueye","ability_name":"long-reach"}
+{"dex_num":724,"name":"decidueye hisui","ability_name":"overgrow"}
+{"dex_num":724,"name":"decidueye hisui","ability_name":"scrappy"}
+{"dex_num":725,"name":"litten","ability_name":"blaze"}
+{"dex_num":725,"name":"litten","ability_name":"intimidate"}
+{"dex_num":726,"name":"torracat","ability_name":"blaze"}
+{"dex_num":726,"name":"torracat","ability_name":"intimidate"}
+{"dex_num":727,"name":"incineroar","ability_name":"blaze"}
+{"dex_num":727,"name":"incineroar","ability_name":"intimidate"}
+{"dex_num":728,"name":"popplio","ability_name":"torrent"}
+{"dex_num":728,"name":"popplio","ability_name":"liquid-voice"}
+{"dex_num":729,"name":"brionne","ability_name":"torrent"}
+{"dex_num":729,"name":"brionne","ability_name":"liquid-voice"}
+{"dex_num":730,"name":"primarina","ability_name":"torrent"}
+{"dex_num":730,"name":"primarina","ability_name":"liquid-voice"}
+{"dex_num":731,"name":"pikipek","ability_name":"keen-eye"}
+{"dex_num":731,"name":"pikipek","ability_name":"skill-link"}
+{"dex_num":731,"name":"pikipek","ability_name":"pickup"}
+{"dex_num":732,"name":"trumbeak","ability_name":"keen-eye"}
+{"dex_num":732,"name":"trumbeak","ability_name":"skill-link"}
+{"dex_num":732,"name":"trumbeak","ability_name":"pickup"}
+{"dex_num":733,"name":"toucannon","ability_name":"keen-eye"}
+{"dex_num":733,"name":"toucannon","ability_name":"skill-link"}
+{"dex_num":733,"name":"toucannon","ability_name":"sheer-force"}
+{"dex_num":734,"name":"yungoos","ability_name":"stakeout"}
+{"dex_num":734,"name":"yungoos","ability_name":"strong-jaw"}
+{"dex_num":734,"name":"yungoos","ability_name":"adaptability"}
+{"dex_num":735,"name":"gumshoos","ability_name":"stakeout"}
+{"dex_num":735,"name":"gumshoos","ability_name":"strong-jaw"}
+{"dex_num":735,"name":"gumshoos","ability_name":"adaptability"}
+{"dex_num":735,"name":"gumshoos totem","ability_name":"stakeout"}
+{"dex_num":735,"name":"gumshoos totem","ability_name":"strong-jaw"}
+{"dex_num":735,"name":"gumshoos totem","ability_name":"adaptability"}
+{"dex_num":736,"name":"grubbin","ability_name":"swarm"}
+{"dex_num":737,"name":"charjabug","ability_name":"battery"}
+{"dex_num":738,"name":"vikavolt","ability_name":"levitate"}
+{"dex_num":738,"name":"vikavolt totem","ability_name":"levitate"}
+{"dex_num":739,"name":"crabrawler","ability_name":"hyper-cutter"}
+{"dex_num":739,"name":"crabrawler","ability_name":"iron-fist"}
+{"dex_num":739,"name":"crabrawler","ability_name":"anger-point"}
+{"dex_num":740,"name":"crabominable","ability_name":"hyper-cutter"}
+{"dex_num":740,"name":"crabominable","ability_name":"iron-fist"}
+{"dex_num":740,"name":"crabominable","ability_name":"anger-point"}
+{"dex_num":741,"name":"oricorio baile","ability_name":"dancer"}
+{"dex_num":741,"name":"oricorio pom pom","ability_name":"dancer"}
+{"dex_num":741,"name":"oricorio pau","ability_name":"dancer"}
+{"dex_num":741,"name":"oricorio sensu","ability_name":"dancer"}
+{"dex_num":742,"name":"cutiefly","ability_name":"honey-gather"}
+{"dex_num":742,"name":"cutiefly","ability_name":"shield-dust"}
+{"dex_num":742,"name":"cutiefly","ability_name":"sweet-veil"}
+{"dex_num":743,"name":"ribombee","ability_name":"honey-gather"}
+{"dex_num":743,"name":"ribombee","ability_name":"shield-dust"}
+{"dex_num":743,"name":"ribombee","ability_name":"sweet-veil"}
+{"dex_num":743,"name":"ribombee totem","ability_name":"honey-gather"}
+{"dex_num":743,"name":"ribombee totem","ability_name":"shield-dust"}
+{"dex_num":743,"name":"ribombee totem","ability_name":"sweet-veil"}
+{"dex_num":744,"name":"rockruff","ability_name":"keen-eye"}
+{"dex_num":744,"name":"rockruff","ability_name":"vital-spirit"}
+{"dex_num":744,"name":"rockruff","ability_name":"steadfast"}
+{"dex_num":744,"name":"rockruff own tempo","ability_name":"own-tempo"}
+{"dex_num":745,"name":"lycanroc midday","ability_name":"keen-eye"}
+{"dex_num":745,"name":"lycanroc midday","ability_name":"sand-rush"}
+{"dex_num":745,"name":"lycanroc midday","ability_name":"steadfast"}
+{"dex_num":745,"name":"lycanroc midnight","ability_name":"keen-eye"}
+{"dex_num":745,"name":"lycanroc midnight","ability_name":"vital-spirit"}
+{"dex_num":745,"name":"lycanroc midnight","ability_name":"no-guard"}
+{"dex_num":745,"name":"lycanroc dusk","ability_name":"tough-claws"}
+{"dex_num":746,"name":"wishiwashi solo","ability_name":"schooling"}
+{"dex_num":746,"name":"wishiwashi school","ability_name":"schooling"}
+{"dex_num":747,"name":"mareanie","ability_name":"merciless"}
+{"dex_num":747,"name":"mareanie","ability_name":"limber"}
+{"dex_num":747,"name":"mareanie","ability_name":"regenerator"}
+{"dex_num":748,"name":"toxapex","ability_name":"merciless"}
+{"dex_num":748,"name":"toxapex","ability_name":"limber"}
+{"dex_num":748,"name":"toxapex","ability_name":"regenerator"}
+{"dex_num":749,"name":"mudbray","ability_name":"own-tempo"}
+{"dex_num":749,"name":"mudbray","ability_name":"stamina"}
+{"dex_num":749,"name":"mudbray","ability_name":"inner-focus"}
+{"dex_num":750,"name":"mudsdale","ability_name":"own-tempo"}
+{"dex_num":750,"name":"mudsdale","ability_name":"stamina"}
+{"dex_num":750,"name":"mudsdale","ability_name":"inner-focus"}
+{"dex_num":751,"name":"dewpider","ability_name":"water-bubble"}
+{"dex_num":751,"name":"dewpider","ability_name":"water-absorb"}
+{"dex_num":752,"name":"araquanid","ability_name":"water-bubble"}
+{"dex_num":752,"name":"araquanid","ability_name":"water-absorb"}
+{"dex_num":752,"name":"araquanid totem","ability_name":"water-bubble"}
+{"dex_num":752,"name":"araquanid totem","ability_name":"water-absorb"}
+{"dex_num":753,"name":"fomantis","ability_name":"leaf-guard"}
+{"dex_num":753,"name":"fomantis","ability_name":"contrary"}
+{"dex_num":754,"name":"lurantis","ability_name":"leaf-guard"}
+{"dex_num":754,"name":"lurantis","ability_name":"contrary"}
+{"dex_num":754,"name":"lurantis totem","ability_name":"leaf-guard"}
+{"dex_num":754,"name":"lurantis totem","ability_name":"contrary"}
+{"dex_num":755,"name":"morelull","ability_name":"illuminate"}
+{"dex_num":755,"name":"morelull","ability_name":"effect-spore"}
+{"dex_num":755,"name":"morelull","ability_name":"rain-dish"}
+{"dex_num":756,"name":"shiinotic","ability_name":"illuminate"}
+{"dex_num":756,"name":"shiinotic","ability_name":"effect-spore"}
+{"dex_num":756,"name":"shiinotic","ability_name":"rain-dish"}
+{"dex_num":757,"name":"salandit","ability_name":"corrosion"}
+{"dex_num":757,"name":"salandit","ability_name":"oblivious"}
+{"dex_num":758,"name":"salazzle","ability_name":"corrosion"}
+{"dex_num":758,"name":"salazzle","ability_name":"oblivious"}
+{"dex_num":758,"name":"salazzle totem","ability_name":"corrosion"}
+{"dex_num":758,"name":"salazzle totem","ability_name":"oblivious"}
+{"dex_num":759,"name":"stufful","ability_name":"fluffy"}
+{"dex_num":759,"name":"stufful","ability_name":"klutz"}
+{"dex_num":759,"name":"stufful","ability_name":"cute-charm"}
+{"dex_num":760,"name":"bewear","ability_name":"fluffy"}
+{"dex_num":760,"name":"bewear","ability_name":"klutz"}
+{"dex_num":760,"name":"bewear","ability_name":"unnerve"}
+{"dex_num":761,"name":"bounsweet","ability_name":"leaf-guard"}
+{"dex_num":761,"name":"bounsweet","ability_name":"oblivious"}
+{"dex_num":761,"name":"bounsweet","ability_name":"sweet-veil"}
+{"dex_num":762,"name":"steenee","ability_name":"leaf-guard"}
+{"dex_num":762,"name":"steenee","ability_name":"oblivious"}
+{"dex_num":762,"name":"steenee","ability_name":"sweet-veil"}
+{"dex_num":763,"name":"tsareena","ability_name":"leaf-guard"}
+{"dex_num":763,"name":"tsareena","ability_name":"queenly-majesty"}
+{"dex_num":763,"name":"tsareena","ability_name":"sweet-veil"}
+{"dex_num":764,"name":"comfey","ability_name":"flower-veil"}
+{"dex_num":764,"name":"comfey","ability_name":"triage"}
+{"dex_num":764,"name":"comfey","ability_name":"natural-cure"}
+{"dex_num":765,"name":"oranguru","ability_name":"inner-focus"}
+{"dex_num":765,"name":"oranguru","ability_name":"telepathy"}
+{"dex_num":765,"name":"oranguru","ability_name":"symbiosis"}
+{"dex_num":766,"name":"passimian","ability_name":"receiver"}
+{"dex_num":766,"name":"passimian","ability_name":"defiant"}
+{"dex_num":767,"name":"wimpod","ability_name":"wimp-out"}
+{"dex_num":768,"name":"golisopod","ability_name":"emergency-exit"}
+{"dex_num":769,"name":"sandygast","ability_name":"water-compaction"}
+{"dex_num":769,"name":"sandygast","ability_name":"sand-veil"}
+{"dex_num":770,"name":"palossand","ability_name":"water-compaction"}
+{"dex_num":770,"name":"palossand","ability_name":"sand-veil"}
+{"dex_num":771,"name":"pyukumuku","ability_name":"innards-out"}
+{"dex_num":771,"name":"pyukumuku","ability_name":"unaware"}
+{"dex_num":772,"name":"type null","ability_name":"battle-armor"}
+{"dex_num":773,"name":"silvally","ability_name":"rks-system"}
+{"dex_num":774,"name":"minior red meteor","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior orange meteor","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior yellow meteor","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior green meteor","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior blue meteor","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior indigo meteor","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior violet meteor","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior red","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior orange","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior yellow","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior green","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior blue","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior indigo","ability_name":"shields-down"}
+{"dex_num":774,"name":"minior violet","ability_name":"shields-down"}
+{"dex_num":775,"name":"komala","ability_name":"comatose"}
+{"dex_num":776,"name":"turtonator","ability_name":"shell-armor"}
+{"dex_num":777,"name":"togedemaru","ability_name":"iron-barbs"}
+{"dex_num":777,"name":"togedemaru","ability_name":"lightning-rod"}
+{"dex_num":777,"name":"togedemaru","ability_name":"sturdy"}
+{"dex_num":777,"name":"togedemaru totem","ability_name":"iron-barbs"}
+{"dex_num":777,"name":"togedemaru totem","ability_name":"lightning-rod"}
+{"dex_num":777,"name":"togedemaru totem","ability_name":"sturdy"}
+{"dex_num":778,"name":"mimikyu disguised","ability_name":"disguise"}
+{"dex_num":778,"name":"mimikyu busted","ability_name":"disguise"}
+{"dex_num":778,"name":"mimikyu totem disguised","ability_name":"disguise"}
+{"dex_num":778,"name":"mimikyu totem busted","ability_name":"disguise"}
+{"dex_num":779,"name":"bruxish","ability_name":"dazzling"}
+{"dex_num":779,"name":"bruxish","ability_name":"strong-jaw"}
+{"dex_num":779,"name":"bruxish","ability_name":"wonder-skin"}
+{"dex_num":780,"name":"drampa","ability_name":"berserk"}
+{"dex_num":780,"name":"drampa","ability_name":"sap-sipper"}
+{"dex_num":780,"name":"drampa","ability_name":"cloud-nine"}
+{"dex_num":781,"name":"dhelmise","ability_name":"steelworker"}
+{"dex_num":782,"name":"jangmo o","ability_name":"bulletproof"}
+{"dex_num":782,"name":"jangmo o","ability_name":"soundproof"}
+{"dex_num":782,"name":"jangmo o","ability_name":"overcoat"}
+{"dex_num":783,"name":"hakamo o","ability_name":"bulletproof"}
+{"dex_num":783,"name":"hakamo o","ability_name":"soundproof"}
+{"dex_num":783,"name":"hakamo o","ability_name":"overcoat"}
+{"dex_num":784,"name":"kommo o","ability_name":"bulletproof"}
+{"dex_num":784,"name":"kommo o","ability_name":"soundproof"}
+{"dex_num":784,"name":"kommo o","ability_name":"overcoat"}
+{"dex_num":784,"name":"kommo o totem","ability_name":"bulletproof"}
+{"dex_num":784,"name":"kommo o totem","ability_name":"soundproof"}
+{"dex_num":784,"name":"kommo o totem","ability_name":"overcoat"}
+{"dex_num":785,"name":"tapu koko","ability_name":"electric-surge"}
+{"dex_num":785,"name":"tapu koko","ability_name":"telepathy"}
+{"dex_num":786,"name":"tapu lele","ability_name":"psychic-surge"}
+{"dex_num":786,"name":"tapu lele","ability_name":"telepathy"}
+{"dex_num":787,"name":"tapu bulu","ability_name":"grassy-surge"}
+{"dex_num":787,"name":"tapu bulu","ability_name":"telepathy"}
+{"dex_num":788,"name":"tapu fini","ability_name":"misty-surge"}
+{"dex_num":788,"name":"tapu fini","ability_name":"telepathy"}
+{"dex_num":789,"name":"cosmog","ability_name":"unaware"}
+{"dex_num":790,"name":"cosmoem","ability_name":"sturdy"}
+{"dex_num":791,"name":"solgaleo","ability_name":"full-metal-body"}
+{"dex_num":792,"name":"lunala","ability_name":"shadow-shield"}
+{"dex_num":793,"name":"nihilego","ability_name":"beast-boost"}
+{"dex_num":794,"name":"buzzwole","ability_name":"beast-boost"}
+{"dex_num":795,"name":"pheromosa","ability_name":"beast-boost"}
+{"dex_num":796,"name":"xurkitree","ability_name":"beast-boost"}
+{"dex_num":797,"name":"celesteela","ability_name":"beast-boost"}
+{"dex_num":798,"name":"kartana","ability_name":"beast-boost"}
+{"dex_num":799,"name":"guzzlord","ability_name":"beast-boost"}
+{"dex_num":800,"name":"necrozma","ability_name":"prism-armor"}
+{"dex_num":800,"name":"necrozma dusk","ability_name":"prism-armor"}
+{"dex_num":800,"name":"necrozma dawn","ability_name":"prism-armor"}
+{"dex_num":800,"name":"necrozma ultra","ability_name":"neuroforce"}
+{"dex_num":801,"name":"magearna","ability_name":"soul-heart"}
+{"dex_num":801,"name":"magearna original","ability_name":"soul-heart"}
+{"dex_num":802,"name":"marshadow","ability_name":"technician"}
+{"dex_num":803,"name":"poipole","ability_name":"beast-boost"}
+{"dex_num":804,"name":"naganadel","ability_name":"beast-boost"}
+{"dex_num":805,"name":"stakataka","ability_name":"beast-boost"}
+{"dex_num":806,"name":"blacephalon","ability_name":"beast-boost"}
+{"dex_num":807,"name":"zeraora","ability_name":"volt-absorb"}
+{"dex_num":808,"name":"meltan","ability_name":"magnet-pull"}
+{"dex_num":809,"name":"melmetal","ability_name":"iron-fist"}
+{"dex_num":809,"name":"melmetal gmax","ability_name":"iron-fist"}
+{"dex_num":810,"name":"grookey","ability_name":"overgrow"}
+{"dex_num":810,"name":"grookey","ability_name":"grassy-surge"}
+{"dex_num":811,"name":"thwackey","ability_name":"overgrow"}
+{"dex_num":811,"name":"thwackey","ability_name":"grassy-surge"}
+{"dex_num":812,"name":"rillaboom","ability_name":"overgrow"}
+{"dex_num":812,"name":"rillaboom","ability_name":"grassy-surge"}
+{"dex_num":812,"name":"rillaboom gmax","ability_name":"overgrow"}
+{"dex_num":812,"name":"rillaboom gmax","ability_name":"grassy-surge"}
+{"dex_num":813,"name":"scorbunny","ability_name":"blaze"}
+{"dex_num":813,"name":"scorbunny","ability_name":"libero"}
+{"dex_num":814,"name":"raboot","ability_name":"blaze"}
+{"dex_num":814,"name":"raboot","ability_name":"libero"}
+{"dex_num":815,"name":"cinderace","ability_name":"blaze"}
+{"dex_num":815,"name":"cinderace","ability_name":"libero"}
+{"dex_num":815,"name":"cinderace gmax","ability_name":"blaze"}
+{"dex_num":815,"name":"cinderace gmax","ability_name":"libero"}
+{"dex_num":816,"name":"sobble","ability_name":"torrent"}
+{"dex_num":816,"name":"sobble","ability_name":"sniper"}
+{"dex_num":817,"name":"drizzile","ability_name":"torrent"}
+{"dex_num":817,"name":"drizzile","ability_name":"sniper"}
+{"dex_num":818,"name":"inteleon","ability_name":"torrent"}
+{"dex_num":818,"name":"inteleon","ability_name":"sniper"}
+{"dex_num":818,"name":"inteleon gmax","ability_name":"torrent"}
+{"dex_num":818,"name":"inteleon gmax","ability_name":"sniper"}
+{"dex_num":819,"name":"skwovet","ability_name":"cheek-pouch"}
+{"dex_num":819,"name":"skwovet","ability_name":"gluttony"}
+{"dex_num":820,"name":"greedent","ability_name":"cheek-pouch"}
+{"dex_num":820,"name":"greedent","ability_name":"gluttony"}
+{"dex_num":821,"name":"rookidee","ability_name":"keen-eye"}
+{"dex_num":821,"name":"rookidee","ability_name":"unnerve"}
+{"dex_num":821,"name":"rookidee","ability_name":"big-pecks"}
+{"dex_num":822,"name":"corvisquire","ability_name":"keen-eye"}
+{"dex_num":822,"name":"corvisquire","ability_name":"unnerve"}
+{"dex_num":822,"name":"corvisquire","ability_name":"big-pecks"}
+{"dex_num":823,"name":"corviknight","ability_name":"pressure"}
+{"dex_num":823,"name":"corviknight","ability_name":"unnerve"}
+{"dex_num":823,"name":"corviknight","ability_name":"mirror-armor"}
+{"dex_num":823,"name":"corviknight gmax","ability_name":"pressure"}
+{"dex_num":823,"name":"corviknight gmax","ability_name":"unnerve"}
+{"dex_num":823,"name":"corviknight gmax","ability_name":"mirror-armor"}
+{"dex_num":824,"name":"blipbug","ability_name":"swarm"}
+{"dex_num":824,"name":"blipbug","ability_name":"compound-eyes"}
+{"dex_num":824,"name":"blipbug","ability_name":"telepathy"}
+{"dex_num":825,"name":"dottler","ability_name":"swarm"}
+{"dex_num":825,"name":"dottler","ability_name":"compound-eyes"}
+{"dex_num":825,"name":"dottler","ability_name":"telepathy"}
+{"dex_num":826,"name":"orbeetle","ability_name":"swarm"}
+{"dex_num":826,"name":"orbeetle","ability_name":"frisk"}
+{"dex_num":826,"name":"orbeetle","ability_name":"telepathy"}
+{"dex_num":826,"name":"orbeetle gmax","ability_name":"swarm"}
+{"dex_num":826,"name":"orbeetle gmax","ability_name":"frisk"}
+{"dex_num":826,"name":"orbeetle gmax","ability_name":"telepathy"}
+{"dex_num":827,"name":"nickit","ability_name":"run-away"}
+{"dex_num":827,"name":"nickit","ability_name":"unburden"}
+{"dex_num":827,"name":"nickit","ability_name":"stakeout"}
+{"dex_num":828,"name":"thievul","ability_name":"run-away"}
+{"dex_num":828,"name":"thievul","ability_name":"unburden"}
+{"dex_num":828,"name":"thievul","ability_name":"stakeout"}
+{"dex_num":829,"name":"gossifleur","ability_name":"cotton-down"}
+{"dex_num":829,"name":"gossifleur","ability_name":"regenerator"}
+{"dex_num":829,"name":"gossifleur","ability_name":"effect-spore"}
+{"dex_num":830,"name":"eldegoss","ability_name":"cotton-down"}
+{"dex_num":830,"name":"eldegoss","ability_name":"regenerator"}
+{"dex_num":830,"name":"eldegoss","ability_name":"effect-spore"}
+{"dex_num":831,"name":"wooloo","ability_name":"fluffy"}
+{"dex_num":831,"name":"wooloo","ability_name":"run-away"}
+{"dex_num":831,"name":"wooloo","ability_name":"bulletproof"}
+{"dex_num":832,"name":"dubwool","ability_name":"fluffy"}
+{"dex_num":832,"name":"dubwool","ability_name":"steadfast"}
+{"dex_num":832,"name":"dubwool","ability_name":"bulletproof"}
+{"dex_num":833,"name":"chewtle","ability_name":"strong-jaw"}
+{"dex_num":833,"name":"chewtle","ability_name":"shell-armor"}
+{"dex_num":833,"name":"chewtle","ability_name":"swift-swim"}
+{"dex_num":834,"name":"drednaw","ability_name":"strong-jaw"}
+{"dex_num":834,"name":"drednaw","ability_name":"shell-armor"}
+{"dex_num":834,"name":"drednaw","ability_name":"swift-swim"}
+{"dex_num":834,"name":"drednaw gmax","ability_name":"strong-jaw"}
+{"dex_num":834,"name":"drednaw gmax","ability_name":"shell-armor"}
+{"dex_num":834,"name":"drednaw gmax","ability_name":"swift-swim"}
+{"dex_num":835,"name":"yamper","ability_name":"ball-fetch"}
+{"dex_num":835,"name":"yamper","ability_name":"rattled"}
+{"dex_num":836,"name":"boltund","ability_name":"strong-jaw"}
+{"dex_num":836,"name":"boltund","ability_name":"competitive"}
+{"dex_num":837,"name":"rolycoly","ability_name":"steam-engine"}
+{"dex_num":837,"name":"rolycoly","ability_name":"heatproof"}
+{"dex_num":837,"name":"rolycoly","ability_name":"flash-fire"}
+{"dex_num":838,"name":"carkol","ability_name":"steam-engine"}
+{"dex_num":838,"name":"carkol","ability_name":"flame-body"}
+{"dex_num":838,"name":"carkol","ability_name":"flash-fire"}
+{"dex_num":839,"name":"coalossal","ability_name":"steam-engine"}
+{"dex_num":839,"name":"coalossal","ability_name":"flame-body"}
+{"dex_num":839,"name":"coalossal","ability_name":"flash-fire"}
+{"dex_num":839,"name":"coalossal gmax","ability_name":"steam-engine"}
+{"dex_num":839,"name":"coalossal gmax","ability_name":"flame-body"}
+{"dex_num":839,"name":"coalossal gmax","ability_name":"flash-fire"}
+{"dex_num":840,"name":"applin","ability_name":"ripen"}
+{"dex_num":840,"name":"applin","ability_name":"gluttony"}
+{"dex_num":840,"name":"applin","ability_name":"bulletproof"}
+{"dex_num":841,"name":"flapple","ability_name":"ripen"}
+{"dex_num":841,"name":"flapple","ability_name":"gluttony"}
+{"dex_num":841,"name":"flapple","ability_name":"hustle"}
+{"dex_num":841,"name":"flapple gmax","ability_name":"ripen"}
+{"dex_num":841,"name":"flapple gmax","ability_name":"gluttony"}
+{"dex_num":841,"name":"flapple gmax","ability_name":"hustle"}
+{"dex_num":842,"name":"appletun","ability_name":"ripen"}
+{"dex_num":842,"name":"appletun","ability_name":"gluttony"}
+{"dex_num":842,"name":"appletun","ability_name":"thick-fat"}
+{"dex_num":842,"name":"appletun gmax","ability_name":"ripen"}
+{"dex_num":842,"name":"appletun gmax","ability_name":"gluttony"}
+{"dex_num":842,"name":"appletun gmax","ability_name":"thick-fat"}
+{"dex_num":843,"name":"silicobra","ability_name":"sand-spit"}
+{"dex_num":843,"name":"silicobra","ability_name":"shed-skin"}
+{"dex_num":843,"name":"silicobra","ability_name":"sand-veil"}
+{"dex_num":844,"name":"sandaconda","ability_name":"sand-spit"}
+{"dex_num":844,"name":"sandaconda","ability_name":"shed-skin"}
+{"dex_num":844,"name":"sandaconda","ability_name":"sand-veil"}
+{"dex_num":844,"name":"sandaconda gmax","ability_name":"sand-spit"}
+{"dex_num":844,"name":"sandaconda gmax","ability_name":"shed-skin"}
+{"dex_num":844,"name":"sandaconda gmax","ability_name":"sand-veil"}
+{"dex_num":845,"name":"cramorant","ability_name":"gulp-missile"}
+{"dex_num":845,"name":"cramorant gulping","ability_name":"gulp-missile"}
+{"dex_num":845,"name":"cramorant gorging","ability_name":"gulp-missile"}
+{"dex_num":846,"name":"arrokuda","ability_name":"swift-swim"}
+{"dex_num":846,"name":"arrokuda","ability_name":"propeller-tail"}
+{"dex_num":847,"name":"barraskewda","ability_name":"swift-swim"}
+{"dex_num":847,"name":"barraskewda","ability_name":"propeller-tail"}
+{"dex_num":848,"name":"toxel","ability_name":"rattled"}
+{"dex_num":848,"name":"toxel","ability_name":"static"}
+{"dex_num":848,"name":"toxel","ability_name":"klutz"}
+{"dex_num":849,"name":"toxtricity amped","ability_name":"punk-rock"}
+{"dex_num":849,"name":"toxtricity amped","ability_name":"plus"}
+{"dex_num":849,"name":"toxtricity amped","ability_name":"technician"}
+{"dex_num":849,"name":"toxtricity low key","ability_name":"punk-rock"}
+{"dex_num":849,"name":"toxtricity low key","ability_name":"minus"}
+{"dex_num":849,"name":"toxtricity low key","ability_name":"technician"}
+{"dex_num":849,"name":"toxtricity amped gmax","ability_name":"punk-rock"}
+{"dex_num":849,"name":"toxtricity amped gmax","ability_name":"plus"}
+{"dex_num":849,"name":"toxtricity amped gmax","ability_name":"technician"}
+{"dex_num":849,"name":"toxtricity low key gmax","ability_name":"punk-rock"}
+{"dex_num":849,"name":"toxtricity low key gmax","ability_name":"minus"}
+{"dex_num":849,"name":"toxtricity low key gmax","ability_name":"technician"}
+{"dex_num":850,"name":"sizzlipede","ability_name":"flash-fire"}
+{"dex_num":850,"name":"sizzlipede","ability_name":"white-smoke"}
+{"dex_num":850,"name":"sizzlipede","ability_name":"flame-body"}
+{"dex_num":851,"name":"centiskorch","ability_name":"flash-fire"}
+{"dex_num":851,"name":"centiskorch","ability_name":"white-smoke"}
+{"dex_num":851,"name":"centiskorch","ability_name":"flame-body"}
+{"dex_num":851,"name":"centiskorch gmax","ability_name":"flash-fire"}
+{"dex_num":851,"name":"centiskorch gmax","ability_name":"white-smoke"}
+{"dex_num":851,"name":"centiskorch gmax","ability_name":"flame-body"}
+{"dex_num":852,"name":"clobbopus","ability_name":"limber"}
+{"dex_num":852,"name":"clobbopus","ability_name":"technician"}
+{"dex_num":853,"name":"grapploct","ability_name":"limber"}
+{"dex_num":853,"name":"grapploct","ability_name":"technician"}
+{"dex_num":854,"name":"sinistea","ability_name":"weak-armor"}
+{"dex_num":854,"name":"sinistea","ability_name":"cursed-body"}
+{"dex_num":855,"name":"polteageist","ability_name":"weak-armor"}
+{"dex_num":855,"name":"polteageist","ability_name":"cursed-body"}
+{"dex_num":856,"name":"hatenna","ability_name":"healer"}
+{"dex_num":856,"name":"hatenna","ability_name":"anticipation"}
+{"dex_num":856,"name":"hatenna","ability_name":"magic-bounce"}
+{"dex_num":857,"name":"hattrem","ability_name":"healer"}
+{"dex_num":857,"name":"hattrem","ability_name":"anticipation"}
+{"dex_num":857,"name":"hattrem","ability_name":"magic-bounce"}
+{"dex_num":858,"name":"hatterene","ability_name":"healer"}
+{"dex_num":858,"name":"hatterene","ability_name":"anticipation"}
+{"dex_num":858,"name":"hatterene","ability_name":"magic-bounce"}
+{"dex_num":858,"name":"hatterene gmax","ability_name":"healer"}
+{"dex_num":858,"name":"hatterene gmax","ability_name":"anticipation"}
+{"dex_num":858,"name":"hatterene gmax","ability_name":"magic-bounce"}
+{"dex_num":859,"name":"impidimp","ability_name":"prankster"}
+{"dex_num":859,"name":"impidimp","ability_name":"frisk"}
+{"dex_num":859,"name":"impidimp","ability_name":"pickpocket"}
+{"dex_num":860,"name":"morgrem","ability_name":"prankster"}
+{"dex_num":860,"name":"morgrem","ability_name":"frisk"}
+{"dex_num":860,"name":"morgrem","ability_name":"pickpocket"}
+{"dex_num":861,"name":"grimmsnarl","ability_name":"prankster"}
+{"dex_num":861,"name":"grimmsnarl","ability_name":"frisk"}
+{"dex_num":861,"name":"grimmsnarl","ability_name":"pickpocket"}
+{"dex_num":861,"name":"grimmsnarl gmax","ability_name":"prankster"}
+{"dex_num":861,"name":"grimmsnarl gmax","ability_name":"frisk"}
+{"dex_num":861,"name":"grimmsnarl gmax","ability_name":"pickpocket"}
+{"dex_num":862,"name":"obstagoon","ability_name":"reckless"}
+{"dex_num":862,"name":"obstagoon","ability_name":"guts"}
+{"dex_num":862,"name":"obstagoon","ability_name":"defiant"}
+{"dex_num":863,"name":"perrserker","ability_name":"battle-armor"}
+{"dex_num":863,"name":"perrserker","ability_name":"tough-claws"}
+{"dex_num":863,"name":"perrserker","ability_name":"steely-spirit"}
+{"dex_num":864,"name":"cursola","ability_name":"weak-armor"}
+{"dex_num":864,"name":"cursola","ability_name":"perish-body"}
+{"dex_num":865,"name":"sirfetchd","ability_name":"steadfast"}
+{"dex_num":865,"name":"sirfetchd","ability_name":"scrappy"}
+{"dex_num":866,"name":"mr rime","ability_name":"tangled-feet"}
+{"dex_num":866,"name":"mr rime","ability_name":"screen-cleaner"}
+{"dex_num":866,"name":"mr rime","ability_name":"ice-body"}
+{"dex_num":867,"name":"runerigus","ability_name":"wandering-spirit"}
+{"dex_num":868,"name":"milcery","ability_name":"sweet-veil"}
+{"dex_num":868,"name":"milcery","ability_name":"aroma-veil"}
+{"dex_num":869,"name":"alcremie","ability_name":"sweet-veil"}
+{"dex_num":869,"name":"alcremie","ability_name":"aroma-veil"}
+{"dex_num":869,"name":"alcremie gmax","ability_name":"sweet-veil"}
+{"dex_num":869,"name":"alcremie gmax","ability_name":"aroma-veil"}
+{"dex_num":870,"name":"falinks","ability_name":"battle-armor"}
+{"dex_num":870,"name":"falinks","ability_name":"defiant"}
+{"dex_num":871,"name":"pincurchin","ability_name":"lightning-rod"}
+{"dex_num":871,"name":"pincurchin","ability_name":"electric-surge"}
+{"dex_num":872,"name":"snom","ability_name":"shield-dust"}
+{"dex_num":872,"name":"snom","ability_name":"ice-scales"}
+{"dex_num":873,"name":"frosmoth","ability_name":"shield-dust"}
+{"dex_num":873,"name":"frosmoth","ability_name":"ice-scales"}
+{"dex_num":874,"name":"stonjourner","ability_name":"power-spot"}
+{"dex_num":875,"name":"eiscue ice","ability_name":"ice-face"}
+{"dex_num":875,"name":"eiscue noice","ability_name":"ice-face"}
+{"dex_num":876,"name":"indeedee male","ability_name":"inner-focus"}
+{"dex_num":876,"name":"indeedee male","ability_name":"synchronize"}
+{"dex_num":876,"name":"indeedee male","ability_name":"psychic-surge"}
+{"dex_num":876,"name":"indeedee female","ability_name":"own-tempo"}
+{"dex_num":876,"name":"indeedee female","ability_name":"synchronize"}
+{"dex_num":876,"name":"indeedee female","ability_name":"psychic-surge"}
+{"dex_num":877,"name":"morpeko full belly","ability_name":"hunger-switch"}
+{"dex_num":877,"name":"morpeko hangry","ability_name":"hunger-switch"}
+{"dex_num":878,"name":"cufant","ability_name":"sheer-force"}
+{"dex_num":878,"name":"cufant","ability_name":"heavy-metal"}
+{"dex_num":879,"name":"copperajah","ability_name":"sheer-force"}
+{"dex_num":879,"name":"copperajah","ability_name":"heavy-metal"}
+{"dex_num":879,"name":"copperajah gmax","ability_name":"sheer-force"}
+{"dex_num":879,"name":"copperajah gmax","ability_name":"heavy-metal"}
+{"dex_num":880,"name":"dracozolt","ability_name":"volt-absorb"}
+{"dex_num":880,"name":"dracozolt","ability_name":"hustle"}
+{"dex_num":880,"name":"dracozolt","ability_name":"sand-rush"}
+{"dex_num":881,"name":"arctozolt","ability_name":"volt-absorb"}
+{"dex_num":881,"name":"arctozolt","ability_name":"static"}
+{"dex_num":881,"name":"arctozolt","ability_name":"slush-rush"}
+{"dex_num":882,"name":"dracovish","ability_name":"water-absorb"}
+{"dex_num":882,"name":"dracovish","ability_name":"strong-jaw"}
+{"dex_num":882,"name":"dracovish","ability_name":"sand-rush"}
+{"dex_num":883,"name":"arctovish","ability_name":"water-absorb"}
+{"dex_num":883,"name":"arctovish","ability_name":"ice-body"}
+{"dex_num":883,"name":"arctovish","ability_name":"slush-rush"}
+{"dex_num":884,"name":"duraludon","ability_name":"light-metal"}
+{"dex_num":884,"name":"duraludon","ability_name":"heavy-metal"}
+{"dex_num":884,"name":"duraludon","ability_name":"stalwart"}
+{"dex_num":884,"name":"duraludon gmax","ability_name":"light-metal"}
+{"dex_num":884,"name":"duraludon gmax","ability_name":"heavy-metal"}
+{"dex_num":884,"name":"duraludon gmax","ability_name":"stalwart"}
+{"dex_num":885,"name":"dreepy","ability_name":"clear-body"}
+{"dex_num":885,"name":"dreepy","ability_name":"infiltrator"}
+{"dex_num":885,"name":"dreepy","ability_name":"cursed-body"}
+{"dex_num":886,"name":"drakloak","ability_name":"clear-body"}
+{"dex_num":886,"name":"drakloak","ability_name":"infiltrator"}
+{"dex_num":886,"name":"drakloak","ability_name":"cursed-body"}
+{"dex_num":887,"name":"dragapult","ability_name":"clear-body"}
+{"dex_num":887,"name":"dragapult","ability_name":"infiltrator"}
+{"dex_num":887,"name":"dragapult","ability_name":"cursed-body"}
+{"dex_num":888,"name":"zacian","ability_name":"intrepid-sword"}
+{"dex_num":888,"name":"zacian crowned","ability_name":"intrepid-sword"}
+{"dex_num":889,"name":"zamazenta","ability_name":"dauntless-shield"}
+{"dex_num":889,"name":"zamazenta crowned","ability_name":"dauntless-shield"}
+{"dex_num":890,"name":"eternatus","ability_name":"pressure"}
+{"dex_num":890,"name":"eternatus eternamax","ability_name":"pressure"}
+{"dex_num":891,"name":"kubfu","ability_name":"inner-focus"}
+{"dex_num":892,"name":"urshifu single strike","ability_name":"unseen-fist"}
+{"dex_num":892,"name":"urshifu rapid strike","ability_name":"unseen-fist"}
+{"dex_num":892,"name":"urshifu single strike gmax","ability_name":"unseen-fist"}
+{"dex_num":892,"name":"urshifu rapid strike gmax","ability_name":"unseen-fist"}
+{"dex_num":893,"name":"zarude","ability_name":"leaf-guard"}
+{"dex_num":893,"name":"zarude dada","ability_name":"leaf-guard"}
+{"dex_num":894,"name":"regieleki","ability_name":"transistor"}
+{"dex_num":895,"name":"regidrago","ability_name":"dragons-maw"}
+{"dex_num":896,"name":"glastrier","ability_name":"chilling-neigh"}
+{"dex_num":897,"name":"spectrier","ability_name":"grim-neigh"}
+{"dex_num":898,"name":"calyrex","ability_name":"unnerve"}
+{"dex_num":898,"name":"calyrex ice","ability_name":"as-one-glastrier"}
+{"dex_num":898,"name":"calyrex shadow","ability_name":"as-one-spectrier"}
+{"dex_num":899,"name":"wyrdeer","ability_name":"intimidate"}
+{"dex_num":899,"name":"wyrdeer","ability_name":"frisk"}
+{"dex_num":899,"name":"wyrdeer","ability_name":"sap-sipper"}
+{"dex_num":900,"name":"kleavor","ability_name":"swarm"}
+{"dex_num":900,"name":"kleavor","ability_name":"sheer-force"}
+{"dex_num":900,"name":"kleavor","ability_name":"sharpness"}
+{"dex_num":901,"name":"ursaluna","ability_name":"guts"}
+{"dex_num":901,"name":"ursaluna","ability_name":"bulletproof"}
+{"dex_num":901,"name":"ursaluna","ability_name":"unnerve"}
+{"dex_num":901,"name":"ursaluna bloodmoon","ability_name":"minds-eye"}
+{"dex_num":902,"name":"basculegion male","ability_name":"swift-swim"}
+{"dex_num":902,"name":"basculegion male","ability_name":"adaptability"}
+{"dex_num":902,"name":"basculegion male","ability_name":"mold-breaker"}
+{"dex_num":902,"name":"basculegion female","ability_name":"swift-swim"}
+{"dex_num":902,"name":"basculegion female","ability_name":"adaptability"}
+{"dex_num":902,"name":"basculegion female","ability_name":"mold-breaker"}
+{"dex_num":903,"name":"sneasler","ability_name":"pressure"}
+{"dex_num":903,"name":"sneasler","ability_name":"unburden"}
+{"dex_num":903,"name":"sneasler","ability_name":"poison-touch"}
+{"dex_num":904,"name":"overqwil","ability_name":"poison-point"}
+{"dex_num":904,"name":"overqwil","ability_name":"swift-swim"}
+{"dex_num":904,"name":"overqwil","ability_name":"intimidate"}
+{"dex_num":905,"name":"enamorus incarnate","ability_name":"cute-charm"}
+{"dex_num":905,"name":"enamorus incarnate","ability_name":"contrary"}
+{"dex_num":905,"name":"enamorus therian","ability_name":"overcoat"}
+{"dex_num":906,"name":"sprigatito","ability_name":"overgrow"}
+{"dex_num":906,"name":"sprigatito","ability_name":"protean"}
+{"dex_num":907,"name":"floragato","ability_name":"overgrow"}
+{"dex_num":907,"name":"floragato","ability_name":"protean"}
+{"dex_num":908,"name":"meowscarada","ability_name":"overgrow"}
+{"dex_num":908,"name":"meowscarada","ability_name":"protean"}
+{"dex_num":909,"name":"fuecoco","ability_name":"blaze"}
+{"dex_num":909,"name":"fuecoco","ability_name":"unaware"}
+{"dex_num":910,"name":"crocalor","ability_name":"blaze"}
+{"dex_num":910,"name":"crocalor","ability_name":"unaware"}
+{"dex_num":911,"name":"skeledirge","ability_name":"blaze"}
+{"dex_num":911,"name":"skeledirge","ability_name":"unaware"}
+{"dex_num":912,"name":"quaxly","ability_name":"torrent"}
+{"dex_num":912,"name":"quaxly","ability_name":"moxie"}
+{"dex_num":913,"name":"quaxwell","ability_name":"torrent"}
+{"dex_num":913,"name":"quaxwell","ability_name":"moxie"}
+{"dex_num":914,"name":"quaquaval","ability_name":"torrent"}
+{"dex_num":914,"name":"quaquaval","ability_name":"moxie"}
+{"dex_num":915,"name":"lechonk","ability_name":"aroma-veil"}
+{"dex_num":915,"name":"lechonk","ability_name":"gluttony"}
+{"dex_num":915,"name":"lechonk","ability_name":"thick-fat"}
+{"dex_num":916,"name":"oinkologne male","ability_name":"lingering-aroma"}
+{"dex_num":916,"name":"oinkologne male","ability_name":"gluttony"}
+{"dex_num":916,"name":"oinkologne male","ability_name":"thick-fat"}
+{"dex_num":916,"name":"oinkologne female","ability_name":"aroma-veil"}
+{"dex_num":916,"name":"oinkologne female","ability_name":"gluttony"}
+{"dex_num":916,"name":"oinkologne female","ability_name":"thick-fat"}
+{"dex_num":917,"name":"tarountula","ability_name":"insomnia"}
+{"dex_num":917,"name":"tarountula","ability_name":"stakeout"}
+{"dex_num":918,"name":"spidops","ability_name":"insomnia"}
+{"dex_num":918,"name":"spidops","ability_name":"stakeout"}
+{"dex_num":919,"name":"nymble","ability_name":"swarm"}
+{"dex_num":919,"name":"nymble","ability_name":"tinted-lens"}
+{"dex_num":920,"name":"lokix","ability_name":"swarm"}
+{"dex_num":920,"name":"lokix","ability_name":"tinted-lens"}
+{"dex_num":921,"name":"pawmi","ability_name":"static"}
+{"dex_num":921,"name":"pawmi","ability_name":"natural-cure"}
+{"dex_num":921,"name":"pawmi","ability_name":"iron-fist"}
+{"dex_num":922,"name":"pawmo","ability_name":"volt-absorb"}
+{"dex_num":922,"name":"pawmo","ability_name":"natural-cure"}
+{"dex_num":922,"name":"pawmo","ability_name":"iron-fist"}
+{"dex_num":923,"name":"pawmot","ability_name":"volt-absorb"}
+{"dex_num":923,"name":"pawmot","ability_name":"natural-cure"}
+{"dex_num":923,"name":"pawmot","ability_name":"iron-fist"}
+{"dex_num":924,"name":"tandemaus","ability_name":"run-away"}
+{"dex_num":924,"name":"tandemaus","ability_name":"pickup"}
+{"dex_num":924,"name":"tandemaus","ability_name":"own-tempo"}
+{"dex_num":925,"name":"maushold family of four","ability_name":"friend-guard"}
+{"dex_num":925,"name":"maushold family of four","ability_name":"cheek-pouch"}
+{"dex_num":925,"name":"maushold family of four","ability_name":"technician"}
+{"dex_num":925,"name":"maushold family of three","ability_name":"friend-guard"}
+{"dex_num":925,"name":"maushold family of three","ability_name":"cheek-pouch"}
+{"dex_num":925,"name":"maushold family of three","ability_name":"technician"}
+{"dex_num":926,"name":"fidough","ability_name":"own-tempo"}
+{"dex_num":926,"name":"fidough","ability_name":"klutz"}
+{"dex_num":927,"name":"dachsbun","ability_name":"well-baked-body"}
+{"dex_num":927,"name":"dachsbun","ability_name":"aroma-veil"}
+{"dex_num":928,"name":"smoliv","ability_name":"early-bird"}
+{"dex_num":928,"name":"smoliv","ability_name":"harvest"}
+{"dex_num":929,"name":"dolliv","ability_name":"early-bird"}
+{"dex_num":929,"name":"dolliv","ability_name":"harvest"}
+{"dex_num":930,"name":"arboliva","ability_name":"seed-sower"}
+{"dex_num":930,"name":"arboliva","ability_name":"harvest"}
+{"dex_num":931,"name":"squawkabilly green plumage","ability_name":"intimidate"}
+{"dex_num":931,"name":"squawkabilly green plumage","ability_name":"hustle"}
+{"dex_num":931,"name":"squawkabilly green plumage","ability_name":"guts"}
+{"dex_num":931,"name":"squawkabilly blue plumage","ability_name":"intimidate"}
+{"dex_num":931,"name":"squawkabilly blue plumage","ability_name":"hustle"}
+{"dex_num":931,"name":"squawkabilly blue plumage","ability_name":"guts"}
+{"dex_num":931,"name":"squawkabilly yellow plumage","ability_name":"intimidate"}
+{"dex_num":931,"name":"squawkabilly yellow plumage","ability_name":"hustle"}
+{"dex_num":931,"name":"squawkabilly yellow plumage","ability_name":"sheer-force"}
+{"dex_num":931,"name":"squawkabilly white plumage","ability_name":"intimidate"}
+{"dex_num":931,"name":"squawkabilly white plumage","ability_name":"hustle"}
+{"dex_num":931,"name":"squawkabilly white plumage","ability_name":"sheer-force"}
+{"dex_num":932,"name":"nacli","ability_name":"purifying-salt"}
+{"dex_num":932,"name":"nacli","ability_name":"sturdy"}
+{"dex_num":932,"name":"nacli","ability_name":"clear-body"}
+{"dex_num":933,"name":"naclstack","ability_name":"purifying-salt"}
+{"dex_num":933,"name":"naclstack","ability_name":"sturdy"}
+{"dex_num":933,"name":"naclstack","ability_name":"clear-body"}
+{"dex_num":934,"name":"garganacl","ability_name":"purifying-salt"}
+{"dex_num":934,"name":"garganacl","ability_name":"sturdy"}
+{"dex_num":934,"name":"garganacl","ability_name":"clear-body"}
+{"dex_num":935,"name":"charcadet","ability_name":"flash-fire"}
+{"dex_num":935,"name":"charcadet","ability_name":"flame-body"}
+{"dex_num":936,"name":"armarouge","ability_name":"flash-fire"}
+{"dex_num":936,"name":"armarouge","ability_name":"weak-armor"}
+{"dex_num":937,"name":"ceruledge","ability_name":"flash-fire"}
+{"dex_num":937,"name":"ceruledge","ability_name":"weak-armor"}
+{"dex_num":938,"name":"tadbulb","ability_name":"own-tempo"}
+{"dex_num":938,"name":"tadbulb","ability_name":"static"}
+{"dex_num":938,"name":"tadbulb","ability_name":"damp"}
+{"dex_num":939,"name":"bellibolt","ability_name":"electromorphosis"}
+{"dex_num":939,"name":"bellibolt","ability_name":"static"}
+{"dex_num":939,"name":"bellibolt","ability_name":"damp"}
+{"dex_num":940,"name":"wattrel","ability_name":"wind-power"}
+{"dex_num":940,"name":"wattrel","ability_name":"volt-absorb"}
+{"dex_num":940,"name":"wattrel","ability_name":"competitive"}
+{"dex_num":941,"name":"kilowattrel","ability_name":"wind-power"}
+{"dex_num":941,"name":"kilowattrel","ability_name":"volt-absorb"}
+{"dex_num":941,"name":"kilowattrel","ability_name":"competitive"}
+{"dex_num":942,"name":"maschiff","ability_name":"intimidate"}
+{"dex_num":942,"name":"maschiff","ability_name":"run-away"}
+{"dex_num":942,"name":"maschiff","ability_name":"stakeout"}
+{"dex_num":943,"name":"mabosstiff","ability_name":"intimidate"}
+{"dex_num":943,"name":"mabosstiff","ability_name":"guard-dog"}
+{"dex_num":943,"name":"mabosstiff","ability_name":"stakeout"}
+{"dex_num":944,"name":"shroodle","ability_name":"unburden"}
+{"dex_num":944,"name":"shroodle","ability_name":"pickpocket"}
+{"dex_num":944,"name":"shroodle","ability_name":"prankster"}
+{"dex_num":945,"name":"grafaiai","ability_name":"unburden"}
+{"dex_num":945,"name":"grafaiai","ability_name":"poison-touch"}
+{"dex_num":945,"name":"grafaiai","ability_name":"prankster"}
+{"dex_num":946,"name":"bramblin","ability_name":"wind-rider"}
+{"dex_num":946,"name":"bramblin","ability_name":"infiltrator"}
+{"dex_num":947,"name":"brambleghast","ability_name":"wind-rider"}
+{"dex_num":947,"name":"brambleghast","ability_name":"infiltrator"}
+{"dex_num":948,"name":"toedscool","ability_name":"mycelium-might"}
+{"dex_num":949,"name":"toedscruel","ability_name":"mycelium-might"}
+{"dex_num":950,"name":"klawf","ability_name":"anger-shell"}
+{"dex_num":950,"name":"klawf","ability_name":"shell-armor"}
+{"dex_num":950,"name":"klawf","ability_name":"regenerator"}
+{"dex_num":951,"name":"capsakid","ability_name":"chlorophyll"}
+{"dex_num":951,"name":"capsakid","ability_name":"insomnia"}
+{"dex_num":951,"name":"capsakid","ability_name":"klutz"}
+{"dex_num":952,"name":"scovillain","ability_name":"chlorophyll"}
+{"dex_num":952,"name":"scovillain","ability_name":"insomnia"}
+{"dex_num":952,"name":"scovillain","ability_name":"moody"}
+{"dex_num":953,"name":"rellor","ability_name":"compound-eyes"}
+{"dex_num":953,"name":"rellor","ability_name":"shed-skin"}
+{"dex_num":954,"name":"rabsca","ability_name":"synchronize"}
+{"dex_num":954,"name":"rabsca","ability_name":"telepathy"}
+{"dex_num":955,"name":"flittle","ability_name":"anticipation"}
+{"dex_num":955,"name":"flittle","ability_name":"frisk"}
+{"dex_num":955,"name":"flittle","ability_name":"speed-boost"}
+{"dex_num":956,"name":"espathra","ability_name":"opportunist"}
+{"dex_num":956,"name":"espathra","ability_name":"frisk"}
+{"dex_num":956,"name":"espathra","ability_name":"speed-boost"}
+{"dex_num":957,"name":"tinkatink","ability_name":"mold-breaker"}
+{"dex_num":957,"name":"tinkatink","ability_name":"own-tempo"}
+{"dex_num":957,"name":"tinkatink","ability_name":"pickpocket"}
+{"dex_num":958,"name":"tinkatuff","ability_name":"mold-breaker"}
+{"dex_num":958,"name":"tinkatuff","ability_name":"own-tempo"}
+{"dex_num":958,"name":"tinkatuff","ability_name":"pickpocket"}
+{"dex_num":959,"name":"tinkaton","ability_name":"mold-breaker"}
+{"dex_num":959,"name":"tinkaton","ability_name":"own-tempo"}
+{"dex_num":959,"name":"tinkaton","ability_name":"pickpocket"}
+{"dex_num":960,"name":"wiglett","ability_name":"gooey"}
+{"dex_num":960,"name":"wiglett","ability_name":"rattled"}
+{"dex_num":960,"name":"wiglett","ability_name":"sand-veil"}
+{"dex_num":961,"name":"wugtrio","ability_name":"gooey"}
+{"dex_num":961,"name":"wugtrio","ability_name":"rattled"}
+{"dex_num":961,"name":"wugtrio","ability_name":"sand-veil"}
+{"dex_num":962,"name":"bombirdier","ability_name":"big-pecks"}
+{"dex_num":962,"name":"bombirdier","ability_name":"keen-eye"}
+{"dex_num":962,"name":"bombirdier","ability_name":"rocky-payload"}
+{"dex_num":963,"name":"finizen","ability_name":"water-veil"}
+{"dex_num":964,"name":"palafin zero","ability_name":"zero-to-hero"}
+{"dex_num":964,"name":"palafin hero","ability_name":"zero-to-hero"}
+{"dex_num":965,"name":"varoom","ability_name":"overcoat"}
+{"dex_num":965,"name":"varoom","ability_name":"slow-start"}
+{"dex_num":966,"name":"revavroom","ability_name":"overcoat"}
+{"dex_num":966,"name":"revavroom","ability_name":"filter"}
+{"dex_num":967,"name":"cyclizar","ability_name":"shed-skin"}
+{"dex_num":967,"name":"cyclizar","ability_name":"regenerator"}
+{"dex_num":968,"name":"orthworm","ability_name":"earth-eater"}
+{"dex_num":968,"name":"orthworm","ability_name":"sand-veil"}
+{"dex_num":969,"name":"glimmet","ability_name":"toxic-debris"}
+{"dex_num":969,"name":"glimmet","ability_name":"corrosion"}
+{"dex_num":970,"name":"glimmora","ability_name":"toxic-debris"}
+{"dex_num":970,"name":"glimmora","ability_name":"corrosion"}
+{"dex_num":971,"name":"greavard","ability_name":"pickup"}
+{"dex_num":971,"name":"greavard","ability_name":"fluffy"}
+{"dex_num":972,"name":"houndstone","ability_name":"sand-rush"}
+{"dex_num":972,"name":"houndstone","ability_name":"fluffy"}
+{"dex_num":973,"name":"flamigo","ability_name":"scrappy"}
+{"dex_num":973,"name":"flamigo","ability_name":"tangled-feet"}
+{"dex_num":973,"name":"flamigo","ability_name":"costar"}
+{"dex_num":974,"name":"cetoddle","ability_name":"thick-fat"}
+{"dex_num":974,"name":"cetoddle","ability_name":"snow-cloak"}
+{"dex_num":974,"name":"cetoddle","ability_name":"sheer-force"}
+{"dex_num":975,"name":"cetitan","ability_name":"thick-fat"}
+{"dex_num":975,"name":"cetitan","ability_name":"slush-rush"}
+{"dex_num":975,"name":"cetitan","ability_name":"sheer-force"}
+{"dex_num":976,"name":"veluza","ability_name":"mold-breaker"}
+{"dex_num":976,"name":"veluza","ability_name":"sharpness"}
+{"dex_num":977,"name":"dondozo","ability_name":"unaware"}
+{"dex_num":977,"name":"dondozo","ability_name":"oblivious"}
+{"dex_num":977,"name":"dondozo","ability_name":"water-veil"}
+{"dex_num":978,"name":"tatsugiri curly","ability_name":"commander"}
+{"dex_num":978,"name":"tatsugiri curly","ability_name":"storm-drain"}
+{"dex_num":978,"name":"tatsugiri droopy","ability_name":"commander"}
+{"dex_num":978,"name":"tatsugiri droopy","ability_name":"storm-drain"}
+{"dex_num":978,"name":"tatsugiri stretchy","ability_name":"commander"}
+{"dex_num":978,"name":"tatsugiri stretchy","ability_name":"storm-drain"}
+{"dex_num":979,"name":"annihilape","ability_name":"vital-spirit"}
+{"dex_num":979,"name":"annihilape","ability_name":"inner-focus"}
+{"dex_num":979,"name":"annihilape","ability_name":"defiant"}
+{"dex_num":980,"name":"clodsire","ability_name":"poison-point"}
+{"dex_num":980,"name":"clodsire","ability_name":"water-absorb"}
+{"dex_num":980,"name":"clodsire","ability_name":"unaware"}
+{"dex_num":981,"name":"farigiraf","ability_name":"cud-chew"}
+{"dex_num":981,"name":"farigiraf","ability_name":"armor-tail"}
+{"dex_num":981,"name":"farigiraf","ability_name":"sap-sipper"}
+{"dex_num":982,"name":"dudunsparce two segment","ability_name":"serene-grace"}
+{"dex_num":982,"name":"dudunsparce two segment","ability_name":"run-away"}
+{"dex_num":982,"name":"dudunsparce two segment","ability_name":"rattled"}
+{"dex_num":982,"name":"dudunsparce three segment","ability_name":"serene-grace"}
+{"dex_num":982,"name":"dudunsparce three segment","ability_name":"run-away"}
+{"dex_num":982,"name":"dudunsparce three segment","ability_name":"rattled"}
+{"dex_num":983,"name":"kingambit","ability_name":"defiant"}
+{"dex_num":983,"name":"kingambit","ability_name":"supreme-overlord"}
+{"dex_num":983,"name":"kingambit","ability_name":"pressure"}
+{"dex_num":984,"name":"great tusk","ability_name":"protosynthesis"}
+{"dex_num":985,"name":"scream tail","ability_name":"protosynthesis"}
+{"dex_num":986,"name":"brute bonnet","ability_name":"protosynthesis"}
+{"dex_num":987,"name":"flutter mane","ability_name":"protosynthesis"}
+{"dex_num":988,"name":"slither wing","ability_name":"protosynthesis"}
+{"dex_num":989,"name":"sandy shocks","ability_name":"protosynthesis"}
+{"dex_num":990,"name":"iron treads","ability_name":"quark-drive"}
+{"dex_num":991,"name":"iron bundle","ability_name":"quark-drive"}
+{"dex_num":992,"name":"iron hands","ability_name":"quark-drive"}
+{"dex_num":993,"name":"iron jugulis","ability_name":"quark-drive"}
+{"dex_num":994,"name":"iron moth","ability_name":"quark-drive"}
+{"dex_num":995,"name":"iron thorns","ability_name":"quark-drive"}
+{"dex_num":996,"name":"frigibax","ability_name":"thermal-exchange"}
+{"dex_num":996,"name":"frigibax","ability_name":"ice-body"}
+{"dex_num":997,"name":"arctibax","ability_name":"thermal-exchange"}
+{"dex_num":997,"name":"arctibax","ability_name":"ice-body"}
+{"dex_num":998,"name":"baxcalibur","ability_name":"thermal-exchange"}
+{"dex_num":998,"name":"baxcalibur","ability_name":"ice-body"}
+{"dex_num":999,"name":"gimmighoul","ability_name":"rattled"}
+{"dex_num":999,"name":"gimmighoul roaming","ability_name":"run-away"}
+{"dex_num":1000,"name":"gholdengo","ability_name":"good-as-gold"}
+{"dex_num":1001,"name":"wo chien","ability_name":"tablets-of-ruin"}
+{"dex_num":1002,"name":"chien pao","ability_name":"sword-of-ruin"}
+{"dex_num":1003,"name":"ting lu","ability_name":"vessel-of-ruin"}
+{"dex_num":1004,"name":"chi yu","ability_name":"beads-of-ruin"}
+{"dex_num":1005,"name":"roaring moon","ability_name":"protosynthesis"}
+{"dex_num":1006,"name":"iron valiant","ability_name":"quark-drive"}
+{"dex_num":1007,"name":"koraidon","ability_name":"orichalcum-pulse"}
+{"dex_num":1007,"name":"koraidon limited build","ability_name":"orichalcum-pulse"}
+{"dex_num":1007,"name":"koraidon sprinting build","ability_name":"orichalcum-pulse"}
+{"dex_num":1007,"name":"koraidon swimming build","ability_name":"orichalcum-pulse"}
+{"dex_num":1007,"name":"koraidon gliding build","ability_name":"orichalcum-pulse"}
+{"dex_num":1008,"name":"miraidon","ability_name":"hadron-engine"}
+{"dex_num":1008,"name":"miraidon low power mode","ability_name":"hadron-engine"}
+{"dex_num":1008,"name":"miraidon drive mode","ability_name":"hadron-engine"}
+{"dex_num":1008,"name":"miraidon aquatic mode","ability_name":"hadron-engine"}
+{"dex_num":1008,"name":"miraidon glide mode","ability_name":"hadron-engine"}
+{"dex_num":1009,"name":"walking wake","ability_name":"protosynthesis"}
+{"dex_num":1010,"name":"iron leaves","ability_name":"quark-drive"}
+{"dex_num":1011,"name":"dipplin","ability_name":"supersweet-syrup"}
+{"dex_num":1011,"name":"dipplin","ability_name":"gluttony"}
+{"dex_num":1011,"name":"dipplin","ability_name":"sticky-hold"}
+{"dex_num":1012,"name":"poltchageist","ability_name":"hospitality"}
+{"dex_num":1012,"name":"poltchageist","ability_name":"heatproof"}
+{"dex_num":1013,"name":"sinistcha","ability_name":"hospitality"}
+{"dex_num":1013,"name":"sinistcha","ability_name":"heatproof"}
+{"dex_num":1014,"name":"okidogi","ability_name":"toxic-chain"}
+{"dex_num":1014,"name":"okidogi","ability_name":"guard-dog"}
+{"dex_num":1015,"name":"munkidori","ability_name":"toxic-chain"}
+{"dex_num":1015,"name":"munkidori","ability_name":"frisk"}
+{"dex_num":1016,"name":"fezandipiti","ability_name":"toxic-chain"}
+{"dex_num":1016,"name":"fezandipiti","ability_name":"technician"}
+{"dex_num":1017,"name":"ogerpon","ability_name":"defiant"}
+{"dex_num":1017,"name":"ogerpon wellspring mask","ability_name":"water-absorb"}
+{"dex_num":1017,"name":"ogerpon hearthflame mask","ability_name":"mold-breaker"}
+{"dex_num":1017,"name":"ogerpon cornerstone mask","ability_name":"sturdy"}
+{"dex_num":1018,"name":"archaludon","ability_name":"stamina"}
+{"dex_num":1018,"name":"archaludon","ability_name":"sturdy"}
+{"dex_num":1018,"name":"archaludon","ability_name":"stalwart"}
+{"dex_num":1019,"name":"hydrapple","ability_name":"supersweet-syrup"}
+{"dex_num":1019,"name":"hydrapple","ability_name":"regenerator"}
+{"dex_num":1019,"name":"hydrapple","ability_name":"sticky-hold"}
+{"dex_num":1020,"name":"gouging fire","ability_name":"protosynthesis"}
+{"dex_num":1021,"name":"raging bolt","ability_name":"protosynthesis"}
+{"dex_num":1022,"name":"iron boulder","ability_name":"quark-drive"}
+{"dex_num":1023,"name":"iron crown","ability_name":"quark-drive"}
+{"dex_num":1024,"name":"terapagos","ability_name":"tera-shift"}
+{"dex_num":1024,"name":"terapagos terastal","ability_name":"tera-shell"}
+{"dex_num":1024,"name":"terapagos stellar","ability_name":"teraform-zero"}
+{"dex_num":1025,"name":"pecharunt","ability_name":"poison-puppeteer"}
