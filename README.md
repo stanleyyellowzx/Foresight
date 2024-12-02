@@ -10,3 +10,5 @@ to install dependencies, inside of server directory:
 npm install express
 npm install --save-dev nodemon
 npm install better-sqlite3 (you may need to install other things like nodegyp)
+
+to run, use npm run dev
