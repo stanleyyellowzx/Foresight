@@ -2,18 +2,19 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
     margin: 0;
-    padding: 20px;
+    padding: 1.25rem;
 }
 table {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 1.25rem 0;
+    box-shadow: 0 0.125rem 0.313rem rgba(0, 0, 0, 0.1);
+    table-layout: fixed;
 }
 th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
-    text-align: left;
+    border: 0.063rem solid #ddd;
+    padding: 0.625rem;
+    text-align: center;
 }
 th {
     background-color: #f4f4f4;
@@ -22,13 +23,26 @@ tr:hover {
     background-color: #f1f1f1;
 }
 button {
-    padding: 5px 10px;
+    padding: 0.313rem 0.625rem;
     background-color: #4CAF50;
     color: white;
     border: none;
-    border-radius: 3px;
+    border-radius: 0.188rem;
     cursor: pointer;
 }
 button:hover {
     background-color: #45a049;
+}
+
+#search{
+    padding: 0.313rem 0.625rem;
+    background-color: #f762ef;
+    color: white;
+    border: none;
+    border-radius: 0.188rem;
+    cursor: pointer;
+}
+
+#search:hover{
+    background-color: #e05ada;
 }

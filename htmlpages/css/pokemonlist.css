@@ -22,7 +22,7 @@ th {
 tr:hover {
     background-color: #f1f1f1;
 }
-button {
+td button {
     padding: 0.313rem 0.625rem;
     background-color: #4CAF50;
     color: white;
@@ -30,6 +30,6 @@ button {
     border-radius: 0.188rem;
     cursor: pointer;
 }
-button:hover {
+td button:hover {
     background-color: #45a049;
 }

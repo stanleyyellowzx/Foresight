@@ -1,9 +1,8 @@
 const express = require("express");
 const app = express();
 const path = require("path");
-const Database = require("better-sqlite3");
-const db = new Database("guzzlord.db", {verbose: console.log});
 const templates = require("./templates.js");
+const pokedb = require("./database.js");
 
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
@@ -15,10 +14,9 @@ app.get("/", (req, res) => {
 
 app.post("/search", (req, res) => {
     const type = req.body.search;
-    console.log(type);
-    const searchQuery = db.prepare(`SELECT * FROM pokemon_types WHERE type_name = '${type}';`).all();
+    const searchQuery = pokedb.searchByType(type);
 
-    const page = templates.generateHTML(searchQuery);
+    const page = templates.searchByTypeHTML(searchQuery);
     res.send(page);
 });
 

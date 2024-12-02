@@ -1,14 +1,30 @@
-function generateHTML(searchQuery){
-    let tableRows = searchQuery.map(pokemon => {
+function searchByTypeHTML(searchQuery){
+    console.log("Length of types is: " + searchQuery.types.length);
+    console.log("Length of stats is: " + searchQuery.stat.length);
+    let typesTable = searchQuery.types.map(pokemon => {
         return `
         <tr>
             <td>${pokemon.pokemon_name}</td>
-            <td>${pokemon.type_name}</td>
-            <td>Speed: ${pokemon.pokemon_speed}</td>
+            <td>${pokemon.types}</td>
+        `;
+    });
+
+    let statsTable = searchQuery.stat.map(pokemon => {
+        return `
+            <td>${pokemon.pokemon_hp}</td>
+            <td>${pokemon.pokemon_attack}</td>
+            <td>${pokemon.pokemon_special_attack}</td>
+            <td>${pokemon.pokemon_defense}</td>
+            <td>${pokemon.pokemon_special_defense}</td>
+            <td>${pokemon.pokemon_speed}</td>
             <td><form action="/add" method="POST"><button type="submit" name="add" value="Name">Add</button></form></td>
         </tr>
-        `;
-    }).join('');
+        `
+    })
+    
+    let tableHTML = typesTable.map((pokemon, index) => {
+        return pokemon + statsTable[index];
+    }).join("");
 
     return `
     <!DOCTYPE html>
@@ -21,17 +37,23 @@ function generateHTML(searchQuery){
     </head>
     <body>
         <h1>Pokémon List</h1>
+        <form action="/" method="GET"><button type="submit" id="search">Back to Search</button></form>
         <table>
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Type</th>
-                    <th>Stats</th>
+                    <th>Pokemon Name</th>
+                    <th>Types</th>
+                    <th>HP</th>
+                    <th>Attack</th>
+                    <th>Special Attack</th>
+                    <th>Defense</th>
+                    <th>Special Defense</th>
+                    <th>Speed</th>
                     <th>Add</th>
                 </tr>
             </thead>
             <tbody>
-                ${tableRows}  <!-- Insert dynamically generated table rows here -->
+                ${tableHTML}  <!-- Insert dynamically generated table rows here -->
             </tbody>
         </table>
     </body>
@@ -39,4 +61,4 @@ function generateHTML(searchQuery){
     `;
 }
 
-module.exports = { generateHTML };
+module.exports = { searchByTypeHTML };
