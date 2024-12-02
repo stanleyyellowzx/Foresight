@@ -10,35 +10,5 @@
         <input type="text" name="search" placeholder="Search Here">
         <button type="submit">Submit</button>
     </form>
-
-    <div id="results">
-        <!-- Search results will appear here -->
-    </div>
-
-    <script>
-        // Handle form submission via AJAX
-        document.getElementById("searchForm").addEventListener("submit", async (e) => {
-            e.preventDefault(); // Prevent the default form submission
-            const searchQuery = document.getElementById("searchInput").value;
-
-            // Send search data to the server using fetch
-            const response = await fetch("/search", {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json",
-                },
-                body: JSON.stringify({ search: searchQuery }),
-            });
-
-            // Parse the server's response (assume it's JSON)
-            const data = await response.json();
-
-            // Display results on the page
-            const resultsDiv = document.getElementById("results");
-            resultsDiv.innerHTML = data.results
-                .map(result => `<div>${result}</div>`) // Replace with your desired HTML structure
-                .join("");
-        });
-    </script>
 </body>
 </html>

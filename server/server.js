@@ -1,8 +1,10 @@
 const express = require("express");
 const app = express();
 const path = require("path");
+const Database = require("better-sqlite3");
+const db = new Database("guzzlord.db", {verbose: console.log});
 
-app.use("/public", express.static(path.join(__dirname, "public")));
+app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
 app.use(express.urlencoded({extended : true}));
 
@@ -11,15 +13,11 @@ app.get("/", (req, res) => {
 });
 
 app.post("/search", (req, res) => {
-    const searchQuery = req.body.search;
+    const type = req.body.search;
+    console.log(type);
+    const searchQuery = db.prepare(`SELECT * FROM pokemon_types WHERE type_name = '${type}';`).all();
 
-    // Simulate search results (replace with actual search logic)
-    const results = searchQuery
-        ? [`Result for "${searchQuery}"`, "Another result", "More results..."]
-        : ["No search query provided."];
-
-    // Return the results as JSON
-    res.json({ results });
+    res.json(searchQuery);
 });
 
 app.listen(8000, () => {
