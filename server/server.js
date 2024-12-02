@@ -3,6 +3,7 @@ const app = express();
 const path = require("path");
 const Database = require("better-sqlite3");
 const db = new Database("guzzlord.db", {verbose: console.log});
+const templates = require("./templates.js");
 
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
@@ -17,8 +18,15 @@ app.post("/search", (req, res) => {
     console.log(type);
     const searchQuery = db.prepare(`SELECT * FROM pokemon_types WHERE type_name = '${type}';`).all();
 
-    res.json(searchQuery);
+    const page = templates.generateHTML(searchQuery);
+    res.send(page);
 });
+
+app.post("/add", (req, res) => {
+    const test = req.body.add;
+    console.log(test);
+    res.send("ADDED");
+})
 
 app.listen(8000, () => {
     console.log("Listening on port 8000");
