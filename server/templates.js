@@ -83,8 +83,6 @@ function searchByTypeHTML(searchQuery, type){
 function searchByNameHTML(searchQuery, pokemonName){
 
     let typesTable = searchQuery.types.map(pokemon => {
-        console.log("printing out pokemon");
-        console.log(pokemon);
         const splitArray = pokemon.types.split("/");
         if (splitArray.length === 1){
             return `
