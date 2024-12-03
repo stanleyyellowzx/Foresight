@@ -14,7 +14,23 @@ function searchByType(type){
     const stat = db.prepare(`SELECT * from pokemon where pokemon.pokemon_name in (select pokemon_name from pokemon_types where type_name = '${type}');`).all();
     p.types = types;
     p.stat = stat;
+    console.log(p);
     return p;
 }
 
-module.exports = { searchByType }
+function searchByName(name){
+    let p = {};
+    const types = db.prepare(`SELECT STRING_AGG(type_name, '/' ORDER BY rowid) AS types from pokemon_types where pokemon_name = '${name}' group by dex_num, pokemon_name;`).all();
+    const pokemonInfo = db.prepare(`SELECT * from pokemon where pokemon_name = '${name}';`).all();
+    const pokemonMoveNames = db.prepare(`SELECT move_name from moves_list where pokemon_name = '${name}'`).all();
+    let pokemonMoves = []
+    for (const move of pokemonMoveNames){
+        pokemonMoves.push(db.prepare(`SELECT * from moves where move_name = ?`).get(move.move_name));
+    }
+    p.types = types;
+    p.pokemonInfo = pokemonInfo;
+    p.pokemonMoves = pokemonMoves;
+    return p;
+}
+
+module.exports = { searchByType, searchByName }

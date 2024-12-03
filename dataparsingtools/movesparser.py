@@ -18,7 +18,7 @@ for row in soup.find('table', {'id' : 'moves'}).find("tbody").find_all("tr"):
     accuracy_tag = temp[1]
     effect_tag = row.find("td", class_="cell-long-text")
     if moves_tag and type_tag and category_tag and power_tag and accuracy_tag and effect_tag:
-        move_name = moves_tag.get_text(strip=True).replace("'", "''")
+        move_name = moves_tag.get_text(strip=True).replace("'", "''").replace("-", " ")
         type_name = type_tag.get_text(strip=True).replace("'", "''")
         move_category = category_tag['title'].replace("'", "''")
         move_damage = power_tag.get_text(strip=True).replace("'", "''").replace("—", "0")

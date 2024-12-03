@@ -58,11 +58,31 @@ button:hover {
 }
 
 .sprite-img{
-    height: 100px;
-    width: 100px;
+    height: 6.25rem;
+    width: 6.25rem;
+}
+
+#search-container{
+    width: 100%;
+    text-align:center;
+    padding: 10px 0px;
+}
+
+#homepage-container{
+    width: 100%;
+    text-align:center;
 }
 
 #search-bar{
-    margin: auto;
-    padding: 5px;
+    height: 1.875rem;
+    width: 18.75rem;
+}
+
+#submit-button{
+    height: 1.875rem;
+}
+
+.pokemon-name{
+    text-decoration: none;
+    color:blue;
 }
