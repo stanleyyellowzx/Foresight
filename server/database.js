@@ -1,6 +1,8 @@
 const Database = require("better-sqlite3");
 const db = new Database("guzzlord.db", {verbose: console.log});
 
+/* NOTE: Using the GROUP BY statement with STRING_AGG() causes no values to be returned. If you use STRING_AGG() without GROUP BY, then no rows are calculated, but a NULL row is returned to indicate that there are no values */
+
 function searchByType(type){
     let p = {};
     if (type === ""){
