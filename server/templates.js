@@ -1,6 +1,4 @@
 function searchByTypeHTML(searchQuery){
-    console.log("Length of types is: " + searchQuery.types.length);
-    console.log("Length of stats is: " + searchQuery.stat.length);
     let typesTable = searchQuery.types.map(pokemon => {
         return `
         <tr>
@@ -37,7 +35,7 @@ function searchByTypeHTML(searchQuery){
     </head>
     <body>
         <h1>Pokémon List</h1>
-        <form action="/" method="GET"><button type="submit" id="search">Back to Search</button></form>
+        <a href="/" id="search">Back to Search</a>
         <table>
             <thead>
                 <tr>

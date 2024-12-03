@@ -41,6 +41,7 @@ button:hover {
     border: none;
     border-radius: 0.188rem;
     cursor: pointer;
+    text-decoration: none;
 }
 
 #search:hover{

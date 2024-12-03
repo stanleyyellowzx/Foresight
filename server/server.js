@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
-app.post("/search", (req, res) => {
+app.post("/", (req, res) => {
     const type = req.body.search;
     const searchQuery = pokedb.searchByType(type);
 
