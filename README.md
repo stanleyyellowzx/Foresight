@@ -4,11 +4,14 @@ Moves: https://pokemondb.net/move/all Abilities: https://pokemondb.net/ability I
 
 libraries used:
 
-better-sqlite3, express, nodemon
+better-sqlite3, express, nodemon, axios
 
 to install dependencies, inside of server directory:
 npm install express
 npm install --save-dev nodemon
 npm install better-sqlite3 (you may need to install other things like nodegyp)
+
+inside of dataparsingtools:
+npm install axios
 
 to run, use npm run dev
