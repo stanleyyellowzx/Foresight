@@ -12,11 +12,16 @@ app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
-app.post("/", (req, res) => {
-    const type = req.body.search;
-    const searchQuery = pokedb.searchByType(type);
+app.get("/searchbytype", (req, res) => {
+    res.sendFile(path.join(__dirname, "public", "searchbytype.html"));
+});
 
-    const page = templates.searchByTypeHTML(searchQuery);
+app.post("/searchbytype", (req, res) => {
+    const type = req.body.search;
+    const filteredType = formatSearch(type);
+    const searchQuery = pokedb.searchByType(filteredType);
+
+    const page = templates.searchByTypeHTML(searchQuery, type);
     res.send(page);
 });
 
@@ -29,3 +34,7 @@ app.post("/add", (req, res) => {
 app.listen(8000, () => {
     console.log("Listening on port 8000");
 });
+
+function formatSearch(string){
+    return string.split(" ").map(word => string.slice(0, 1).toUpperCase() + string.slice(1).toLowerCase()).join(" ");
+}

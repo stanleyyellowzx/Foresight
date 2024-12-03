@@ -33,3 +33,7 @@ td button {
 td button:hover {
     background-color: #45a049;
 }
+
+.img{
+    padding: 0.063rem;
+}

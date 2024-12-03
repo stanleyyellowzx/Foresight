@@ -1,10 +1,22 @@
-function searchByTypeHTML(searchQuery){
+function searchByTypeHTML(searchQuery, type){
     let typesTable = searchQuery.types.map(pokemon => {
-        return `
-        <tr>
+        const splitArray = pokemon.types.split("/");
+        if (splitArray.length === 1){
+            return `
+            <tr>
             <td>${pokemon.pokemon_name}</td>
-            <td>${pokemon.types}</td>
-        `;
+            <td><img src="images/types/${splitArray[0].toLowerCase()}.png" alt="" class="type-img"></td>
+            <td><img src="images/pokemon-sprites/${pokemon.pokemon_name.toLowerCase()}.png" alt="" class="sprite-img"></td>
+            `;
+        }
+        else{
+            return `
+            <tr>
+            <td>${pokemon.pokemon_name}</td>
+            <td><img src="images/types/${splitArray[0].toLowerCase()}.png" alt="" class="type-img"><img src="images/types/${splitArray[1].toLowerCase()}.png" alt="" class="type-img"></td>
+            <td><img src="images/pokemon-sprites/${pokemon.pokemon_name.toLowerCase()}.png" alt="" class="sprite-img"></td>
+            `;
+        }
     });
 
     let statsTable = searchQuery.stat.map(pokemon => {
@@ -31,16 +43,21 @@ function searchByTypeHTML(searchQuery){
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Pokémon Table</title>
-        <link rel="stylesheet" href="/css/pokemonlist.css">
+        <link rel="stylesheet" href="/css/searchbytype.css">
     </head>
     <body>
+        <form action="/searchbytype" method="post">
+            <input type="text" placeholder="Search" name="search" value="${type}">
+            <button type="submit">Submit</button>
+        </form>
+        <a href="/" id="homepage">Back to Home</a>
         <h1>Pokémon List</h1>
-        <a href="/" id="search">Back to Search</a>
         <table>
             <thead>
                 <tr>
                     <th>Pokemon Name</th>
                     <th>Types</th>
+                    <th>Image</th>
                     <th>HP</th>
                     <th>Attack</th>
                     <th>Special Attack</th>
