@@ -98,6 +98,7 @@ function searchByNameHTML(searchQuery, pokemonName){
     let pokemonTableData = searchQuery.pokemonInfo.map((pokemon, index) => {
         return `
         <tr>
+            <td>${pokemon.dex_num}</td>
             <td>${pokemon.pokemon_name}</td>
             ${typesTable[index]}
             <td><img src="images/pokemon-sprites/${pokemon.pokemon_name.toLowerCase()}.png" alt="" class="sprite-img"></td>
@@ -157,6 +158,7 @@ function searchByNameHTML(searchQuery, pokemonName){
     <table>
         <thead>
             <tr>
+                <th>Pokedex Number</th>
                 <th>Pokemon Name</th>
                 <th>Types</th>
                 <th>Image</th>
@@ -426,8 +428,8 @@ function typeMatchupsHTML(searchQuery, type){
         else effectiveness = "Super Effective";
         return `
         <tr>
-        <td><img src="images/types/${matchup.type_name.toLowerCase()}.png" alt="" class="type-img"></td>
-        <td><img src="images/types/${matchup.type_matchup.toLowerCase()}.png" alt="" class="type-img"></td>
+        <td><a href="/typematchups?${matchup.type_name}" class="type-matchups"><img src="images/types/${matchup.type_name.toLowerCase()}.png" alt="" class="type-img"></a></td>
+        <td><a href="/typematchups?${matchup.type_matchup}" class="type-matchups"><img src="images/types/${matchup.type_matchup.toLowerCase()}.png" alt="" class="type-img"></a></td>
         <td>${effectiveness}</td>
         `
     }).join("");

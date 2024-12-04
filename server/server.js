@@ -96,7 +96,9 @@ app.get("/typematchups", (req, res) => {
         const page = templates.typeMatchupsHTML(searchQuery, "");
         res.send(page);
     }
-    res.sendFile(path.join(__dirname, "public", "typematchups.html"));
+    else{
+        res.sendFile(path.join(__dirname, "public", "typematchups.html"));
+    }
 });
 
 app.post("/typematchups", (req, res) => {
