@@ -35,10 +35,9 @@ app.post("/add", (req, res) => {
 app.get("/pokemon", (req, res) => {
     if (req.url.includes("?")){
         const pokemonName = req.url.split("?")[1].replaceAll("%20", " ");
-        const filteredName = formatString(pokemonName);
-        const searchQuery = pokedb.searchByName(filteredName);
+        const searchQuery = pokedb.searchByName(pokemonName);
 
-        const page = templates.searchByNameHTML(searchQuery, pokemonName);
+        const page = templates.searchByNameHTML(searchQuery, "");
         res.send(page);
     }
     else{
@@ -57,10 +56,9 @@ app.post("/pokemon", (req, res) => {
 app.get("/ability", (req, res) => {
     if (req.url.includes("?")){
         const abilityName = req.url.split("?")[1].replaceAll("%20", " ");
-        const filteredName = formatString(abilityName);
-        const searchQuery = pokedb.searchAbility(filteredName);
+        const searchQuery = pokedb.searchAbility(abilityName);
 
-        const page = templates.searchAbilityHTML(searchQuery, abilityName);
+        const page = templates.searchAbilityHTML(searchQuery, "");
         res.send(page);
     }
     else{
@@ -73,6 +71,27 @@ app.post("/ability", (req, res) => {
     const filteredName = formatString(abilityName);
     const searchQuery = pokedb.searchAbility(filteredName);
     const page = templates.searchAbilityHTML(searchQuery, abilityName);
+    res.send(page);
+})
+
+app.get("/move", (req, res) => {
+    if (req.url.includes("?")){
+        const moveName = req.url.split("?")[1].replaceAll("%20", " ");
+        const searchQuery = pokedb.searchMove(moveName);
+
+        const page = templates.searchMoveHTML(searchQuery, "");
+        res.send(page);
+    }
+    else{
+        res.sendFile(path.join(__dirname, "public", "moves.html"));
+    }
+})
+
+app.post("/move", (req, res) => {
+    const moveName = req.body.search;
+    const filteredName = formatString(moveName);
+    const searchQuery = pokedb.searchMove(filteredName);
+    const page = templates.searchMoveHTML(searchQuery, moveName);
     res.send(page);
 })
 

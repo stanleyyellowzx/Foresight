@@ -57,4 +57,21 @@ function searchAbility(abilityName){
     return p;
 }
 
-module.exports = { searchByType, searchByName, searchAbility }
+function searchMove(moveName){
+    let p = {};
+    const moveInfo = db.prepare(`SELECT * from moves where move_name = '${moveName}';`).all();
+    const pokemonWithMove = db.prepare(`SELECT pokemon_name from moves_list where move_name = '${moveName}';`).all();
+    let pokemon = [];
+    for (const name of pokemonWithMove){
+        let temp = {};
+        temp.pokemonInfo = db.prepare(`SELECT * from pokemon where pokemon_name = ?`).get(name.pokemon_name);
+        temp.type = db.prepare(`SELECT STRING_AGG(type_name, '/' ORDER BY rowid) AS types from pokemon_types where pokemon_name = ? group by dex_num, pokemon_name;`).get(name.pokemon_name);
+        pokemon.push(temp);
+    }
+    p.moveInfo = moveInfo;
+    p.pokemon = pokemon;
+    console.log(p.moveInfo);
+    return p;
+}
+
+module.exports = { searchByType, searchByName, searchAbility, searchMove };

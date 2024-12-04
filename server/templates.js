@@ -127,7 +127,7 @@ function searchByNameHTML(searchQuery, pokemonName){
             <td><img src="images/types/${move.type_name.toLowerCase()}.png" alt="" class="type-img"></td>
             <td>${move.move_damage}</td>
             <td>${move.move_accuracy}</td>
-            <td>${move.move_category}</td>
+            <td><img src="images/move-categories/${move.move_category.toLowerCase()}.png" alt="" class="category-img"></td>
             <td>${move.move_effect}</td>
         </tr>
         `
@@ -304,4 +304,113 @@ function searchAbilityHTML(searchQuery, abilityName){
 </html>`
 }
 
-module.exports = { searchByTypeHTML, searchByNameHTML, searchAbilityHTML };
+function searchMoveHTML(searchQuery, moveName){
+    let moveTable = searchQuery.moveInfo.map(move => {
+        return `
+        <tr>
+        <td>${move.move_name}</td>
+        <td><img src="images/types/${move.type_name.toLowerCase()}.png" alt="" class="type-img"></td>
+        <td>${move.move_damage}</td>
+        <td>${move.move_accuracy}</td>
+        <td><img src="images/move-categories/${move.move_category.toLowerCase()}.png" alt="" class="category-img"></td>
+        <td>${move.move_effect}</td>
+        </tr>
+        `
+    }).join("");
+
+    let pokemonTable = searchQuery.pokemon.map(pokemon => {
+        const splitArray = pokemon.type.types.split("/");
+        if (splitArray.length === 1){
+            return `
+            <tr>
+            <td><a href="/pokemon?${pokemon.pokemonInfo.pokemon_name}" class="pokemon-name">${pokemon.pokemonInfo.pokemon_name}</a></td>
+            <td><img src="images/types/${splitArray[0].toLowerCase()}.png" alt="" class="type-img"></td>
+            <td><img src="images/pokemon-sprites/${pokemon.pokemonInfo.pokemon_name.toLowerCase()}.png" alt="" class="sprite-img"></td>
+            <td>${pokemon.pokemonInfo.pokemon_hp}</td>
+            <td>${pokemon.pokemonInfo.pokemon_attack}</td>
+            <td>${pokemon.pokemonInfo.pokemon_special_attack}</td>
+            <td>${pokemon.pokemonInfo.pokemon_defense}</td>
+            <td>${pokemon.pokemonInfo.pokemon_special_defense}</td>
+            <td>${pokemon.pokemonInfo.pokemon_speed}</td>
+            <td><form action="/add" method="POST"><button type="submit" name="add" value="Name">Add</button></form></td>
+            </tr>`
+        }
+        else{
+            return `
+            <tr>
+            <td><a href="/pokemon?${pokemon.pokemonInfo.pokemon_name}" class="pokemon-name">${pokemon.pokemonInfo.pokemon_name}</a></td>
+            <td><img src="images/types/${splitArray[0].toLowerCase()}.png" alt="" class="type-img"><img src="images/types/${splitArray[1].toLowerCase()}.png" alt="" class="type-img"></td>
+            <td><img src="images/pokemon-sprites/${pokemon.pokemonInfo.pokemon_name.toLowerCase()}.png" alt="" class="sprite-img"></td>
+            <td>${pokemon.pokemonInfo.pokemon_hp}</td>
+            <td>${pokemon.pokemonInfo.pokemon_attack}</td>
+            <td>${pokemon.pokemonInfo.pokemon_special_attack}</td>
+            <td>${pokemon.pokemonInfo.pokemon_defense}</td>
+            <td>${pokemon.pokemonInfo.pokemon_special_defense}</td>
+            <td>${pokemon.pokemonInfo.pokemon_speed}</td>
+            <td><form action="/add" method="POST"><button type="submit" name="add" value="Name">Add</button></form></td>
+            </tr>
+            `
+        }
+    }).join("");
+
+    return `
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moves</title>
+    <link rel="stylesheet" href="css/moves.css">
+</head>
+<body>
+    <div id="search-container">
+        <form action="/move" method="post">
+            <input type="text" placeholder="Search" name="search" id="search-bar" value="${moveName}">
+            <button type="submit" id="submit-button">Submit</button>
+        </form>
+    </div>
+    <div id="homepage-container">
+        <a href="/" id="homepage">Back to Home</a>
+    </div>
+    <h1>Move Information</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Move Name</th>
+                <th>Type</th>
+                <th>Damage</th>
+                <th>Accuracy</th>
+                <th>Category</th>
+                <th>Effect</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${moveTable}
+        </tbody>
+    </table>
+    <h1>List of Pokemon that can learn this move</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Pokemon Name</th>
+                <th>Types</th>
+                <th>Image</th>
+                <th>HP</th>
+                <th>Attack</th>
+                <th>Special Attack</th>
+                <th>Defense</th>
+                <th>Special Defense</th>
+                <th>Speed</th>
+                <th>Add</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${pokemonTable}
+        </tbody>
+    </table>
+</body>
+</html>
+`
+}
+
+module.exports = { searchByTypeHTML, searchByNameHTML, searchAbilityHTML, searchMoveHTML };
