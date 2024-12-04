@@ -55,6 +55,22 @@
     background-image: url(../images/pokeball.png);
 }
 
+.main-div-box:nth-child(8){
+    background-image: url(../images/pokeball.png);
+}
+
+.main-div-box:nth-child(9){
+    background-image: url(../images/pokeball.png);
+}
+
+.main-div-box:nth-child(10){
+    background-image: url(../images/pokeball.png);
+}
+
+.main-div-box:nth-child(11){
+    background-image: url(../images/pokeball.png);
+}
+
 .dark-overlay{
     position: absolute;
     top: 0;

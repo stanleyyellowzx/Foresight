@@ -320,7 +320,7 @@ INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_catego
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Grudge', 0, 'Ghost', 0, 'Status', 'If the users faints after using this move, the PP for the opponent''s last move is depleted.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Guard Split', 0, 'Psychic', 0, 'Status', 'Averages Defense and Special Defense with the target.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Guard Swap', 0, 'Psychic', 0, 'Status', 'User and opponent swap Defense and Special Defense.');
-INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Guardian of Alola', 0, 'Fairy', 0, 'Special', 'Tapu-exclusive Z-move. Cuts opponent''s HP by 75%.');
+INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Guardian Of Alola', 0, 'Fairy', 0, 'Special', 'Tapu-exclusive Z-move. Cuts opponent''s HP by 75%.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Guillotine', 0, 'Normal', 30, 'Physical', 'One-Hit-KO, if it hits.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Gunk Shot', 120, 'Poison', 80, 'Physical', 'May poison opponent.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Gust', 40, 'Flying', 100, 'Special', 'Hits Pokémon using Fly/Bounce/Sky Drop with double power.');
@@ -417,9 +417,9 @@ INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_catego
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Let''s Snuggle Forever', 190, 'Fairy', 0, 'Physical', 'Mimikyu-exclusive Z-Move.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Lick', 30, 'Ghost', 100, 'Physical', 'May paralyze opponent.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Life Dew', 0, 'Water', 0, 'Status', 'User and teammates recover HP.');
-INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Light of Ruin', 140, 'Fairy', 90, 'Special', 'User receives recoil damage.');
+INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Light Of Ruin', 140, 'Fairy', 90, 'Special', 'User receives recoil damage.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Light Screen', 0, 'Psychic', 0, 'Status', 'Halves damage from Special attacks for 5 turns.');
-INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Light That Burns the Sky', 200, 'Psychic', 0, 'Special', 'Ultra Necrozma-exclusive Z-Move. Ignores target''s ability; uses highest Attack stat.');
+INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Light That Burns The Sky', 200, 'Psychic', 0, 'Special', 'Ultra Necrozma-exclusive Z-Move. Ignores target''s ability; uses highest Attack stat.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Liquidation', 85, 'Water', 100, 'Physical', 'May lower opponent''s Defense.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Lock On', 0, 'Normal', 0, 'Status', 'User''s next attack is guaranteed to hit.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Lovely Kiss', 0, 'Normal', 75, 'Status', 'Puts opponent to sleep.');
@@ -606,7 +606,7 @@ INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_catego
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Revival Blessing', 0, 'Normal', 0, 'Status', 'Revives a fainted party Pokémon to half HP.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Rising Voltage', 70, 'Electric', 100, 'Special', 'Power doubles on Electric Terrain.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Roar', 0, 'Normal', 0, 'Status', 'In battles, the opponent switches. In the wild, the Pokémon runs.');
-INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Roar of Time', 150, 'Dragon', 90, 'Special', 'User must recharge next turn.');
+INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Roar Of Time', 150, 'Dragon', 90, 'Special', 'User must recharge next turn.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Rock Blast', 25, 'Rock', 90, 'Physical', 'Hits 2-5 times in one turn.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Rock Climb', 90, 'Normal', 85, 'Physical', 'May confuse opponent.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Rock Polish', 0, 'Rock', 0, 'Status', 'Sharply raises user''s Speed.');
@@ -813,7 +813,7 @@ INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_catego
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Tri Attack', 80, 'Normal', 100, 'Special', 'May paralyze, burn or freeze opponent.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Trick', 0, 'Psychic', 100, 'Status', 'Swaps held items with the opponent.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Trick Room', 0, 'Psychic', 0, 'Status', 'Slower Pokémon move first in the turn for 5 turns.');
-INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Trick or Treat', 0, 'Ghost', 100, 'Status', 'Adds Ghost type to opponent.');
+INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Trick Or Treat', 0, 'Ghost', 100, 'Status', 'Adds Ghost type to opponent.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Triple Arrows', 90, 'Fighting', 100, 'Physical', 'High critical hit ratio. May lower opponent''s Defense or cause them to flinch.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Triple Axel', 20, 'Ice', 90, 'Physical', 'Attacks thrice with more power each time.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Triple Dive', 30, 'Water', 95, 'Physical', 'Hits 3 times in a row.');
@@ -823,10 +823,10 @@ INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_catego
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Twin Beam', 40, 'Psychic', 100, 'Special', 'Hits twice in one turn.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Twineedle', 25, 'Bug', 100, 'Physical', 'Hits twice in one turn. May poison opponent.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Twister', 40, 'Dragon', 100, 'Special', 'May cause flinching. Hits Pokémon using Fly/Bounce with double power.');
-INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('U turn', 70, 'Bug', 100, 'Physical', 'User switches out immediately after attacking.');
+INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('U Turn', 70, 'Bug', 100, 'Physical', 'User switches out immediately after attacking.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Upper Hand', 65, 'Fighting', 100, 'Physical', 'Strikes before a target''s priority move.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Uproar', 90, 'Normal', 100, 'Special', 'User attacks for 3 turns and prevents sleep.');
-INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('V create', 180, 'Fire', 95, 'Physical', 'Lowers user''s Defense, Special Defense and Speed.');
+INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('V Create', 180, 'Fire', 95, 'Physical', 'Lowers user''s Defense, Special Defense and Speed.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Vacuum Wave', 40, 'Fighting', 100, 'Special', 'User attacks first.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Veevee Volley', 0, 'Normal', 101, 'Physical', 'Power increases when player''s bond is stronger.');
 INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('Venom Drench', 0, 'Poison', 100, 'Status', 'Lowers poisoned opponent''s Special Attack and Speed.');

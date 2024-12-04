@@ -109,7 +109,16 @@ function searchByNameHTML(searchQuery, pokemonName){
             <td><form action="/add" method="POST"><button type="submit" name="add" value="Name">Add</button></form></td>
         </tr>
         `
-    }).join();
+    }).join("");
+
+    let abilityTable = searchQuery.pokemonAbilities.map(ability => {
+        return `
+        <tr>
+        <td><a href="/ability?${ability.ability_name}" class="ability-name">${ability.ability_name}</a></td>
+        <td>${ability.ability_effect}</td>
+        </tr>
+        `
+    }).join("");
 
     let movesTable = searchQuery.pokemonMoves.map(move => {
         return `
@@ -162,6 +171,18 @@ function searchByNameHTML(searchQuery, pokemonName){
             ${pokemonTableData}
         </tbody>
     </table>
+    <h1>Abilities</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Ability Name</th>
+                <th>Effect</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${abilityTable}
+        </tbody>
+    </table>
     <h1>List of Moves</h1>
     <table>
         <thead>
@@ -182,4 +203,105 @@ function searchByNameHTML(searchQuery, pokemonName){
 </html>`
 }
 
-module.exports = { searchByTypeHTML, searchByNameHTML };
+function searchAbilityHTML(searchQuery, abilityName){
+    let abilityTable = searchQuery.abilityInfo.map(ability => {
+        return `
+        <tr>
+        <td>${ability.ability_name}</td>
+        <td>${ability.ability_effect}</td>
+        </tr>
+        `
+    }).join("");
+
+    let pokemonTable = searchQuery.pokemon.map(pokemon => {
+        const splitArray = pokemon.type.types.split("/");
+        if (splitArray.length === 1){
+            return `
+            <tr>
+            <td><a href="/pokemon?${pokemon.pokemonInfo.pokemon_name}" class="pokemon-name">${pokemon.pokemonInfo.pokemon_name}</a></td>
+            <td><img src="images/types/${splitArray[0].toLowerCase()}.png" alt="" class="type-img"></td>
+            <td><img src="images/pokemon-sprites/${pokemon.pokemonInfo.pokemon_name.toLowerCase()}.png" alt="" class="sprite-img"></td>
+            <td>${pokemon.pokemonInfo.pokemon_hp}</td>
+            <td>${pokemon.pokemonInfo.pokemon_attack}</td>
+            <td>${pokemon.pokemonInfo.pokemon_special_attack}</td>
+            <td>${pokemon.pokemonInfo.pokemon_defense}</td>
+            <td>${pokemon.pokemonInfo.pokemon_special_defense}</td>
+            <td>${pokemon.pokemonInfo.pokemon_speed}</td>
+            <td><form action="/add" method="POST"><button type="submit" name="add" value="Name">Add</button></form></td>
+            </tr>
+            `
+        }
+        else{
+            return `
+            <tr>
+            <td><a href="/pokemon?${pokemon.pokemonInfo.pokemon_name}" class="pokemon-name">${pokemon.pokemonInfo.pokemon_name}</a></td>
+            <td><img src="images/types/${splitArray[0].toLowerCase()}.png" alt="" class="type-img"><img src="images/types/${splitArray[1].toLowerCase()}.png" alt="" class="type-img"></td>
+            <td><img src="images/pokemon-sprites/${pokemon.pokemonInfo.pokemon_name.toLowerCase()}.png" alt="" class="sprite-img"></td>
+            <td>${pokemon.pokemonInfo.pokemon_hp}</td>
+            <td>${pokemon.pokemonInfo.pokemon_attack}</td>
+            <td>${pokemon.pokemonInfo.pokemon_special_attack}</td>
+            <td>${pokemon.pokemonInfo.pokemon_defense}</td>
+            <td>${pokemon.pokemonInfo.pokemon_special_defense}</td>
+            <td>${pokemon.pokemonInfo.pokemon_speed}</td>
+            <td><form action="/add" method="POST"><button type="submit" name="add" value="Name">Add</button></form></td>
+            </tr>
+            `
+        }
+    }).join("");
+
+    return `
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abilities</title>
+    <link rel="stylesheet" href="css/abilities.css">
+</head>
+<body>
+    <div id="search-container">
+        <form action="/ability" method="post">
+            <input type="text" placeholder="Search" name="search" id="search-bar" value="${abilityName}">
+            <button type="submit" id="submit-button">Submit</button>
+        </form>
+    </div>
+    <div id="homepage-container">
+        <a href="/" id="homepage">Back to Home</a>
+    </div>
+    <h1>Ability Info</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Ability Name</th>
+                <th>Effect</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${abilityTable}
+        </tbody>
+    </table>
+    <h1>Pokémon that can have this ability</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Pokemon Name</th>
+                <th>Types</th>
+                <th>Image</th>
+                <th>HP</th>
+                <th>Attack</th>
+                <th>Special Attack</th>
+                <th>Defense</th>
+                <th>Special Defense</th>
+                <th>Speed</th>
+                <th>Add</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${pokemonTable}
+        </tbody>
+    </table>
+</body>
+</html>`
+}
+
+module.exports = { searchByTypeHTML, searchByNameHTML, searchAbilityHTML };

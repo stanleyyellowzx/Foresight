@@ -2,6 +2,7 @@
 
 from bs4 import BeautifulSoup
 import requests
+import string
 
 url = "https://pokemondb.net/move/all"
 response = requests.get(url)
@@ -18,7 +19,7 @@ for row in soup.find('table', {'id' : 'moves'}).find("tbody").find_all("tr"):
     accuracy_tag = temp[1]
     effect_tag = row.find("td", class_="cell-long-text")
     if moves_tag and type_tag and category_tag and power_tag and accuracy_tag and effect_tag:
-        move_name = moves_tag.get_text(strip=True).replace("'", "''").replace("-", " ")
+        move_name = string.capwords(moves_tag.get_text(strip=True).replace("'", "''").replace("-", " "))
         type_name = type_tag.get_text(strip=True).replace("'", "''")
         move_category = category_tag['title'].replace("'", "''")
         move_damage = power_tag.get_text(strip=True).replace("'", "''").replace("—", "0")
@@ -31,4 +32,4 @@ f = open("./datatextfiles/moves.txt", "w", encoding="utf-8")
 for name, type, category, damage, accuracy, effect in moves:
     f.write(f"INSERT INTO moves (move_name, move_damage, type_name, move_accuracy, move_category, move_effect) VALUES ('{name}', {damage}, '{type}', {accuracy}, '{category}', '{effect}');\n")
 
-f.close()        
+f.close()

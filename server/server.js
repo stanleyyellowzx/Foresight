@@ -38,7 +38,7 @@ app.get("/pokemon", (req, res) => {
         const filteredName = formatString(pokemonName);
         const searchQuery = pokedb.searchByName(filteredName);
 
-        const page = templates.searchByNameHTML(searchQuery);
+        const page = templates.searchByNameHTML(searchQuery, pokemonName);
         res.send(page);
     }
     else{
@@ -52,6 +52,28 @@ app.post("/pokemon", (req, res) => {
     const searchQuery = pokedb.searchByName(filteredName);
     const page = templates.searchByNameHTML(searchQuery, pokemonName);
     res.send(page);
+});
+
+app.get("/ability", (req, res) => {
+    if (req.url.includes("?")){
+        const abilityName = req.url.split("?")[1].replaceAll("%20", " ");
+        const filteredName = formatString(abilityName);
+        const searchQuery = pokedb.searchAbility(filteredName);
+
+        const page = templates.searchAbilityHTML(searchQuery, abilityName);
+        res.send(page);
+    }
+    else{
+        res.sendFile(path.join(__dirname, "public", "abilities.html"));
+    }
+});
+
+app.post("/ability", (req, res) => {
+    const abilityName = req.body.search;
+    const filteredName = formatString(abilityName);
+    const searchQuery = pokedb.searchAbility(filteredName);
+    const page = templates.searchAbilityHTML(searchQuery, abilityName);
+    res.send(page);
 })
 
 app.listen(8000, () => {
@@ -59,5 +81,9 @@ app.listen(8000, () => {
 });
 
 function formatString(string){
-    return string.split(" ").map(word => string.slice(0, 1).toUpperCase() + string.slice(1).toLowerCase()).join(" ");
+    const splitArray = string.split(" ");
+    const capitalizedArray = splitArray.map(word => {
+        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+    });
+    return capitalizedArray.join(" ");
 }

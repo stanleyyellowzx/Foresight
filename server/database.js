@@ -25,14 +25,36 @@ function searchByName(name){
     const types = db.prepare(`SELECT STRING_AGG(type_name, '/' ORDER BY rowid) AS types from pokemon_types where pokemon_name = '${name}' group by dex_num, pokemon_name;`).all();
     const pokemonInfo = db.prepare(`SELECT * from pokemon where pokemon_name = '${name}';`).all();
     const pokemonMoveNames = db.prepare(`SELECT move_name from moves_list where pokemon_name = '${name}'`).all();
-    let pokemonMoves = []
+    const pokemonAbilityNames = db.prepare(`SELECT ability_name from pokemon_abilities where pokemon_name = '${name}'`).all();
+    let pokemonMoves = [];
+    let pokemonAbilities = [];
     for (const move of pokemonMoveNames){
         pokemonMoves.push(db.prepare(`SELECT * from moves where move_name = ?`).get(move.move_name));
+    }
+    for (const ability of pokemonAbilityNames){
+        pokemonAbilities.push(db.prepare(`SELECT * from abilities where ability_name = ?`).get(ability.ability_name));
     }
     p.types = types;
     p.pokemonInfo = pokemonInfo;
     p.pokemonMoves = pokemonMoves;
+    p.pokemonAbilities = pokemonAbilities;
     return p;
 }
 
-module.exports = { searchByType, searchByName }
+function searchAbility(abilityName){
+    let p = {};
+    const abilityInfo = db.prepare(`SELECT * from abilities where ability_name = '${abilityName}';`).all();
+    const pokemonWithAbility = db.prepare(`SELECT pokemon_name from pokemon_abilities where ability_name = '${abilityName}';`).all();
+    let pokemon = [];
+    for (const name of pokemonWithAbility){
+        let temp = {};
+        temp.pokemonInfo = db.prepare(`SELECT * from pokemon where pokemon_name = ?`).get(name.pokemon_name);
+        temp.type = db.prepare(`SELECT STRING_AGG(type_name, '/' ORDER BY rowid) AS types from pokemon_types where pokemon_name = ? group by dex_num, pokemon_name;`).get(name.pokemon_name);
+        pokemon.push(temp);
+    }
+    p.abilityInfo = abilityInfo;
+    p.pokemon = pokemon;
+    return p;
+}
+
+module.exports = { searchByType, searchByName, searchAbility }
