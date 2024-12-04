@@ -16,7 +16,6 @@ function searchByType(type){
     const stat = db.prepare(`SELECT * from pokemon where pokemon.pokemon_name in (select pokemon_name from pokemon_types where type_name = '${type}');`).all();
     p.types = types;
     p.stat = stat;
-    console.log(p);
     return p;
 }
 
@@ -70,8 +69,11 @@ function searchMove(moveName){
     }
     p.moveInfo = moveInfo;
     p.pokemon = pokemon;
-    console.log(p.moveInfo);
     return p;
 }
 
-module.exports = { searchByType, searchByName, searchAbility, searchMove };
+function typeMatchups(type){
+    return db.prepare(`SELECT * from type_chart where type_name = '${type}';`).all();
+}
+
+module.exports = { searchByType, searchByName, searchAbility, searchMove, typeMatchups };

@@ -20,15 +20,12 @@ app.post("/searchbytype", (req, res) => {
     const type = req.body.search;
     const filteredType = formatString(type);
     const searchQuery = pokedb.searchByType(filteredType);
-    console.log(searchQuery);
-
     const page = templates.searchByTypeHTML(searchQuery, type);
     res.send(page);
 });
 
 app.post("/add", (req, res) => {
     const test = req.body.add;
-    console.log(test);
     res.send("ADDED");
 });
 
@@ -36,7 +33,6 @@ app.get("/pokemon", (req, res) => {
     if (req.url.includes("?")){
         const pokemonName = req.url.split("?")[1].replaceAll("%20", " ");
         const searchQuery = pokedb.searchByName(pokemonName);
-
         const page = templates.searchByNameHTML(searchQuery, "");
         res.send(page);
     }
@@ -57,7 +53,6 @@ app.get("/ability", (req, res) => {
     if (req.url.includes("?")){
         const abilityName = req.url.split("?")[1].replaceAll("%20", " ");
         const searchQuery = pokedb.searchAbility(abilityName);
-
         const page = templates.searchAbilityHTML(searchQuery, "");
         res.send(page);
     }
@@ -78,14 +73,13 @@ app.get("/move", (req, res) => {
     if (req.url.includes("?")){
         const moveName = req.url.split("?")[1].replaceAll("%20", " ");
         const searchQuery = pokedb.searchMove(moveName);
-
         const page = templates.searchMoveHTML(searchQuery, "");
         res.send(page);
     }
     else{
         res.sendFile(path.join(__dirname, "public", "moves.html"));
     }
-})
+});
 
 app.post("/move", (req, res) => {
     const moveName = req.body.search;
@@ -93,7 +87,25 @@ app.post("/move", (req, res) => {
     const searchQuery = pokedb.searchMove(filteredName);
     const page = templates.searchMoveHTML(searchQuery, moveName);
     res.send(page);
-})
+});
+
+app.get("/typematchups", (req, res) => {
+    if (req.url.includes("?")){
+        const type = req.url.split("?")[1].replaceAll("%20", " ");
+        const searchQuery = pokedb.typeMatchups(type);
+        const page = templates.typeMatchupsHTML(searchQuery, "");
+        res.send(page);
+    }
+    res.sendFile(path.join(__dirname, "public", "typematchups.html"));
+});
+
+app.post("/typematchups", (req, res) => {
+    const type = req.body.search;
+    const filteredType = formatString(type);
+    const searchQuery = pokedb.typeMatchups(filteredType);
+    const page = templates.typeMatchupsHTML(searchQuery, type);
+    res.send(page);
+});
 
 app.listen(8000, () => {
     console.log("Listening on port 8000");
