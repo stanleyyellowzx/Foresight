@@ -1,3 +1,5 @@
+IMPORTANT: This project works, but many features are still unimplemented.
+
 Scraping data from sites:
 
 Moves: https://pokemondb.net/move/all Abilities: https://pokemondb.net/ability Items: https://www.serebii.net/itemdex/list/holditem.shtml Natures: https://www.serebii.net/games/natures.shtml
