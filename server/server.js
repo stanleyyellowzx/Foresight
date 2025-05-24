@@ -2,7 +2,6 @@ const express = require("express");
 const app = express();
 const path = require("path");
 const templates = require("./templates.js");
-const pokedb = require("./database.js");
 
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
@@ -16,10 +15,25 @@ app.get("/searchbytype", (req, res) => {
     res.sendFile(path.join(__dirname, "public", "searchbytype.html"));
 });
 
-app.post("/searchbytype", (req, res) => {
+app.post("/searchbytype", async (req, res) => {
     const type = req.body.search;
-    const filteredType = formatString(type);
-    const searchQuery = pokedb.searchByType(filteredType);
+    let searchQuery;
+
+    try{
+        const response = await fetch(`http://localhost:8001/searchbytype/${type}`)
+
+        if (!response.ok){
+            throw new Error("Could not fetch resource");
+        }
+
+        console.log("FETCH COMPLETED");
+
+        searchQuery = await response.json();
+    }
+    catch(error){
+        console.error(error);
+    }
+
     const page = templates.searchByTypeHTML(searchQuery, type);
     res.send(page);
 });
@@ -29,10 +43,25 @@ app.post("/add", (req, res) => {
     res.send("ADDED");
 });
 
-app.get("/pokemon", (req, res) => {
+app.get("/pokemon", async (req, res) => {
     if (req.url.includes("?")){
         const pokemonName = req.url.split("?")[1].replaceAll("%20", " ");
-        const searchQuery = pokedb.searchByName(pokemonName);
+        let searchQuery;
+        
+        try{
+        const response = await fetch(`http://localhost:8001/pokemon/${pokemonName}`)
+
+        if (!response.ok){
+            throw new Error("Could not fetch resource");
+        }
+
+        console.log("FETCH COMPLETED");
+
+        searchQuery = await response.json();
+        }
+        catch(error){
+            console.error(error);
+        }
         const page = templates.searchByNameHTML(searchQuery, "");
         res.send(page);
     }
@@ -41,18 +70,45 @@ app.get("/pokemon", (req, res) => {
     }
 });
 
-app.post("/pokemon", (req, res) => {
+app.post("/pokemon", async (req, res) => {
     const pokemonName = req.body.search;
-    const filteredName = formatString(pokemonName);
-    const searchQuery = pokedb.searchByName(filteredName);
+    let searchQuery;
+    try{
+        const response = await fetch(`http://localhost:8001/pokemon/${pokemonName}`)
+
+        if (!response.ok){
+            throw new Error("Could not fetch resource");
+        }
+
+        console.log("FETCH COMPLETED");
+
+        searchQuery = await response.json();
+    }
+    catch(error){
+        console.error(error);
+    }
     const page = templates.searchByNameHTML(searchQuery, pokemonName);
     res.send(page);
 });
 
-app.get("/ability", (req, res) => {
+app.get("/ability", async (req, res) => {
     if (req.url.includes("?")){
         const abilityName = req.url.split("?")[1].replaceAll("%20", " ");
-        const searchQuery = pokedb.searchAbility(abilityName);
+        let searchQuery;
+        try{
+            const response = await fetch(`http://localhost:8001/ability/${abilityName}`)
+
+            if (!response.ok){
+                throw new Error("Could not fetch resource");
+            }
+
+            console.log("FETCH COMPLETED");
+
+            searchQuery = await response.json();
+        }
+        catch(error){
+            console.error(error);
+        }
         const page = templates.searchAbilityHTML(searchQuery, "");
         res.send(page);
     }
@@ -61,18 +117,44 @@ app.get("/ability", (req, res) => {
     }
 });
 
-app.post("/ability", (req, res) => {
+app.post("/ability", async (req, res) => {
     const abilityName = req.body.search;
-    const filteredName = formatString(abilityName);
-    const searchQuery = pokedb.searchAbility(filteredName);
+    try{
+        const response = await fetch(`http://localhost:8001/ability/${abilityName}`)
+
+        if (!response.ok){
+            throw new Error("Could not fetch resource");
+        }
+
+        console.log("FETCH COMPLETED");
+
+        searchQuery = await response.json();
+        }
+    catch(error){
+        console.error(error);
+    }
     const page = templates.searchAbilityHTML(searchQuery, abilityName);
     res.send(page);
 })
 
-app.get("/move", (req, res) => {
+app.get("/move", async (req, res) => {
     if (req.url.includes("?")){
         const moveName = req.url.split("?")[1].replaceAll("%20", " ");
-        const searchQuery = pokedb.searchMove(moveName);
+        let searchQuery;
+        try{
+            const response = await fetch(`http://localhost:8001/move/${moveName}`)
+
+            if (!response.ok){
+                throw new Error("Could not fetch resource");
+            }
+
+            console.log("FETCH COMPLETED");
+
+            searchQuery = await response.json();
+        }
+        catch(error){
+            console.error(error);
+        }
         const page = templates.searchMoveHTML(searchQuery, "");
         res.send(page);
     }
@@ -81,18 +163,45 @@ app.get("/move", (req, res) => {
     }
 });
 
-app.post("/move", (req, res) => {
+app.post("/move", async (req, res) => {
     const moveName = req.body.search;
-    const filteredName = formatString(moveName);
-    const searchQuery = pokedb.searchMove(filteredName);
+    let searchQuery;
+    try{
+        const response = await fetch(`http://localhost:8001/move/${moveName}`)
+
+        if (!response.ok){
+            throw new Error("Could not fetch resource");
+        }
+
+        console.log("FETCH COMPLETED");
+
+        searchQuery = await response.json();
+        }
+    catch(error){
+        console.error(error);
+    }
     const page = templates.searchMoveHTML(searchQuery, moveName);
     res.send(page);
 });
 
-app.get("/typematchups", (req, res) => {
+app.get("/typematchups", async (req, res) => {
     if (req.url.includes("?")){
         const type = req.url.split("?")[1].replaceAll("%20", " ");
-        const searchQuery = pokedb.typeMatchups(type);
+        let searchQuery;
+        try{
+            const response = await fetch(`http://localhost:8001/typematchups/${type}`)
+
+            if (!response.ok){
+                throw new Error("Could not fetch resource");
+            }
+
+            console.log("FETCH COMPLETED");
+
+            searchQuery = await response.json();
+        }
+        catch(error){
+            console.error(error);
+        }
         const page = templates.typeMatchupsHTML(searchQuery, "");
         res.send(page);
     }
@@ -101,10 +210,23 @@ app.get("/typematchups", (req, res) => {
     }
 });
 
-app.post("/typematchups", (req, res) => {
+app.post("/typematchups", async (req, res) => {
     const type = req.body.search;
-    const filteredType = formatString(type);
-    const searchQuery = pokedb.typeMatchups(filteredType);
+    let searchQuery;
+    try{
+            const response = await fetch(`http://localhost:8001/typematchups/${type}`)
+
+            if (!response.ok){
+                throw new Error("Could not fetch resource");
+            }
+
+            console.log("FETCH COMPLETED");
+
+            searchQuery = await response.json();
+        }
+        catch(error){
+            console.error(error);
+        }
     const page = templates.typeMatchupsHTML(searchQuery, type);
     res.send(page);
 });
@@ -112,11 +234,3 @@ app.post("/typematchups", (req, res) => {
 app.listen(8000, () => {
     console.log("Listening on port 8000");
 });
-
-function formatString(string){
-    const splitArray = string.split(" ");
-    const capitalizedArray = splitArray.map(word => {
-        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
-    });
-    return capitalizedArray.join(" ");
-}
