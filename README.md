@@ -23,4 +23,5 @@ inside of dataparsingtools:
 npm install axios
 
 to run, first cd into api directory and use npm run dev
+
 then, cd into server directory and use npm run dev
