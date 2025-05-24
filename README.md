@@ -22,4 +22,5 @@ npm install better-sqlite3 (you may need to install other things like nodegyp)
 inside of dataparsingtools:
 npm install axios
 
-to run, use npm run dev
+to run, first cd into api directory and use npm run dev
+then, cd into server directory and use npm run dev
