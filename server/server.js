@@ -2,6 +2,11 @@ const express = require("express");
 const app = express();
 const path = require("path");
 const templates = require("./templates.js");
+const dotenv = require("dotenv")
+dotenv.config();
+
+const port = process.env.PORT || 8000
+const api_port = process.env.API_PORT || 8001
 
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
@@ -20,7 +25,7 @@ app.post("/searchbytype", async (req, res) => {
     let searchQuery;
 
     try{
-        const response = await fetch(`http://localhost:8001/searchbytype/${type}`)
+        const response = await fetch(`http://localhost:${api_port}/searchbytype/${type}`)
 
         if (!response.ok){
             throw new Error("Could not fetch resource");
@@ -49,7 +54,7 @@ app.get("/pokemon", async (req, res) => {
         let searchQuery;
         
         try{
-        const response = await fetch(`http://localhost:8001/pokemon/${pokemonName}`)
+        const response = await fetch(`http://localhost:${api_port}/pokemon/${pokemonName}`)
 
         if (!response.ok){
             throw new Error("Could not fetch resource");
@@ -74,7 +79,7 @@ app.post("/pokemon", async (req, res) => {
     const pokemonName = req.body.search;
     let searchQuery;
     try{
-        const response = await fetch(`http://localhost:8001/pokemon/${pokemonName}`)
+        const response = await fetch(`http://localhost:${api_port}/pokemon/${pokemonName}`)
 
         if (!response.ok){
             throw new Error("Could not fetch resource");
@@ -96,7 +101,7 @@ app.get("/ability", async (req, res) => {
         const abilityName = req.url.split("?")[1].replaceAll("%20", " ");
         let searchQuery;
         try{
-            const response = await fetch(`http://localhost:8001/ability/${abilityName}`)
+            const response = await fetch(`http://localhost:${api_port}/ability/${abilityName}`)
 
             if (!response.ok){
                 throw new Error("Could not fetch resource");
@@ -120,7 +125,7 @@ app.get("/ability", async (req, res) => {
 app.post("/ability", async (req, res) => {
     const abilityName = req.body.search;
     try{
-        const response = await fetch(`http://localhost:8001/ability/${abilityName}`)
+        const response = await fetch(`http://localhost:${api_port}/ability/${abilityName}`)
 
         if (!response.ok){
             throw new Error("Could not fetch resource");
@@ -142,7 +147,7 @@ app.get("/move", async (req, res) => {
         const moveName = req.url.split("?")[1].replaceAll("%20", " ");
         let searchQuery;
         try{
-            const response = await fetch(`http://localhost:8001/move/${moveName}`)
+            const response = await fetch(`http://localhost:${api_port}/move/${moveName}`)
 
             if (!response.ok){
                 throw new Error("Could not fetch resource");
@@ -167,7 +172,7 @@ app.post("/move", async (req, res) => {
     const moveName = req.body.search;
     let searchQuery;
     try{
-        const response = await fetch(`http://localhost:8001/move/${moveName}`)
+        const response = await fetch(`http://localhost:${api_port}/move/${moveName}`)
 
         if (!response.ok){
             throw new Error("Could not fetch resource");
@@ -189,7 +194,7 @@ app.get("/typematchups", async (req, res) => {
         const type = req.url.split("?")[1].replaceAll("%20", " ");
         let searchQuery;
         try{
-            const response = await fetch(`http://localhost:8001/typematchups/${type}`)
+            const response = await fetch(`http://localhost:${api_port}/typematchups/${type}`)
 
             if (!response.ok){
                 throw new Error("Could not fetch resource");
@@ -214,7 +219,7 @@ app.post("/typematchups", async (req, res) => {
     const type = req.body.search;
     let searchQuery;
     try{
-            const response = await fetch(`http://localhost:8001/typematchups/${type}`)
+            const response = await fetch(`http://localhost:${api_port}/typematchups/${type}`)
 
             if (!response.ok){
                 throw new Error("Could not fetch resource");
@@ -231,6 +236,6 @@ app.post("/typematchups", async (req, res) => {
     res.send(page);
 });
 
-app.listen(8000, () => {
-    console.log("Listening on port 8000");
+app.listen(port, () => {
+    console.log(`Listening on port ${port}`);
 });

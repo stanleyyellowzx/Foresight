@@ -1,6 +1,11 @@
 const express = require("express");
 const app = express();
 const pokedb = require("./database.js");
+const dotenv = require("dotenv")
+dotenv.config();
+
+const port = process.env.PORT || 8001
+
 app.use(express.json());
 
 
@@ -39,8 +44,8 @@ app.get('/typematchups/:type', (req, res) => {
     res.json(searchQuery);
 })
 
-app.listen(8001, () => {
-    console.log("listening on port 8001");
+app.listen(port, () => {
+    console.log(`listening on port ${port}`);
 })
 
 function formatString(string){

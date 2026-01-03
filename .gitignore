@@ -1,3 +1,5 @@
 api/node_modules
 dataparsingtools/node_modules
 server/node_modules
+server/.env
+api/.env
