@@ -14,13 +14,11 @@ libraries used (javascript):
 
 better-sqlite3, express, nodemon, axios
 
-to install dependencies, inside of server directory:
-npm install express
-npm install --save-dev nodemon
-npm install better-sqlite3 (you may need to install other things like nodegyp)
+to install dependencies, run the following command inside of api, dataparsingtools, and api directory:
+npm install
 
-inside of dataparsingtools:
-npm install axios
+you will need a .env file inside of server and api directories with the correct variables to properly run the program
+see the attached example .env files to setup your .env file
 
 to run, first cd into api directory and use npm run dev
 
