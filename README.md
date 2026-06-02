@@ -22,4 +22,4 @@ see the attached example .env files to setup your .env file
 
 to run, first cd into api directory and use npm run dev
 
-then, cd into server directory and use npm run dev
+then, cd into client directory and use npm run dev
